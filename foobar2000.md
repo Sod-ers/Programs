@@ -1,10 +1,14 @@
-| Resources:                                                                                               |
+
+```table-of-contents
+```
+### Resources:
+| Resource:                                                                                                |
 | -------------------------------------------------------------------------------------------------------- |
 | [My foobar2000 Configurations](https://drive.google.com/drive/folders/1n4Eag9hu1wwvdgxLzX2sVRkIFSXgFMUC) |
 | [VU Meter Skins Collection](https://audio-file.org/foobar2000-vu-meter-skins-gallery/)                   |
 | [Icon Collection](https://audio-file.org/2020/01/29/foobar2000-icons-icon-sets/)                         |
-
-| Themes:                                                                                       |
+### Themes:
+| Theme:                                                                                        |
 | --------------------------------------------------------------------------------------------- |
 | [CaTRoX (QWR Edition)](https://theqwertiest.github.io/CaTRoX_QWR/)                            |
 | [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN)                                 |
@@ -16,7 +20,7 @@
 | [NekoRoX](https://github.com/catlinman/foobar2000)                                            |
 | [null2000](https://null-src.com/store/listings/null2000/product.php)                          |
 | [Theme Collection](https://audio-file.org/foobar2000-cui-dui-themes/)                         |
-
+### Sort Patterns:
 | Pattern:                 | Query Pattern:                                                                              | Sort Pattern: (enable Force-sorted)                                        |
 | ------------------------ | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | Favorites                | %rating% PRESENT AND %rating% IS 5                                                          | %ALBUM ARTIST% - %DATE% - %ALBUM% - %DISCNUMBER% - %TRACKNUMBER% - %TITLE% |
@@ -32,13 +36,13 @@
 | Auto Playlists           |                                                                                             | %filename%                                                                 |
 | Radio                    | %path% HAS Z:\Radio\ SORT DESCENDING BY %added%                                             |                                                                            |
 | Archived Songs           | %path% HAS Z:\Songs-Archived\                                                               | %ALBUM ARTIST% - %DATE% - %ALBUM% - %DISCNUMBER% - %TRACKNUMBER% - %TITLE% |
-
+### Notable Files:
 | File:                | Directory:                                                                                 |
 | -------------------- | ------------------------------------------------------------------------------------------ |
 | Visualizer color     | ..\profile\configuration\foo_ui_columns.dll.cfg                                            |
 | Menu accent color    | ..\profile\foo_spider_monkey_panel\packages\{28AC1EBE-9010-459E-8886-8FFDC8705716}\main.js |
 | Volume & title color | ..\profile\configuration\foo_osd.dll.cfg                                                   |
-
+### Components:
 | Components:                                                                                                         | Description:                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Component Collection](https://audio-file.org/foobar2000-list-of-components/)                                       |                                                                                                                                                                             |
