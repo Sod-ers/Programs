@@ -50,4 +50,4 @@
 | Resource:                                                                                 | Description:                                                   |
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | [OBS-PYTHON](https://github.com/Mushiiies/OBS-PYTHON)                                     | A portable version of Python for ease of use with OBS scripts. |
-| [obs-shaderfilter](https://github.com/exeldro/obs-shaderfilter/tree/master/data/examples) | Shaders.                                                       |
+| [obs-shaderfilter](https://github.com/exeldro/obs-shaderfilter/tree/master/data/examples) | Shader collection.                                             |
