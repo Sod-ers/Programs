@@ -2,17 +2,17 @@
 ```table-of-contents
 ```
 ### Packages:
-| Package:                                                                                                   |
-| ---------------------------------------------------------------------------------------------------------- |
-| [dizzy](https://packages.debian.org/sid/dizzy)                                                             |
-| [libgle3](https://packages.debian.org/sid/libgle3)                                                         |
-| [libjpeg62-turbo](https://packages.debian.org/sid/libjpeg62-turbo)                                         |
-| [Unicode-screensaver](https://packages.debian.org/sid/unicode-screensaver)                                 |
-| [Xscreensaver](https://packages.debian.org/unstable/x11/xscreensaver)                                      |
-| [Xscreensaver-data](https://packages.debian.org/sid/xscreensaver-data)                                     |
-| [Xscreensaver-data-extra](https://packages.debian.org/sid/xscreensaver-data-extra)                         |
-| [Xscreensaver-gl](https://packages.debian.org/sid/xscreensaver-gl)                                         |
-| [Xscreensaver-gl-extra](https://packages.debian.org/sid/xscreensaver-gl-extra)                             |
-| [Xscreensaver-screensaver-bsod](https://packages.debian.org/sid/xscreensaver-screensaver-bsod)             |
-| [Xscreensaver-screensaver-dizzy](https://packages.debian.org/sid/xscreensaver-screensaver-dizzy)           |
-| [Xscreensaver-screensaver-webcollage](https://packages.debian.org/sid/xscreensaver-screensaver-webcollage) |
+| Package:                                                                                                   | Description:                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [dizzy](https://packages.debian.org/sid/dizzy)                                                             | A dependency for packages below.                                                                                                                                                          |
+| [libgle3](https://packages.debian.org/sid/libgle3)                                                         | A dependency for packages below.                                                                                                                                                          |
+| [libjpeg62-turbo](https://packages.debian.org/sid/libjpeg62-turbo)                                         | A dependency for packages below.                                                                                                                                                          |
+| [Unicode-screensaver](https://packages.debian.org/sid/unicode-screensaver)                                 | A simple screensaver application that repeatedly randomly picks an unicode character & displays it in a very large font size together with its unicode code point and the character name. |
+| [Xscreensaver](https://packages.debian.org/unstable/x11/xscreensaver)                                      | Includes the bare minimum needed to blank & lock your screen.                                                                                                                             |
+| [Xscreensaver-data](https://packages.debian.org/sid/xscreensaver-data)                                     | Contains a small selection of graphical screen saver modules from the xscreensaver collection.                                                                                            |
+| [Xscreensaver-data-extra](https://packages.debian.org/sid/xscreensaver-data-extra)                         | Contains the rest of the 2D screen saver modules from the xscreensaver collection.                                                                                                        |
+| [Xscreensaver-gl](https://packages.debian.org/sid/xscreensaver-gl)                                         | Contains a small selection of 3D (OpenGL) screen saver modules from the xscreensaver collection.                                                                                          |
+| [Xscreensaver-gl-extra](https://packages.debian.org/sid/xscreensaver-gl-extra)                             | Contains the rest of the 3D (OpenGL) screen saver modules from the xscreensaver collection.                                                                                               |
+| [Xscreensaver-screensaver-bsod](https://packages.debian.org/sid/xscreensaver-screensaver-bsod)             | Ships the mode BSOD that shows the popular Blue Screens of Death from several OSes.                                                                                                       |
+| [Xscreensaver-screensaver-dizzy](https://packages.debian.org/sid/xscreensaver-screensaver-dizzy)           | This package integrates dizzy with XScreenSaver, but it cannot be done automatically.                                                                                                     |
+| [Xscreensaver-screensaver-webcollage](https://packages.debian.org/sid/xscreensaver-screensaver-webcollage) | Ships the mode webcollage which displays images from random web searches on the Internet.                                                                                                 |
