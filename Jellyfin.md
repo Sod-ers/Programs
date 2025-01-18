@@ -13,6 +13,5 @@
 | Resource:                                                                | Description:                                            |
 | ------------------------------------------------------------------------ | ------------------------------------------------------- |
 | [Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) | A collection of awesome Jellyfin projects.              |
-| [Jellyfin Forums](https://forum.jellyfin.org/)                           | Forums.                                                 |
 | [Servarr Installation Script](https://wiki.servarr.com/install-script)   | Script to handle installation of servarr apps on Linux. |
 | [TraSH-Guides](https://trash-guides.info/)                               | Guides to configure servarr apps.                       |
