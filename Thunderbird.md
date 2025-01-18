@@ -2,31 +2,31 @@
 ```table-of-contents
 ```
 ### Add-ons:
-| Add-on:                                                                                                        |
-| -------------------------------------------------------------------------------------------------------------- |
-| [✨ Awesome Emoji Picker ✨](https://addons.thunderbird.net/en-US/thunderbird/addon/awesome-emoji-picker/)       |
-| [Check and Send](https://addons.thunderbird.net/en-us/thunderbird/addon/check-and-send/)                       |
-| [Clippings](https://addons.thunderbird.net/en-US/thunderbird/addon/clippings-tb/)                              |
-| [ConfirmBeforeDelete](https://addons.thunderbird.net/en-US/thunderbird/addon/confirmbeforedelete/)             |
-| [Dark Reader](https://addons.thunderbird.net/en-US/thunderbird/addon/darkreader/)                              |
-| [Display Mail User Agent T](https://addons.thunderbird.net/en-US/thunderbird/addon/display-mail-user-agent-t/) |
-| [Emoji](https://addons.thunderbird.net/en-US/thunderbird/addon/emojiaddin/)                                    |
-| [Identity Chooser](https://addons.thunderbird.net/en-US/thunderbird/addon/identity-chooser/)                   |
-| [InsertSignature](https://addons.thunderbird.net/en-US/thunderbird/addon/insertsignature/)                     |
-| [KeepRunning](https://addons.thunderbird.net/en-US/thunderbird/addon/keeprunning/)                             |
-| [LanguageTool](https://addons.thunderbird.net/en-US/thunderbird/addon/grammar-and-spell-checker/)              |
-| [Minimize on Close](https://addons.thunderbird.net/en-US/thunderbird/addon/minimize-on-close/)                 |
-| [Minimize on startup](https://addons.thunderbird.net/en-US/thunderbird/addon/minimize-on-startup/)             |
-| [Profile Switcher](https://addons.thunderbird.net/en-US/thunderbird/addon/profile-switcher/)                   |
-| [Quicktext](https://addons.thunderbird.net/en-US/thunderbird/addon/quicktext/)                                 |
-| [Restart Button](https://addons.thunderbird.net/en-US/thunderbird/addon/restart-button/)                       |
-| [Rspamd-spamness](https://addons.thunderbird.net/en-US/thunderbird/addon/rspamd-spamness/)                     |
-| [Search Button](https://addons.thunderbird.net/en-US/thunderbird/addon/search-button/)                         |
-| [Send Later](https://addons.thunderbird.net/en-US/thunderbird/addon/send-later-3/)                             |
-| [Signature Switch](https://addons.thunderbird.net/en-US/thunderbird/addon/signature-switch/)                   |
-| [SmartTemplates](https://addons.thunderbird.net/en-US/thunderbird/addon/quicktext/)                            |
-| [Start with Inbox](https://addons.thunderbird.net/en-US/thunderbird/addon/start-with-inbox/)                   |
-| [Textmarker](https://addons.thunderbird.net/en-US/thunderbird/addon/textmarker/)                               |
-| [ThirdStats](https://addons.thunderbird.net/en-US/thunderbird/addon/thirdstats/)                               |
-| [Unsubscribe](https://addons.thunderbird.net/en-US/thunderbird/addon/unsub/)                                   |
-| [WarnAttachment](https://addons.thunderbird.net/en-US/thunderbird/addon/warnattachment/)                       |
+| Add-on:                                                                                                        | Description:                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| [✨ Awesome Emoji Picker ✨](https://addons.thunderbird.net/en-US/thunderbird/addon/awesome-emoji-picker/)       | Modern, nice emoji picker.                                                                                                           |
+| [Check and Send](https://addons.thunderbird.net/en-us/thunderbird/addon/check-and-send/)                       | Check the message contents & addresses before you send the message.                                                                  |
+| [Clippings](https://addons.thunderbird.net/en-US/thunderbird/addon/clippings-tb/)                              | Save frequently-entered text for pasting later.                                                                                      |
+| [ConfirmBeforeDelete](https://addons.thunderbird.net/en-US/thunderbird/addon/confirmbeforedelete/)             | Ask a confirm before to delete some items.                                                                                           |
+| [Dark Reader](https://addons.thunderbird.net/en-US/thunderbird/addon/darkreader/)                              | Dark mode for every email.                                                                                                           |
+| [Display Mail User Agent T](https://addons.thunderbird.net/en-US/thunderbird/addon/display-mail-user-agent-t/) | Displays the mail program with which the selected mail was written.                                                                  |
+| [Emoji](https://addons.thunderbird.net/en-US/thunderbird/addon/emojiaddin/)                                    | Add emojis to your e-mails.                                                                                                          |
+| [Identity Chooser](https://addons.thunderbird.net/en-US/thunderbird/addon/identity-chooser/)                   | Helps you always use the correct identity when composing a new email.                                                                |
+| [InsertSignature](https://addons.thunderbird.net/en-US/thunderbird/addon/insertsignature/)                     | Helps you insert usually used text by your customization.                                                                            |
+| [KeepRunning](https://addons.thunderbird.net/en-US/thunderbird/addon/keeprunning/)                             | Keeps Thunderbird active in the background.                                                                                          |
+| [LanguageTool](https://addons.thunderbird.net/en-US/thunderbird/addon/grammar-and-spell-checker/)              | Check your emails for spelling & grammar issues.                                                                                     |
+| [Minimize on Close](https://addons.thunderbird.net/en-US/thunderbird/addon/minimize-on-close/)                 | Causes Thunderbird's main window to minimize instead of closing. You can still close Thunderbird through the menu.                   |
+| [Minimize on startup](https://addons.thunderbird.net/en-US/thunderbird/addon/minimize-on-startup/)             | Minimize thunderbird window on startup.                                                                                              |
+| [Profile Switcher](https://addons.thunderbird.net/en-US/thunderbird/addon/profile-switcher/)                   | Adds options to launch other profiles.                                                                                               |
+| [Quicktext](https://addons.thunderbird.net/en-US/thunderbird/addon/quicktext/)                                 | Lets you create templates that can be easily inserted into your own emails.                                                          |
+| [Restart Button](https://addons.thunderbird.net/en-US/thunderbird/addon/restart-button/)                       | Adds a Restart Button, restarts Thunderbird.                                                                                         |
+| [Rspamd-spamness](https://addons.thunderbird.net/en-US/thunderbird/addon/rspamd-spamness/)                     | Rspamd spam filtering system score visualization.                                                                                    |
+| [Search Button](https://addons.thunderbird.net/en-US/thunderbird/addon/search-button/)                         | Toolbar button to invoke message search dialog window.                                                                               |
+| [Send Later](https://addons.thunderbird.net/en-US/thunderbird/addon/send-later-3/)                             | True "Send Later" functionality to schedule the time for sending an email.                                                           |
+| [Signature Switch](https://addons.thunderbird.net/en-US/thunderbird/addon/signature-switch/)                   | Switch the signature on/off or choose a new one from your predefined set.                                                            |
+| [SmartTemplates](https://addons.thunderbird.net/en-US/thunderbird/addon/smarttemplate4/)                       | Automatically create customized replies by auto-inserting various mail headers.                                                      |
+| [Start with Inbox](https://addons.thunderbird.net/en-US/thunderbird/addon/start-with-inbox/)                   | Selects the latest message in the Inbox after start of Thunderbird.                                                                  |
+| [Textmarker](https://addons.thunderbird.net/en-US/thunderbird/addon/textmarker/)                               | Highlights selected text when composing emails.                                                                                      |
+| [ThirdStats](https://addons.thunderbird.net/en-US/thunderbird/addon/thirdstats/)                               | Beautifully visualized statistics.                                                                                                   |
+| [Unsubscribe](https://addons.thunderbird.net/en-US/thunderbird/addon/unsub/)                                   | Lightweight solution to simplify unsubscribing from newsletters                                                                      |
+| [WarnAttachment](https://addons.thunderbird.net/en-US/thunderbird/addon/warnattachment/)                       | Shows an additional dialog to confirm potentially dangerous attachments. Some attachments, like executables, are completely blocked. |
