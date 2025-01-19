@@ -7,7 +7,7 @@
 | [Advanced Alt-Tab Window Switcher](https://extensions.gnome.org/extension/4412/advanced-alttab-window-switcher/) | Highly customizable replacement for Alt/Super+Tab window/app switchers.                             |
 | [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)                                      | Adds a blur look to different parts of the Shell.                                                   |
 | [Burn My Windows](https://extensions.gnome.org/extension/4679/burn-my-windows/)                                  | Disintegrate your windows with style.                                                               |
-| [Caffeine](https://extensions.gnome.org/extension/517/caffeine/)                                                 | Disable the screensaver & auto suspend                                                              |
+| [Caffeine](https://extensions.gnome.org/extension/517/caffeine/)                                                 | Disable the screensaver & auto suspend.                                                             |
 | [Lockscreen Extension](https://extensions.gnome.org/extension/7472/lockscreen-extension/)                        | Customize the lockscreen from the lockscreen itself.                                                |
 | [Customize Clock on Lock Screen](https://extensions.gnome.org/extension/4663/customize-clock-on-lock-screen/)    | Customize clock on lock screen.                                                                     |
 | [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)                                         | A dock for the Shell.                                                                               |

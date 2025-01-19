@@ -99,3 +99,32 @@
 | [Web Archives](https://addons.mozilla.org/firefox/addon/view-page-archive/)                                         | View archived & cached versions of web pages on various search engines.                                                                                                                                |
 | [Window Resizer](https://addons.mozilla.org/en-US/firefox/addon/window-resizer-webextension/)                       | Easily set the layout (size & position) of your browser window.                                                                                                                                        |
 | [YouTube Redux](https://addons.mozilla.org/en-US/firefox/addon/youtube-redux/)                                      | Replicate old YouTube look & features within the modern layout.                                                                                                                                        |
+### Themes:
+| Theme:                                                                                                    |
+| --------------------------------------------------------------------------------------------------------- |
+| [Aura Theme](https://addons.mozilla.org/en-US/firefox/addon/aura-theme/)                                  |
+| [Blue](https://addons.mozilla.org/en-US/firefox/addon/blueblueblueblueblue/)                              |
+| [Blueprint](https://addons.mozilla.org/en-US/firefox/addon/light-blueprint/)                              |
+| [Dark Purple](https://addons.mozilla.org/en-US/firefox/addon/dark-purple/)                                |
+| [Dark Theme Inspired by macOS](https://addons.mozilla.org/en/firefox/addon/dark-theme-inspired-by-macos/) |
+| [Dracula](https://addons.mozilla.org/en-US/firefox/addon/dracula-dark/)                                   |
+| [DuckDuckGo](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo/)                                  |
+| [Electric Night](https://addons.mozilla.org/en-US/firefox/addon/electric-night-by-justeasing/)            |
+| [Gruvbox](https://addons.mozilla.org/en-US/firefox/addon/gruvboxgruvboxgruvboxgruvboxgr/)                 |
+| [Light Dracula](https://addons.mozilla.org/en-US/firefox/addon/light-dracula/)                            |
+| [macOS Dark](https://addons.mozilla.org/en-US/firefox/addon/macos-dark/)                                  |
+| [Matte Black (Red)](https://addons.mozilla.org/en-US/firefox/addon/matte-black-red/)                      |
+| [Modern Theme](https://addons.mozilla.org/en-US/firefox/addon/moderntheme/)                               |
+| [Modern Theme Green](https://addons.mozilla.org/en-US/firefox/addon/modernthemegreen/)                    |
+| [Moon and Earth](https://addons.mozilla.org/en-US/firefox/addon/moon-and-earth/)                          |
+| [Painter's Tape Light Blue](https://addons.mozilla.org/en-US/firefox/addon/painter-s-tape-light-blue/)    |
+| [Reddit (Dark)](https://addons.mozilla.org/en-US/firefox/addon/reddit-dark/)                              |
+| [Retro Themes Collection](https://github.com/matthewmx86/RetroThemesFirefox)                              |
+| [Shades of Purple](https://addons.mozilla.org/en-US/firefox/addon/shades-of-purple-milav/)                |
+| [Shades of Purple-Redux](https://addons.mozilla.org/en-US/firefox/addon/shades-of-purple-redux/)          |
+| [Tokyo Night](https://addons.mozilla.org/en-US/firefox/addon/tokyo-night-milav/)                          |
+| [Tokyo Night](https://addons.mozilla.org/en-US/firefox/addon/tokyo-night-milav/)                          |
+| [tokyonight](https://addons.mozilla.org/en-US/firefox/addon/tokyonight/)                                  |
+| [Trully Dracula](https://addons.mozilla.org/en-US/firefox/addon/trully-dracula/)                          |
+| [Weeds](https://addons.mozilla.org/en-US/firefox/addon/weeds/)                                            |
+| [YellowBlackSober](https://addons.mozilla.org/en-US/firefox/addon/yellowblacksober/)                      |

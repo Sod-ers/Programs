@@ -23,7 +23,7 @@
 | [OBS-Command](https://obsproject.com/forum/resources/obs-command.1616/)                                        | Run commands from custom OBS hotkeys.                                                                                                                |
 | [OBS-Cycle](https://obsproject.com/forum/resources/obs-cycle.1613/)                                            | Allows a hotkey to trigger a step through the scenes at a configurable interval.                                                                     |
 | [obs-filter-hotkeys](https://obsproject.com/forum/resources/obs-filter-hotkeys.1125/)                          | Toggle filters with hotkeys.                                                                                                                         |
-| [OBS-Hue](https://obsproject.com/forum/resources/obs-hue.1617/)                                                | Control settings on your hue lights from custom obs hotkeys                                                                                          |
+| [OBS-Hue](https://obsproject.com/forum/resources/obs-hue.1617/)                                                | Control settings on your hue lights from custom obs hotkeys.                                                                                         |
 | [obs-lua](https://github.com/exeldro/obs-lua)                                                                  | Script collection.                                                                                                                                   |
 | [obs-pulseaudio-app-capture](https://obsproject.com/forum/resources/obs-pulseaudio-app-capture.1436/)          | Capture audio from specific applications except for systems that use PulseAudio as their main sound server.                                          |
 | [OBS-Zoom-To-Mouse](https://github.com/BlankSourceCode/obs-zoom-to-mouse)                                      | Zoom a display-capture source to focus on the mouse.                                                                                                 |
@@ -51,3 +51,7 @@
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | [OBS-PYTHON](https://github.com/Mushiiies/OBS-PYTHON)                                     | A portable version of Python for ease of use with OBS scripts. |
 | [obs-shaderfilter](https://github.com/exeldro/obs-shaderfilter/tree/master/data/examples) | Shader collection.                                             |
+### Themes:
+| Theme:                                                                    |
+| ------------------------------------------------------------------------- |
+| [Yami Resized](https://obsproject.com/forum/resources/yami-resized.1611/) |

@@ -30,3 +30,7 @@
 | [ThirdStats](https://addons.thunderbird.net/en-US/thunderbird/addon/thirdstats/)                               | Beautifully visualized statistics.                                                                                                   |
 | [Unsubscribe](https://addons.thunderbird.net/en-US/thunderbird/addon/unsub/)                                   | Lightweight solution to simplify unsubscribing from newsletters.                                                                     |
 | [WarnAttachment](https://addons.thunderbird.net/en-US/thunderbird/addon/warnattachment/)                       | Shows an additional dialog to confirm potentially dangerous attachments. Some attachments, like executables, are completely blocked. |
+### Themes:
+| Theme:                                            |
+| ------------------------------------------------- |
+| [Dracula](https://github.com/dracula/thunderbird) |
