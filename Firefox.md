@@ -123,7 +123,6 @@
 | [Shades of Purple](https://addons.mozilla.org/en-US/firefox/addon/shades-of-purple-milav/)                |
 | [Shades of Purple-Redux](https://addons.mozilla.org/en-US/firefox/addon/shades-of-purple-redux/)          |
 | [Tokyo Night](https://addons.mozilla.org/en-US/firefox/addon/tokyo-night-milav/)                          |
-| [Tokyo Night](https://addons.mozilla.org/en-US/firefox/addon/tokyo-night-milav/)                          |
 | [tokyonight](https://addons.mozilla.org/en-US/firefox/addon/tokyonight/)                                  |
 | [Trully Dracula](https://addons.mozilla.org/en-US/firefox/addon/trully-dracula/)                          |
 | [Weeds](https://addons.mozilla.org/en-US/firefox/addon/weeds/)                                            |

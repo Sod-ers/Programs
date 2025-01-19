@@ -13,6 +13,7 @@
 | Cursor               | [Apple Cursor](https://github.com/ful1e5/apple_cursor)                                                             |
 | Cursor               | [Capitaine cursors](https://github.com/keeferrourke/capitaine-cursors)                                             |
 | Cursor               | [Windows 11 Dark](http://www.rw-designer.com/cursor-set/windows-11-dark-theme)                                     |
+| Cursor               | [Whitesur cursors](https://github.com/vinceliuice/WhiteSur-cursors)                                                |
 | Discord              | [Dracula](https://github.com/slowstab/dracula)                                                                     |
 | EverythingToolbar    | [Dracula](https://github.com/dracula/everythingtoolbar)                                                            |
 | FreeCAD              | [Dracula](https://github.com/dracula/freecad)                                                                      |
@@ -22,6 +23,8 @@
 | Grub Bootloader      | [Collection](https://github.com/jacksaur/Gorgeous-GRUB)                                                            |
 | GTK                  | [Dracula](https://www.gnome-look.org/p/1687249)                                                                    |
 | GTK                  | [Dracula](https://github.com/dracula/gtk)                                                                          |
+| GTK                  | [Colloid](https://github.com/vinceliuice/Colloid-gtk-theme)                                                        |
+| Icons                | [Colloid](https://github.com/vinceliuice/Colloid-icon-theme)                                                       |
 | Illustrator Swatches | [Dracula](https://github.com/dracula/adobe)                                                                        |
 | Image Glass          | [Dark](https://imageglass.org/theme/default-dark-maatarashiii-46)                                                  |
 | Image Glass Icons    | [Resolute Bay icon set (H-one Design)](https://imageglass.org/extension-icon/resolute-bay-icon-set-h-one-design-3) |
