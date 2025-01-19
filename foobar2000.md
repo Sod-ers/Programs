@@ -33,9 +33,8 @@
 | Played Often (Albums)    | %path% HAS Z:\Albums\ AND %play_count% GREATER 10 SORT DESCENDING BY %play_count%           |                                                                            |
 | 3-4 Stars                | %rating% PRESENT AND %rating% GREATER 2 AND %rating% LESS 5                                 | %ALBUM ARTIST% - %DATE% - %ALBUM% - %DISCNUMBER% - %TRACKNUMBER% - %TITLE% |
 | First Listen             | %path% HAS "Z:\First Listen\"                                                               | %ALBUM ARTIST% - %DATE% - %ALBUM% - %DISCNUMBER% - %TRACKNUMBER% - %TITLE% |
-| Auto Playlists           |                                                                                             | %filename%                                                                 |
+| Playlists                |                                                                                             | %filename%                                                                 |
 | Radio                    | %path% HAS Z:\Radio\ SORT DESCENDING BY %added%                                             |                                                                            |
-| Archived Songs           | %path% HAS Z:\Songs-Archived\                                                               | %ALBUM ARTIST% - %DATE% - %ALBUM% - %DISCNUMBER% - %TRACKNUMBER% - %TITLE% |
 ### Notable Files:
 | File:                | Directory:                                                                                 |
 | -------------------- | ------------------------------------------------------------------------------------------ |
