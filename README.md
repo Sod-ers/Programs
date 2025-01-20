@@ -7,6 +7,7 @@
 | [Appearance](https://github.com/Sod-ers/Programs?tab=readme-ov-file#appearance)    |
 | [Browsers](https://github.com/Sod-ers/Programs?tab=readme-ov-file#browsers)        |
 | [Diagnostics](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagnostics)  |
+| [Finances](https://github.com/Sod-ers/Programs?tab=readme-ov-file#finances)        |
 | [Time & Tasks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#time--tasks) |
 | [Tweaks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)            |
 ________________________________________________________
@@ -62,6 +63,12 @@ ________________________________________________________
 | [Samsung Magician](https://semiconductor.samsung.com/consumer-storage/magician/)              | Utilities for Samsung disks.                                                                                                                                                                            | Windows        | ✓      |
 | [TestDisk](https://www.cgsecurity.org/wiki/TestDisk)                                          | Recovers lost partitions &/or make non-booting disks bootable again.                                                                                                                                    | Cross-platform | ✓      |
 | [WizTree](https://diskanalyzer.com/)                                                          | Disk space analyzer.                                                                                                                                                                                    | Windows        | ✓      |
+### Finances:
+| Program:                                             | Description:                                                                               | Platform:      | Free?: |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------- | ------ |
+| [Denaro](https://github.com/NickvisionApps/Denaro)   | Manage your personal finances.                                                             | Linux          | ✓      |
+| [Eqonomize!](https://github.com/Eqonomize/Eqonomize) | Personal accounting software, with focus on efficiency & ease of use for small households. | Cross-platform | ✓      |
+| [Valuta](https://github.com/ideveCore/valuta)        | Convert currencies with ease.                                                              | Linux          | ✓      |
 ### Time & Tasks:
 | Program:                                                    | Description:                                                          | Platform:      | Free?: |
 | ----------------------------------------------------------- | --------------------------------------------------------------------- | -------------- | ------ |
