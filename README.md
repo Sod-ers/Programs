@@ -7,6 +7,7 @@
 | [Appearance](https://github.com/Sod-ers/Programs?tab=readme-ov-file#appearance)   |
 | [Browsers](https://github.com/Sod-ers/Programs?tab=readme-ov-file#browsers)       |
 | [Diagnostics](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagnostics) |
+| [Time & Tasks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)     |
 | [Tweaks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)           |
 ________________________________________________________
 ### Appearance:
@@ -61,6 +62,18 @@ ________________________________________________________
 | [Samsung Magician](https://semiconductor.samsung.com/consumer-storage/magician/)              | Utilities for Samsung disks.                                                                                                                                                                            | Windows        | ✓      |
 | [TestDisk](https://www.cgsecurity.org/wiki/TestDisk)                                          | Recovers lost partitions &/or make non-booting disks bootable again.                                                                                                                                    | Cross-platform | ✓      |
 | [WizTree](https://diskanalyzer.com/)                                                          | Disk space analyzer.                                                                                                                                                                                    | Windows        | ✓      |
+### Time & Tasks:
+| Program:                                                    | Description:                                                          | Platform:      | Free?: |
+| ----------------------------------------------------------- | --------------------------------------------------------------------- | -------------- | ------ |
+| [Clocks](https://apps.gnome.org/Clocks/)                    | World clocks, alarms, a stopwatch, & timers.                          | Linux          | ✓      |
+| [Dali Clock](https://www.jwz.org/xdaliclock/)               | A digital clock. When a digit changes, it "melts" into its new shape. | Linux          | ✓      |
+| [Endeavour](https://flathub.org/apps/org.gnome.Todo)        | Task management designed for simplicity.                              | Linux          | ✓      |
+| [Furtherance](https://github.com/unobserved-io/Furtherance) | Track time spent on different activities.                             | Cross-platform | ✓      |
+| [KShutdown](https://kshutdown.sourceforge.io/)              | Allows you to turn off or suspend a computer at a specified time.     | Cross-platform | ✓      |
+| [KTimer](https://apps.kde.org/ktimer/)                      | Execute programs after some time.                                     | Linux          | ✓      |
+| [Retro](https://github.com/sonnyp/Retro)                    | A customizable retro digital segment clock.                           | Linux          | ✓      |
+| [Time Switch](https://github.com/fsobolev/timeswitch)       | Set a task to run after a timer.                                      | Linux          | ✓      |
+| [WeKan](https://wekan.github.io/)                           | Kanban workflow task manager.                                         | Cross-platform | ✓      |
 ### Tweaks:
 | Program:                                                                                   | Description:                                                                                                                                                                         | Platform: | Free?: |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------ |
