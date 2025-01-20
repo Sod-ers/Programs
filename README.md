@@ -5,17 +5,19 @@
 | Chapter:                                                                                           |
 | -------------------------------------------------------------------------------------------------- |
 | [Appearance](https://github.com/Sod-ers/Programs?tab=readme-ov-file#appearance)                    |
+| [Audio Visualizers](https://github.com/Sod-ers/Programs?tab=readme-ov-file#audio-visualizers)      |
 | [Backup & Restoration](https://github.com/Sod-ers/Programs?tab=readme-ov-file#backup--restoration) |
 | [Browsers](https://github.com/Sod-ers/Programs?tab=readme-ov-file#browsers)                        |
 | [CD & DVD](https://github.com/Sod-ers/Programs?tab=readme-ov-file#cd--dvd)                         |
 | [Colors](https://github.com/Sod-ers/Programs?tab=readme-ov-file#colors)                            |
 | [Diagnostics](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagnostics)                  |
 | [Finances](https://github.com/Sod-ers/Programs?tab=readme-ov-file#finances)                        |
+| [Gaming](https://github.com/Sod-ers/Programs?tab=readme-ov-file#gaming)                            |
 | [Metadata](https://github.com/Sod-ers/Programs?tab=readme-ov-file#metadata)                        |
 | [Time & Tasks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#time--tasks)                 |
 | [Tweaks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)                            |
 | [USB](https://github.com/Sod-ers/Programs?tab=readme-ov-file#usb)                                  |
-| [White Noise](https://github.com/Sod-ers/Programs?tab=readme-ov-file#whitenoise)                   |
+| [White Noise](https://github.com/Sod-ers/Programs?tab=readme-ov-file#white-noise)                  |
 ________________________________________________________
 ### Appearance:
 | Program:                                                                                    | Description:                                                                                                  | Platform:      | Free?: |
@@ -30,6 +32,16 @@ ________________________________________________________
 | [Spicetify](https://github.com/spicetify/cli)                                               | Customize the official Spotify client.                                                                        | Cross-platform | ✓      |
 | [StartAllBack](https://www.startallback.com/)                                               | Customize Windows UI & enhances dark mode.                                                                    | Windows        | ✗      |
 | [XScreenSaver](https://www.jwz.org/xscreensaver/)                                           | Screensavers for X11.                                                                                         | Linux          | ✓      |
+### Audio Visualizers:
+| Program:                                                            | Description:                                                                     | Platform:      | Free?: |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------- | ------ |
+| [AudMeS](https://sourceforge.net/projects/audmes/)                  | Measure audio using the sound card.                                              | Cross-platform | ✓      |
+| [Cava](https://github.com/karlstav/cava)                            | **C**ross-platform **A**udio **V**isu**a**lizer                                  | Cross-platform | ✓      |
+| [Cavalier](https://github.com/NickvisionApps/Cavalier)              | Visualize audio with CAVA.                                                       | Linux          | ✓      |
+| [Cavasik](https://github.com/TheWisker/Cavasik)                     | Audio visualizer based on CAVA.                                                  | Linux          | ✓      |
+| [projectM](https://github.com/projectM-visualizer/projectm)         | Advanced music visualizer.                                                       | Cross-platform | ✓      |
+| [Sonic Visualiser](https://www.sonicvisualiser.org/)                | Configurable detailed visualisation, analysis, & annotation of audio recordings. | Cross-platform | ✓      |
+| [VZX Player](https://store.steampowered.com/app/981590/VZX_Player/) | Generates awesome audio reactive graphics in real time from any audio source.    | Windows        | ✓      |
 ### Backup & Restoration:
 | Program:                                                                                     | Description:                                                                                                                                                                                                                | Platform:          | Free?: |
 | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------ |
@@ -121,6 +133,10 @@ ________________________________________________________
 | [Denaro](https://github.com/NickvisionApps/Denaro)   | Manage your personal finances.                                                             | Linux          | ✓      |
 | [Eqonomize!](https://github.com/Eqonomize/Eqonomize) | Personal accounting software, with focus on efficiency & ease of use for small households. | Cross-platform | ✓      |
 | [Valuta](https://github.com/ideveCore/valuta)        | Convert currencies with ease.                                                              | Linux          | ✓      |
+### Gaming:
+| Program: | Description: | Platform: | Free?: |
+| -------- | ------------ | --------- | ------ |
+|          |              |           | ✓      |
 ### Metadata:
 | Program:                                                                          | Description:                                                                                                                                        | Platform:      | Free?: |
 | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
