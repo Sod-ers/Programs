@@ -2,13 +2,13 @@
 ```table-of-contents
 ```
 ### Table of Contents:
-| Chapter:                                                                          |
-| --------------------------------------------------------------------------------- |
-| [Appearance](https://github.com/Sod-ers/Programs?tab=readme-ov-file#appearance)   |
-| [Browsers](https://github.com/Sod-ers/Programs?tab=readme-ov-file#browsers)       |
-| [Diagnostics](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagnostics) |
-| [Time & Tasks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)     |
-| [Tweaks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)           |
+| Chapter:                                                                           |
+| ---------------------------------------------------------------------------------- |
+| [Appearance](https://github.com/Sod-ers/Programs?tab=readme-ov-file#appearance)    |
+| [Browsers](https://github.com/Sod-ers/Programs?tab=readme-ov-file#browsers)        |
+| [Diagnostics](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagnostics)  |
+| [Time & Tasks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#time--tasks) |
+| [Tweaks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)            |
 ________________________________________________________
 ### Appearance:
 | Program:                                                                                    | Description:                                                                                                  | Platform:      | Free?: |
