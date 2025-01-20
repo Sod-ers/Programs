@@ -6,11 +6,12 @@
 | ---------------------------------------------------------------------------------- |
 | [Appearance](https://github.com/Sod-ers/Programs?tab=readme-ov-file#appearance)    |
 | [Browsers](https://github.com/Sod-ers/Programs?tab=readme-ov-file#browsers)        |
+| [CD & DVD](https://github.com/Sod-ers/Programs?tab=readme-ov-file#CD--DVD)         |
+| [Colors](https://github.com/Sod-ers/Programs?tab=readme-ov-file#colors)            |
 | [Diagnostics](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagnostics)  |
 | [Finances](https://github.com/Sod-ers/Programs?tab=readme-ov-file#finances)        |
 | [Time & Tasks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#time--tasks) |
 | [Tweaks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)            |
-| [Colors](https://github.com/Sod-ers/Programs?tab=readme-ov-file#colors)            |
 ________________________________________________________
 ### Appearance:
 | Program:                                                                                    | Description:                                                                                                  | Platform:      | Free?: |
@@ -35,6 +36,13 @@ ________________________________________________________
 | [Thorium](https://github.com/Alex313031/thorium)                               | Performance focused Chromium fork.                                       | Cross-platform | ✓      |
 | [Tor](https://www.torproject.org/)                                             | Private browsing without tracking, surveillance, or censorship.          | Cross-platform | ✓      |
 | [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | A lightweight approach to removing Google web service dependency.        | Cross-platform | ✓      |
+### CD & DVD:
+| Program:                                                       | Description:                                          | Platform: | Free?: |
+| -------------------------------------------------------------- | ----------------------------------------------------- | --------- | ------ |
+| [Brasero](https://flathub.org/apps/org.gnome.Brasero)          | Create, copy & burn data & audio to CD/DVDs.          | Linux     | ✓      |
+| [Sound Juicer](https://flathub.org/apps/org.gnome.SoundJuicer) | Extract the audio from CDs & convert them into files. | Linux     | ✓      |
+| [Xfburn](https://docs.xfce.org/apps/xfburn/start)              | CD-burner for XFCE.                                   | Linux     | ✓      |
+
 ### Colors:
 | Program:                                                       | Description:                                                                                                            | Platform: | Free?: |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------- | ------ |
