@@ -4,9 +4,23 @@
 ### Table of Contents:
 | Chapter:                                                                          |
 | --------------------------------------------------------------------------------- |
+| [Appearance](https://github.com/Sod-ers/Programs?tab=readme-ov-file#appearance)   |
 | [Diagnostics](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagnostics) |
 | [Tweaks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)           |
 ________________________________________________________
+### Appearance:
+| Program:                                                                                    | Description:                                                                                                  | Platform:      | Free?: |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
+| [CSSLoader](https://github.com/DeckThemes/CSSLoader-Desktop)                                | Inject custom styles into Steam's interfaces.                                                                 | Cross-platform | ✓      |
+| [Damask](https://gitlab.gnome.org/subpop/damask)                                            | Automatically set wallpaper images by selecting images from a variety of sources.                             | Linux          | ✓      |
+| [Dark Reader for Safari](https://apps.apple.com/us/app/dark-reader-for-safari/id1438243180) | Dark mode for every website.                                                                                  | iOS            | ✗      |
+| [Mica For Everyone](https://github.com/MicaForEveryone/MicaForEveryone)                     | Enable backdrop effects on the title bars of Win32 apps on Windows 11.                                        | Windows        | ✓      |
+| [Rainmeter](https://www.rainmeter.net/)                                                     | Display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. | Windows        | ✓      |
+| [RetroBar](https://github.com/dremin/RetroBar)                                              | Replaces the modern Windows taskbar with the classic Windows 95, 98, Me, 2000, XP, or Vista style.            | Windows        | ✓      |
+| [SFP](https://github.com/PhantomGamers/SFP)                                                 | Apply skins to the modern Steam client.                                                                       | Cross-platform | ✓      |
+| [Spicetify](https://github.com/spicetify/cli)                                               | Customize the official Spotify client.                                                                        | Cross-platform | ✓      |
+| [StartAllBack](https://www.startallback.com/)                                               | Customize Windows UI & enhances dark mode.                                                                    | Windows        | ✗      |
+| [XScreenSaver](https://www.jwz.org/xscreensaver/)                                           | Screensavers for X11.                                                                                         | Linux          | ✓      |
 ### Diagnostics:
 | Program:                                                                                      | Description:                                                                                                                                                                                            | Platform:      | Free?: |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
@@ -49,7 +63,6 @@ ________________________________________________________
 | [Linutil](https://github.com/ChrisTitusTech/linutil)                                                      | Distro-agnostic toolbox designed to simplify everyday Linux tasks.                                                                                                                   | Linux     | ✓      |
 | [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)                | Windows & Office activator.                                                                                                                                                          | Windows   | ✓      |
 | [PolicyPlus](https://github.com/Fleex255/PolicyPlus)                                                      | Local Group Policy Editor.                                                                                                                                                           | Windows   | ✓      |
-| [Registry Replace Tool](https://www.softpedia.com/get/Tweak/Registry-Tweak/Replace-Registry-Values.shtml) | Find & replace registry entries without navigating the Registry Editor.                                                                                                              | Windows   | ✓      |
 | [Revo Uninstaller](https://www.revouninstaller.com/)                                                      | Remove unwanted programs & invalid Registry entries easily.                                                                                                                          | Windows   | ✓      |
 | [ShellMenuView](https://www.nirsoft.net/utils/shell_menu_view.html)                                       | Displays the list of static menu items that appeared in the context menu when you right-click a file/folder on Windows Explorer, & allows you to easily disable unwanted menu items. | Windows   | ✓      |
 | [Slimbook Battery](https://github.com/Slimbook-Team/slimbookbattery)                                      | Optimize your laptop's battery.                                                                                                                                                      | Linux     | ✓      |
