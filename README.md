@@ -1,12 +1,21 @@
 
 ```table-of-contents
 ```
+## Table of Contents:
+| Chapter:                                                                          |
+| --------------------------------------------------------------------------------- |
+| [Diagnostics](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagnostics) |
+| [Tweaks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)           |
+### Diagnostics:
+| Program:                                                                      | Description:                                               | Platform(s): | Free?: |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------ | ------ |
+| [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) | Shows which programs are configured to run during startup. | Windows      | ✓      |
+|                                                                               |                                                            |              |        |
 ### Tweaks:
 | Program:                                                                                                  | Description:                                                                                                                                                                         | Platform(s): | Free?: |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | ------ |
 | [Alacarte](https://github.com/GNOME/alacarte)                                                             | Menu editor for GNOME.                                                                                                                                                               | Linux        | ✓      |
 | [AutoLogon](https://learn.microsoft.com/en-us/sysinternals/downloads/autologon)                           | Automatically login to Windows.                                                                                                                                                      | Windows      | ✓      |
-| [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)                             | Shows which programs are configured to run during startup.                                                                                                                           | Windows      | ✓      |
 | [DiskGenius](https://www.diskgenius.com/)                                                                 | Disk partition management & data recovery.                                                                                                                                           | Windows      | ✓      |
 | [Everything for PowerToys Run](https://github.com/lin-ycv/EverythingPowerToys)                            | Adds the ability to search the computer for files & folders using [Everything](https://www.voidtools.com/) inside PTR.                                                               | Windows      | ✓      |
 | [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)                                             | Aims to enhance the working environment on Windows.                                                                                                                                  | Windows      | ✓      |
