@@ -1,16 +1,16 @@
 
 ```table-of-contents
 ```
-## Table of Contents:
+### Table of Contents:
 | Chapter:                                                                          |
 | --------------------------------------------------------------------------------- |
 | [Diagnostics](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagnostics) |
 | [Tweaks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)           |
 ### Diagnostics:
-| Program:                                                                      | Description:                                               | Platform(s): | Free?: |
-| ----------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------ | ------ |
-| [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) | Shows which programs are configured to run during startup. | Windows      | ✓      |
-|                                                                               |                                                            |              |        |
+| Program:                                                                      | Description:                                               | Platform(s):     | Free?: |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------- | ------ |
+| [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) | Shows which programs are configured to run during startup. | Windows          | ✓      |
+| [cinebench](https://www.maxon.net/en/cinebench)                               | Evaluate your computer's hardware capabilities.            | Windows<br>macOS | ✓      |
 ### Tweaks:
 | Program:                                                                                                  | Description:                                                                                                                                                                         | Platform(s): | Free?: |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | ------ |
