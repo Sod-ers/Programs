@@ -10,6 +10,7 @@
 | [Finances](https://github.com/Sod-ers/Programs?tab=readme-ov-file#finances)        |
 | [Time & Tasks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#time--tasks) |
 | [Tweaks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)            |
+| [Colors](https://github.com/Sod-ers/Programs?tab=readme-ov-file#colors)            |
 ________________________________________________________
 ### Appearance:
 | Program:                                                                                    | Description:                                                                                                  | Platform:      | Free?: |
@@ -34,6 +35,17 @@ ________________________________________________________
 | [Thorium](https://github.com/Alex313031/thorium)                               | Performance focused Chromium fork.                                       | Cross-platform | ✓      |
 | [Tor](https://www.torproject.org/)                                             | Private browsing without tracking, surveillance, or censorship.          | Cross-platform | ✓      |
 | [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | A lightweight approach to removing Google web service dependency.        | Cross-platform | ✓      |
+### Colors:
+| Program:                                                       | Description:                                                                                                            | Platform: | Free?: |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------- | ------ |
+| [ColorPicker](https://github.com/keshavbhatt/ColorPicker)      | Screen color picker/chooser.                                                                                            | Linux     | ✓      |
+| [Contrast](https://flathub.org/apps/org.gnome.design.Contrast) | Checks whether the contrast between two colors meet the WCAG requirements.                                              | Linux     | ✓      |
+| [Coulr](https://github.com/Huluti/Coulr)                       | Color box to help developers & designers.                                                                               | Linux     | ✓      |
+| [Eyedropper](https://github.com/FineFindus/eyedropper)         | Pick & format colors.                                                                                                   | Linux     | ✓      |
+| [Gpick](https://github.com/thezbyg/gpick)                      | Advanced color picker.                                                                                                  | Linux     | ✓      |
+| [KColorChooser](https://apps.kde.org/kcolorchooser/)           | A color palette tool, used to mix colors & create custom color palettes. Includes a screen color picker.                | Linux     | ✓      |
+| [Kontrast](https://github.com/KDE/kontrast)                    | A color contrast checker & tells you if your color combinations are accessible for people with color vision defiencies. | Linux     | ✓      |
+| [Paleta](https://github.com/nate-xyz/paleta)                   | Extract the dominant colors from any image.                                                                             | Linux     | ✓      |
 ### Diagnostics:
 | Program:                                                                                      | Description:                                                                                                                                                                                            | Platform:      | Free?: |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
