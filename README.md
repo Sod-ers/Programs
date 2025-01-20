@@ -2,18 +2,19 @@
 ```table-of-contents
 ```
 ### Table of Contents:
-| Chapter:                                                                           |
-| ---------------------------------------------------------------------------------- |
-| [Appearance](https://github.com/Sod-ers/Programs?tab=readme-ov-file#appearance)    |
-| [Browsers](https://github.com/Sod-ers/Programs?tab=readme-ov-file#browsers)        |
-| [CD & DVD](https://github.com/Sod-ers/Programs?tab=readme-ov-file#CD--DVD)         |
-| [Colors](https://github.com/Sod-ers/Programs?tab=readme-ov-file#colors)            |
-| [Diagnostics](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagnostics)  |
-| [Finances](https://github.com/Sod-ers/Programs?tab=readme-ov-file#finances)        |
-| [Metadata](https://github.com/Sod-ers/Programs?tab=readme-ov-file#metadata)        |
-| [Time & Tasks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#time--tasks) |
-| [Tweaks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)            |
-| [USB](https://github.com/Sod-ers/Programs?tab=readme-ov-file#usb)                  |
+| Chapter:                                                                                           |
+| -------------------------------------------------------------------------------------------------- |
+| [Appearance](https://github.com/Sod-ers/Programs?tab=readme-ov-file#appearance)                    |
+| [Backup & Restoration](https://github.com/Sod-ers/Programs?tab=readme-ov-file#backup--restoration) |
+| [Browsers](https://github.com/Sod-ers/Programs?tab=readme-ov-file#browsers)                        |
+| [CD & DVD](https://github.com/Sod-ers/Programs?tab=readme-ov-file#cd--dvd)                         |
+| [Colors](https://github.com/Sod-ers/Programs?tab=readme-ov-file#colors)                            |
+| [Diagnostics](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagnostics)                  |
+| [Finances](https://github.com/Sod-ers/Programs?tab=readme-ov-file#finances)                        |
+| [Metadata](https://github.com/Sod-ers/Programs?tab=readme-ov-file#metadata)                        |
+| [Time & Tasks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#time--tasks)                 |
+| [Tweaks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)                            |
+| [USB](https://github.com/Sod-ers/Programs?tab=readme-ov-file#usb)                                  |
 ________________________________________________________
 ### Appearance:
 | Program:                                                                                    | Description:                                                                                                  | Platform:      | Free?: |
@@ -28,6 +29,32 @@ ________________________________________________________
 | [Spicetify](https://github.com/spicetify/cli)                                               | Customize the official Spotify client.                                                                        | Cross-platform | ✓      |
 | [StartAllBack](https://www.startallback.com/)                                               | Customize Windows UI & enhances dark mode.                                                                    | Windows        | ✗      |
 | [XScreenSaver](https://www.jwz.org/xscreensaver/)                                           | Screensavers for X11.                                                                                         | Linux          | ✓      |
+### Backup & Restoration:
+| Program:                                                                                     | Description:                                                                                                                                                                                                               | Platform:          | Free?: |
+| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------ |
+| [Clonezilla](https://clonezilla.org/)                                                        | Partition management & disk imaging/cloning with a focus on system deployment, bare metal backup & recovery.                                                                                                               | Cross-platform     | ✓      |
+| [Déjà Dup](https://apps.gnome.org/DejaDup/)                                                  | Backup tool focused on ease of use & recovery from personal, accidental data loss. Not for system backups.                                                                                                                 | Linux              | ✓      |
+| [Duplicati](https://duplicati.com/)                                                          | Stores securely encrypted backups in the cloud.                                                                                                                                                                            | Cross-platform     | ✓      |
+| [FreeFileSync](https://freefilesync.org/)                                                    | Folder comparison & synchronization that creates & manages backup copies of all your important files. Determines the differences between a source & a target folder & transfers only the minimum amount of data needed.    | Cross-platform     | ✓      |
+| [Hiren’s BootCD PE](https://www.hirensbootcd.org/)                                           | Portable bootable Windows loaded with tools to address various computer-related problems.                                                                                                                                  | Windows            | ✓      |
+| [Kopia](https://github.com/kopia/kopia/)                                                     | Fast, incremental backups, client-side end-to-end encryption, compression & data deduplication. CLI & GUI included.                                                                                                        | Cross-platform     | ✓      |
+| [Macrium Reflect](https://www.macrium.com/)                                                  | Disk imaging & backup utility.                                                                                                                                                                                             | Windows            | ✗      |
+| [Medicat USB](https://medicatusb.com/)                                                       | Toolkit that helps compile a selection of the latest computer diagnostic & recovery tools into an easy to use toolkit.                                                                                                     | Cross-platform     | ✓      |
+| [Nextcloud](https://nextcloud.com/)                                                          | Provides functionality similar to [Dropbox](https://en.wikipedia.org/wiki/Dropbox_(service) "Dropbox (service)") or [Google Drive](https://en.wikipedia.org/wiki/Google_Drive)& can be hosted in the cloud or on-premises. | Cross-platform     | ✓      |
+| [ownCloud](https://owncloud.com/)                                                            | Content collaboration, file-sharing & file-syncing.                                                                                                                                                                        | Cross-platform     | ✓      |
+| [Photorec](https://www.cgsecurity.org/wiki/PhotoRec)                                         | Recover lost files from disks. Ignores the file system & goes after the underlying data, so it will still work even if your media's file system has been severely damaged or reformatted.                                  | Linux              | ✓      |
+| [Pika Backup](https://apps.gnome.org/PikaBackup/)                                            | Plugin your USB drive & let the Pika do the rest for you. Does not support complete system recovery.                                                                                                                       | Linux              | ✓      |
+| [Porteus](http://www.porteus.org/)                                                           | A complete Linux OS that is optimized to run from a bootable storage media. It's small (under 300Mb) & insanely fast.                                                                                                      | Linux              | ✓      |
+| [Rclone](https://rclone.org/)                                                                | Command-line program to manage files on cloud storage.                                                                                                                                                                     | Cross-platform     | ✓      |
+| [Rescatux](https://www.supergrubdisk.org/rescatux/)                                          | A Debian-based live distribution featuring a graphical wizard for rescuing broken Linux & Windows installations & boot loaders.                                                                                            | Cross-platform     | ✓      |
+| [Restic](https://restic.net/)                                                                | Command-line backup program that is fast, efficient & secure.                                                                                                                                                              | Cross-platform<br> | ✓      |
+| [Super Grub2 Disk](https://www.supergrubdisk.org/super-grub2-disk/)                          | Helps you to boot into most any Operating System (OS) even if you cannot boot into it by normal means.                                                                                                                     | Cross-platform<br> | ✓      |
+| [Syncthing](https://syncthing.net/)                                                          | A continuous file synchronization program. It synchronizes files between two or more computers in real time.                                                                                                               | Cross-platform<br> | ✓      |
+| [SystemRescue](https://www.system-rescue.org/)                                               | A Linux system rescue toolkit available as a bootable medium for administrating or repairing your system & data after a crash.                                                                                             | Linux              | ✓      |
+| [Timeshift](https://github.com/linuxmint/timeshift)                                          | Protects your system by taking incremental snapshots of the file system at regular intervals. These snapshots can be restored at a later date to undo all changes to the system.                                           | Linux              | ✓      |
+| [Ultimate Boot CD](https://www.ultimatebootcd.com/)                                          | A bootable CD-ROM containing a collection of diagnostic tools.                                                                                                                                                             | Cross-platform<br> | ✓      |
+| [UrBackup](https://www.urbackup.org/)                                                        | A client/server backup system designed to run while the system is operating without interrupting current processes.                                                                                                        | Cross-platform<br> | ✓      |
+| [Windows 11 Install & Repair Options](https://www.microsoft.com/software-download/windows11) | Official method to repair Windows from a bootable storage media.                                                                                                                                                           | Windows            | ✓      |
 ### Browsers:
 | Program:                                                                       | Description:                                                             | Platform:      | Free?: |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------ | -------------- | ------ |
