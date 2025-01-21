@@ -19,6 +19,7 @@
 | [Metadata](https://github.com/Sod-ers/Programs?tab=readme-ov-file#metadata)                        |
 | [Notes](https://github.com/Sod-ers/Programs?tab=readme-ov-file#notes)                              |
 | [Privacy & Security](https://github.com/Sod-ers/Programs?tab=readme-ov-file#privacy--security)     |
+| [Programming](https://github.com/Sod-ers/Programs?tab=readme-ov-file#programming)                  |
 | [Reading](https://github.com/Sod-ers/Programs?tab=readme-ov-file#reading)                          |
 | [Server](https://github.com/Sod-ers/Programs?tab=readme-ov-file#server)                            |
 | [Time](https://github.com/Sod-ers/Programs?tab=readme-ov-file#time)                                |
@@ -288,6 +289,16 @@ ________________________________________________________
 | [usbkill](https://github.com/hephaest0s/usbkill)                                       | Anti-forensic kill-switch that waits for a change on your USB ports & then immediately shuts down your computer.                             | Linux          | ✓      |
 | [VeraCrypt](https://www.veracrypt.fr)                                                  | Disk encryption.                                                                                                                             | Cross-platform | ✓      |
 | [WPD](https://wpd.app/)                                                                | Configure various privacy settings through the Windows API.                                                                                  | Windows        | ✓      |
+### Programming:
+| Program:                                                                                 | Description:                                                              | Platform:      | Free?: |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------- | ------ |
+| [Commit](https://github.com/sonnyp/Commit)                                               | Editor that helps you write better Git & Mercurial commit messages.       | Linux          | ✓      |
+| [Notepad++](https://notepad-plus-plus.org/)                                              | Source code editor & Notepad replacement that supports several languages. | Windows        | ✓      |
+| [Notepadqq](https://notepadqq.com/s/)                                                    | A text editor for developers.                                             | Linux          | ✓      |
+| [Playhouse](https://github.com/sonnyp/Playhouse)                                         | Playground for HTML/CSS/JavaScript.                                       | Linux          | ✓      |
+| [Power Automate](https://www.microsoft.com/en-us/power-platform/products/power-automate) | Create automated workflows between various apps & services.               | Windows        | ✓      |
+| [VSCodium](https://vscodium.com/)                                                        | Visual Studio Code, without telemetry/tracking.                           | Cross-platform | ✓      |
+| [Sublime Text](https://www.sublimetext.com/)                                             | A sophisticated text editor for code, markup & prose.                     | Cross-platform | ✓      |
 ### Reading:
 | Program:                                                               | Description:                                                                                                                     | Platform:      | Free?: |
 | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
