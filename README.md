@@ -14,6 +14,7 @@
 | [Finances](https://github.com/Sod-ers/Programs?tab=readme-ov-file#finances)                        |
 | [Gaming](https://github.com/Sod-ers/Programs?tab=readme-ov-file#gaming)                            |
 | [Metadata](https://github.com/Sod-ers/Programs?tab=readme-ov-file#metadata)                        |
+| [Reading](https://github.com/Sod-ers/Programs?tab=readme-ov-file#reading)                          |
 | [Time & Tasks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#time--tasks)                 |
 | [Tweaks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)                            |
 | [USB](https://github.com/Sod-ers/Programs?tab=readme-ov-file#usb)                                  |
@@ -178,6 +179,25 @@ ________________________________________________________
 | [MusicBrainz Picard](https://picard.musicbrainz.org/)                             | It is the official [MusicBrainz](https://musicbrainz.org)  tagger, capable of using audio fingerprints.                                           | Cross-platform | ✓      |
 | [puddletag](https://github.com/puddletag/puddletag)                               | An audio tag editor similar to Mp3tag.                                                                                                            | Linux          | ✓      |
 | [Tropy](https://tropy.org/)                                                       | Organize & describe your research photos so you can find your sources whenever you need them.                                                     | Cross-platform | ✓      |
+### Reading:
+| Program:                                                               | Description:                                                                                                                                      | Platform:      | Free?: |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
+| [Calibre](https://calibre-ebook.com/)                                  | Feature rich e-book manager.                                                                                                                      | Cross-platform | ✓      |
+| [CBconvert](https://github.com/gen2brain/cbconvert)                    | A [Comic Book](http://en.wikipedia.org/wiki/Comic_Book_Archive_file) converter. Converts comics to different formats to fit your various devices. | Cross-platform | ✓      |
+| [CorePDF](https://gitlab.com/cubocore/coreapps/corepdf)                | A lightweight PDF viewer.                                                                                                                         | Linux          | ✓      |
+| [Foliate](https://github.com/johnfactotum/foliate)                     | e-book reader tailored for GNOME.                                                                                                                 | Linux          | ✓      |
+| [jPdf Tweak](https://jpdftweak.sourceforge.io/)                        | Can combine, split, rotate, reorder, watermark, encrypt, sign, & otherwise tweak PDFs.                                                            | Cross-platform | ✓      |
+| [Kindle Comic Converter](https://github.com/ciromattia/kcc)            | A comic converter for e-book readers.                                                                                                             | Cross-platform | ✓      |
+| [Liferea](https://github.com/lwindolf/liferea)                         | A news reader for GTK/GNOME.                                                                                                                      | Linux          | ✓      |
+| [Newsflash](https://gitlab.com/news-flash/news_flash_gtk)              | An RSS feed reader with features to complement an already existing web-based RSS reader account.                                                  | Linux          | ✓      |
+| [PDFStitcher](https://www.pdfstitcher.org/)                            | Helps sewists convert print-at-home PDF sewing patterns into a single large file suitable for use with a projector.                               | Cross-platform | ✓      |
+| [Peruse](https://peruse.kde.org/)                                      | Comic book reader and creator.                                                                                                                    | Cross-platform | ✓      |
+| [Read It Later](https://flathub.org/apps/com.belmoussaoui.ReadItLater) | A simple [Wallabag](https://github.com/wallabag/wallabag) client.                                                                                 | Linux          | ✓      |
+| [Sigil](https://sigil-ebook.com/sigil/)                                | e-book editor.                                                                                                                                    | Cross-platform | ✓      |
+| [wallabag](https://github.com/wallabag/wallabag)                       | Self hostable application for saving web pages.                                                                                                   | Linux          | ✓      |
+| [WhosWho](https://framagit.org/Yvan-Masson/WhosWho)                    | Create PDF documents with people pictures & corresponding name.                                                                                   | Linux          | ✓      |
+| [Wike](https://github.com/hugolabe/Wike)                               | Wikipedia Reader for the GNOME.                                                                                                                   | Linux          | ✓      |
+| [XpdfReader](https://www.xpdfreader.com/)                              | Lightweight PDF viewer & toolkit.                                                                                                                 | Cross-platform | ✓      |
 ### Time & Tasks:
 | Program:                                                    | Description:                                                          | Platform:      | Free?: |
 | ----------------------------------------------------------- | --------------------------------------------------------------------- | -------------- | ------ |
