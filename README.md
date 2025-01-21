@@ -10,6 +10,7 @@
 | [Browsers](https://github.com/Sod-ers/Programs?tab=readme-ov-file#browsers)                        |
 | [CD & DVD](https://github.com/Sod-ers/Programs?tab=readme-ov-file#cd--dvd)                         |
 | [Colors](https://github.com/Sod-ers/Programs?tab=readme-ov-file#colors)                            |
+| [Database](https://github.com/Sod-ers/Programs?tab=readme-ov-file#database)                        |
 | [Diagnostics](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagnostics)                  |
 | [Diagram](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagram)                          |
 | [Files](https://github.com/Sod-ers/Programs?tab=readme-ov-file#files)                              |
@@ -19,6 +20,7 @@
 | [Notes](https://github.com/Sod-ers/Programs?tab=readme-ov-file#notes)                              |
 | [Privacy & Security](https://github.com/Sod-ers/Programs?tab=readme-ov-file#privacy--security)     |
 | [Reading](https://github.com/Sod-ers/Programs?tab=readme-ov-file#reading)                          |
+| [Server](https://github.com/Sod-ers/Programs?tab=readme-ov-file#server)                            |
 | [Time](https://github.com/Sod-ers/Programs?tab=readme-ov-file#time)                                |
 | [Tweaks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)                            |
 | [USB](https://github.com/Sod-ers/Programs?tab=readme-ov-file#usb)                                  |
@@ -101,6 +103,12 @@ ________________________________________________________
 | [KColorChooser](https://apps.kde.org/kcolorchooser/)           | A color palette tool, used to mix colors & create custom color palettes. Includes a screen color picker.                | Linux     | ✓      |
 | [Kontrast](https://github.com/KDE/kontrast)                    | A color contrast checker & tells you if your color combinations are accessible for people with color vision defiencies. | Linux     | ✓      |
 | [Paleta](https://github.com/nate-xyz/paleta)                   | Extract the dominant colors from any image.                                                                             | Linux     | ✓      |
+### Database:
+| Program:                                            | Description:                                                                                | Platform:      | Free?: |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------- | ------ |
+| [DB Browser for SQLite](https://sqlitebrowser.org/) | High quality, visual, tool to create, design, & edit database files compatible with SQLite. | Cross-platform | ✓      |
+| [DBeaver](https://dbeaver.io/)                      | Supports all popular SQL databases.                                                         | Cross-platform | ✓      |
+| [SQLiteStudio](https://sqlitestudio.pl/)            | Create, edit, browse SQLite databases.                                                      | Cross-platform | ✓      |
 ### Diagnostics:
 | Program:                                                                                      | Description:                                                                                                                                                                                            | Platform:      | Free?: |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
@@ -133,16 +141,17 @@ ________________________________________________________
 | [USBView](http://www.kroah.com/linux-usb/)                                                    | Detailed USB information.                                                                                                                                                                               | Linux          | ✓      |
 | [WizTree](https://diskanalyzer.com/)                                                          | Disk space analyzer.                                                                                                                                                                                    | Windows        | ✓      |
 ### Diagram:
-| Program:                                                            | Description:                                      | Platform:      | Free?: |
-| ------------------------------------------------------------------- | ------------------------------------------------- | -------------- | ------ |
-| [Dia](http://dia-installer.de/)                                     | Draw structured diagrams.                         | Cross-platform | ✓      |
-| [DIY Layout Creator](https://github.com/bancika/diy-layout-creator) | Circuit layout & schematic drawing tool.          | Cross-platform | ✓      |
-| [draw.io](https://www.drawio.com/)                                  | Diagramming & whiteboarding.                      | Cross-platform | ✓      |
-| [Gaphor](https://gaphor.org/)                                       | A UML, SysML, RAAML, and C4 modeling application. | Cross-platform | ✓      |
-| [PlantUml](https://sourceforge.net/projects/plantuml/)              | Creates a UML diagram.                            | Cross-platform | ✓      |
-| [PlotDrop](https://plotdrop.sourceforge.net/)                       | Quick, simple visualisation of 2D data series.    | Linux          | ✓      |
-| [ThinkComposer](https://github.com/nmarcel/ThinkComposer/wiki)      | Diagramming software with mind map features.      | Windows        | ✓      |
-| [yEd](https://www.yworks.com/products/yed)                          | Generates high-quality diagrams.                  | Cross-platform | ✓      |
+| Program:                                                            | Description:                                   | Platform:      | Free?: |
+| ------------------------------------------------------------------- | ---------------------------------------------- | -------------- | ------ |
+| [Dia](http://dia-installer.de/)                                     | Draw structured diagrams.                      | Cross-platform | ✓      |
+| [DIY Layout Creator](https://github.com/bancika/diy-layout-creator) | Circuit layout & schematic drawing tool.       | Cross-platform | ✓      |
+| [draw.io](https://www.drawio.com/)                                  | Diagramming & whiteboarding.                   | Cross-platform | ✓      |
+| [Gaphor](https://gaphor.org/)                                       | A UML, SysML, RAAML & C4 modeling application. | Cross-platform | ✓      |
+| [PlantUml](https://sourceforge.net/projects/plantuml/)              | Creates a UML diagram.                         | Cross-platform | ✓      |
+| [PlotDrop](https://plotdrop.sourceforge.net/)                       | Quick, simple visualisation of 2D data series. | Linux          | ✓      |
+| [PSPP](https://www.gnu.org/software/pspp/)                          | For statistical analysis of sampled data.      | Cross-platform | ✓      |
+| [ThinkComposer](https://github.com/nmarcel/ThinkComposer/wiki)      | Diagramming software with mind map features.   | Windows        | ✓      |
+| [yEd](https://www.yworks.com/products/yed)                          | Generates high-quality diagrams.               | Cross-platform | ✓      |
 ### Files:
 | Program:                                                                   | Description:                                                                                                   | Platform:      | Free?: |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
@@ -178,6 +187,7 @@ ________________________________________________________
 | Program:                                                                                          | Description:                                                                                                                                                                                                                                                           | Platform:      | Free?: |
 | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
 | [CompilePal](https://github.com/ruarai/CompilePal)                                                | Easy to use wrapper for the Source Engine map compiling tools.                                                                                                                                                                                                         | Windows        | ✓      |
+| [Crafty Controller](https://craftycontrol.com/)                                                   | Allows users to start & administer Minecraft servers from a user-friendly interface.                                                                                                                                                                                   | Cross-platform | ✓      |
 | [Crowbar](https://steamcommunity.com/groups/CrowbarTool)                                          | Decompile, compile, & view GoldSource & Source models in a convenient interface.                                                                                                                                                                                       | Windows        | ✓      |
 | [GarrysMod HammerPlusPlus Installer](https://github.com/rmod8/GarrysMod-HammerPlusPlus-Installer) | Helps with both the installation & configuration of Hammer++ for Garry's Mod.                                                                                                                                                                                          | Windows        | ✓      |
 | [GB Studio](https://www.gbstudio.dev/)                                                            | A quick & easy to use drag & drop retro game creator for the GBA.                                                                                                                                                                                                      | Cross-platform | ✓      |
@@ -300,6 +310,12 @@ ________________________________________________________
 | [WhosWho](https://framagit.org/Yvan-Masson/WhosWho)                    | Create PDF documents with people pictures & corresponding name.                                                                  | Linux          | ✓      |
 | [Wike](https://github.com/hugolabe/Wike)                               | Wikipedia Reader for the GNOME.                                                                                                  | Linux          | ✓      |
 | [XpdfReader](https://www.xpdfreader.com/)                              | Lightweight PDF viewer & toolkit.                                                                                                | Cross-platform | ✓      |
+### Server:
+| Program:                                 | Description:                                                                                                                         | Platform:      | Free?: |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ------ |
+| [Caddy Server](https://caddyserver.com/) | Enterprise-ready, open source web server with automatic HTTPS written in Go.                                                         | Cross-platform | ✓      |
+| [OpenStack](https://www.openstack.org/)  | A collection of software modules, called projects, that work together to create & manage cloud infrastructures.                      | Linux          | ✓      |
+| [Pterodactyl](https://pterodactyl.io/)   | Game server manager that runs all game servers in isolated Docker containers while exposing a beautiful & intuitive UI to end users. | Linux          | ✓      |
 ### Time:
 | Program:                                                    | Description:                                                          | Platform:      | Free?: |
 | ----------------------------------------------------------- | --------------------------------------------------------------------- | -------------- | ------ |
