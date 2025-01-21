@@ -11,7 +11,7 @@
 | [CD & DVD](https://github.com/Sod-ers/Programs?tab=readme-ov-file#cd--dvd)                         |
 | [Colors](https://github.com/Sod-ers/Programs?tab=readme-ov-file#colors)                            |
 | [Diagnostics](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagnostics)                  |
-| [Diagrams & Charts](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagrams-charts)        |
+| [Diagram](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagram)                          |
 | [Files](https://github.com/Sod-ers/Programs?tab=readme-ov-file#files)                              |
 | [Finances](https://github.com/Sod-ers/Programs?tab=readme-ov-file#finances)                        |
 | [Gaming](https://github.com/Sod-ers/Programs?tab=readme-ov-file#gaming)                            |
@@ -19,7 +19,7 @@
 | [Notes](https://github.com/Sod-ers/Programs?tab=readme-ov-file#notes)                              |
 | [Privacy & Security](https://github.com/Sod-ers/Programs?tab=readme-ov-file#privacy--security)     |
 | [Reading](https://github.com/Sod-ers/Programs?tab=readme-ov-file#reading)                          |
-| [Time](https://github.com/Sod-ers/Programs?tab=readme-ov-file#time-)                               |
+| [Time](https://github.com/Sod-ers/Programs?tab=readme-ov-file#time)                                |
 | [Tweaks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)                            |
 | [USB](https://github.com/Sod-ers/Programs?tab=readme-ov-file#usb)                                  |
 | [White Noise](https://github.com/Sod-ers/Programs?tab=readme-ov-file#white-noise)                  |
@@ -132,6 +132,17 @@ ________________________________________________________
 | [USB Device Tree Viewer](https://www.uwe-sieber.de/usbtreeview_e.html)                        | Detailed USB information.                                                                                                                                                                               | Windows        | ✓      |
 | [USBView](http://www.kroah.com/linux-usb/)                                                    | Detailed USB information.                                                                                                                                                                               | Linux          | ✓      |
 | [WizTree](https://diskanalyzer.com/)                                                          | Disk space analyzer.                                                                                                                                                                                    | Windows        | ✓      |
+### Diagram:
+| Program:                                                            | Description:                                      | Platform:      | Free?: |
+| ------------------------------------------------------------------- | ------------------------------------------------- | -------------- | ------ |
+| [Dia](http://dia-installer.de/)                                     | Draw structured diagrams.                         | Cross-platform | ✓      |
+| [DIY Layout Creator](https://github.com/bancika/diy-layout-creator) | Circuit layout & schematic drawing tool.          | Cross-platform | ✓      |
+| [draw.io](https://www.drawio.com/)                                  | Diagramming & whiteboarding.                      | Cross-platform | ✓      |
+| [Gaphor](https://gaphor.org/)                                       | A UML, SysML, RAAML, and C4 modeling application. | Cross-platform | ✓      |
+| [PlantUml](https://sourceforge.net/projects/plantuml/)              | Creates a UML diagram.                            | Cross-platform | ✓      |
+| [PlotDrop](https://plotdrop.sourceforge.net/)                       | Quick, simple visualisation of 2D data series.    | Linux          | ✓      |
+| [ThinkComposer](https://github.com/nmarcel/ThinkComposer/wiki)      | Diagramming software with mind map features.      | Windows        | ✓      |
+| [yEd](https://www.yworks.com/products/yed)                          | Generates high-quality diagrams.                  | Cross-platform | ✓      |
 ### Files:
 | Program:                                                                   | Description:                                                                                                   | Platform:      | Free?: |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
@@ -162,6 +173,7 @@ ________________________________________________________
 | [Denaro](https://github.com/NickvisionApps/Denaro)   | Manage your personal finances.                                                             | Linux          | ✓      |
 | [Eqonomize!](https://github.com/Eqonomize/Eqonomize) | Personal accounting software, with focus on efficiency & ease of use for small households. | Cross-platform | ✓      |
 | [Valuta](https://github.com/ideveCore/valuta)        | Convert currencies with ease.                                                              | Linux          | ✓      |
+| [Chart Geany](https://chart-geany.sourceforge.io/)   | Market technical analysis, charting & a portfolio manager.                                 | Cross-platform | ✓      |
 ### Gaming:
 | Program:                                                                                          | Description:                                                                                                                                                                                                                                                           | Platform:      | Free?: |
 | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
