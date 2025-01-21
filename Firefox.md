@@ -125,5 +125,4 @@
 | [Tokyo Night](https://addons.mozilla.org/en-US/firefox/addon/tokyo-night-milav/)                          |
 | [tokyonight](https://addons.mozilla.org/en-US/firefox/addon/tokyonight/)                                  |
 | [Trully Dracula](https://addons.mozilla.org/en-US/firefox/addon/trully-dracula/)                          |
-| [Weeds](https://addons.mozilla.org/en-US/firefox/addon/weeds/)                                            |
 | [YellowBlackSober](https://addons.mozilla.org/en-US/firefox/addon/yellowblacksober/)                      |
