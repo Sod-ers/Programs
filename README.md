@@ -11,13 +11,15 @@
 | [CD & DVD](https://github.com/Sod-ers/Programs?tab=readme-ov-file#cd--dvd)                         |
 | [Colors](https://github.com/Sod-ers/Programs?tab=readme-ov-file#colors)                            |
 | [Diagnostics](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagnostics)                  |
+| [Diagrams & Charts](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagrams-charts)        |
 | [Files](https://github.com/Sod-ers/Programs?tab=readme-ov-file#files)                              |
 | [Finances](https://github.com/Sod-ers/Programs?tab=readme-ov-file#finances)                        |
 | [Gaming](https://github.com/Sod-ers/Programs?tab=readme-ov-file#gaming)                            |
 | [Metadata](https://github.com/Sod-ers/Programs?tab=readme-ov-file#metadata)                        |
+| [Notes](https://github.com/Sod-ers/Programs?tab=readme-ov-file#notes)                              |
 | [Privacy & Security](https://github.com/Sod-ers/Programs?tab=readme-ov-file#privacy--security)     |
 | [Reading](https://github.com/Sod-ers/Programs?tab=readme-ov-file#reading)                          |
-| [Time & Tasks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#time--tasks)                 |
+| [Time](https://github.com/Sod-ers/Programs?tab=readme-ov-file#time-)                               |
 | [Tweaks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)                            |
 | [USB](https://github.com/Sod-ers/Programs?tab=readme-ov-file#usb)                                  |
 | [White Noise](https://github.com/Sod-ers/Programs?tab=readme-ov-file#white-noise)                  |
@@ -205,17 +207,48 @@ ________________________________________________________
 | [MusicBrainz Picard](https://picard.musicbrainz.org/)                             | It is the official [MusicBrainz](https://musicbrainz.org)  tagger, capable of using audio fingerprints.                                           | Cross-platform | ✓      |
 | [puddletag](https://github.com/puddletag/puddletag)                               | An audio tag editor similar to Mp3tag.                                                                                                            | Linux          | ✓      |
 | [Tropy](https://tropy.org/)                                                       | Organize & describe your research photos so you can find your sources whenever you need them.                                                     | Cross-platform | ✓      |
+### Notes:
+| Program:                                                           | Description:                                                                                                                              | Platform:      | Free?: |
+| ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
+| [Beaver Notes](https://beavernotes.com/)                           | Note taking app built for privacy & efficiency.                                                                                           | Cross-platform | ✓      |
+| [CherryTree](https://github.com/giuspen/cherrytree)                | A hierarchical note taking application.                                                                                                   | Cross-platform | ✓      |
+| [CmapTools](https://cmap.ihmc.us/cmaptools/)                       | For brainstorming, managing knowledge & organizing information.                                                                           | Cross-platform | ✓      |
+| [EncryptPad](https://github.com/evpo/EncryptPad)                   | Minimalist secure text editor & binary encryptor.                                                                                         | Cross-platform | ✓      |
+| [Endeavour](https://flathub.org/apps/org.gnome.Todo)               | Task management designed for simplicity.                                                                                                  | Linux          | ✓      |
+| [Errands](https://github.com/mrvladus/Errands)                     | To-do application for those who prefer simplicity.                                                                                        | Linux          | ✓      |
+| [FocusWriter](https://gottcode.org/focuswriter/)                   | Simple, distraction-free word processor.                                                                                                  | Cross-platform | ✓      |
+| [FreeMind](https://sourceforge.net/projects/freemind/)             | A mind mapper, & at the same time an easy-to-operate hierarchical editor with strong emphasis on folding.                                 | Cross-platform | ✓      |
+| [freeplane](https://github.com/freeplane/freeplane)                | Mind mapping, knowledge & project management.                                                                                             | Cross-platform | ✓      |
+| [Iotas](https://flathub.org/apps/org.gnome.World.Iotas)            | Distraction-free note taking.                                                                                                             | Linux          | ✓      |
+| [Joplin](https://joplinapp.org/)                                   | Privacy-focused note taking app.                                                                                                          | Cross-platform | ✓      |
+| [LibreOffice Calc](https://www.libreoffice.org/discover/calc/)     | Feature rich spreadsheets.                                                                                                                | Cross-platform | ✓      |
+| [LibreOffice Writer](https://www.libreoffice.org/discover/writer/) | Feature rich word processing & desktop publishing tool.                                                                                   | Cross-platform | ✓      |
+| [Minder](https://github.com/phase1geo/Minder)                      | Mind map that helps create, develop & visualize your ideas.                                                                               | Linux          | ✓      |
+| [Notesnook](https://notesnook.com/)                                | Note taking app with a focus on privacy/encryption.                                                                                       | Cross-platform | ✓      |
+| [Obsidian](https://obsidian.md/)                                   | Feature rich note taking app with dozens of customization options.                                                                        | Cross-platform | ✓      |
+| [OpenTodoList](https://opentodolist.rpdev.net/)                    | A simple task manager.                                                                                                                    | Cross-platform | ✓      |
+| [QOwnNotes](https://www.qownnotes.org/)                            | Plain-text file markdown note-taking with Nextcloud / ownCloud integration.                                                               | Cross-platform | ✓      |
+| [Rnote](https://github.com/flxzt/rnote)                            | Sketch & take handwritten notes.                                                                                                          | Cross-platform | ✓      |
+| [Simple Diary]()                                                   | Lightweight diary app.                                                                                                                    | Linux          | ✓      |
+| [Speech Note](https://flathub.org/apps/net.mkiol.SpeechNote)       | Lets you take, read & translate notes using speech to text, text to speech & machine translation.                                         | Linux          | ✓      |
+| [Standard Notes](https://standardnotes.com/)                       | Note-taking app with end-to-end encryption.                                                                                               | Cross-platform | ✓      |
+| [ThinkComposer](https://github.com/nmarcel/ThinkComposer/wiki)     | Mind mapper with diagram features.                                                                                                        | Windows        | ✓      |
+| [VUE](https://vue.tufts.edu/)                                      | Educational mind mapper.                                                                                                                  | Cross-platform | ✓      |
+| [VYM](https://sourceforge.net/projects/vym/)                       | Generate & manipulate mind maps.                                                                                                          | Cross-platform | ✓      |
+| [WeKan](https://wekan.github.io/)                                  | Kanban workflow task manager.                                                                                                             | Cross-platform | ✓      |
+| [WriterSolo](https://flathub.org/apps/com.writerduet.writersolo)   | An extensive desktop app for fully writing a screenplay or convert between various screenplay formats such as final draft fdx or fountain | Linux          | ✓      |
+| [Xournal++](https://github.com/xournalpp/xournalpp/)               | Handwriting notetaking software with PDF annotation support.                                                                              | Cross-platform | ✓      |
 ### Privacy & Security:
 | Program:                                                                               | Description:                                                                                                                                 | Platform:      | Free?: |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
 | [apt-mirror](https://apt-mirror.github.io/)                                            | Provides the ability to mirror apt sources.                                                                                                  | Linux          | ✓      |
 | [Authenticator](https://flathub.org/apps/com.belmoussaoui.Authenticator)               | Generates two-factor authentication codes.                                                                                                   | Linux          | ✓      |
 | [Bitwarden](https://bitwarden.com/)                                                    | Password manager for securely storing, managing, & sharing sensitive online data such as passwords, passkeys, & credit cards.                | Cross-platform | ✓      |
-| [BleachBit](https://www.bleachbit.org/)                                                | Frees disk space.                                                                                                                            | Cross-platform | ✓      |
+| [BleachBit](https://www.bleachbit.org/)                                                | Frees disk space by deleting cache, cookies, internet history, temporary files, logs & more.                                                 | Cross-platform | ✓      |
 | [Carburetor](https://flathub.org/apps/io.frama.tractor.carburetor)                     | Provides a local TOR proxy.                                                                                                                  | Linux          | ✓      |
 | [Cyber Scarecrow](https://www.cyberscarecrow.com/)                                     | Software that runs in the background that emulates virtual machine/analysis behavior to trick malware.                                       | Windows        | ✓      |
 | [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal)                        | A graphical utility to review & modify permissions from your Flatpak applications.                                                           | Linux          | ✓      |
-| [Goldwarden](https://github.com/quexten/goldwarden)                                    | A Bitwarden compatible desktop client. Provides useful desktop features that the official tools do not have & enhanced security measures.    | Cross-platform | ✓      |
+| [Goldwarden](https://github.com/quexten/goldwarden)                                    | A Bitwarden compatible desktop client. Provides useful features that the official tools do not have & enhanced security measures.            | Cross-platform | ✓      |
 | [Gufw Firewall](https://costales.github.io/projects/gufw/)                             | User-friendly firewall.                                                                                                                      | Linux          | ✓      |
 | [hBlock](https://github.com/hectorm/hblock)                                            | Prevents your system from connecting to domains that serve ads, tracking scripts & malware.                                                  | Linux          | ✓      |
 | [Hosty](https://github.com/astrovm/hosty)                                              | System-wide ad blocker.                                                                                                                      | Linux          | ✓      |
@@ -255,18 +288,16 @@ ________________________________________________________
 | [WhosWho](https://framagit.org/Yvan-Masson/WhosWho)                    | Create PDF documents with people pictures & corresponding name.                                                                  | Linux          | ✓      |
 | [Wike](https://github.com/hugolabe/Wike)                               | Wikipedia Reader for the GNOME.                                                                                                  | Linux          | ✓      |
 | [XpdfReader](https://www.xpdfreader.com/)                              | Lightweight PDF viewer & toolkit.                                                                                                | Cross-platform | ✓      |
-### Time & Tasks:
+### Time:
 | Program:                                                    | Description:                                                          | Platform:      | Free?: |
 | ----------------------------------------------------------- | --------------------------------------------------------------------- | -------------- | ------ |
 | [Clocks](https://apps.gnome.org/Clocks/)                    | World clocks, alarms, a stopwatch, & timers.                          | Linux          | ✓      |
 | [Dali Clock](https://www.jwz.org/xdaliclock/)               | A digital clock. When a digit changes, it "melts" into its new shape. | Linux          | ✓      |
-| [Endeavour](https://flathub.org/apps/org.gnome.Todo)        | Task management designed for simplicity.                              | Linux          | ✓      |
 | [Furtherance](https://github.com/unobserved-io/Furtherance) | Track time spent on different activities.                             | Cross-platform | ✓      |
 | [KShutdown](https://kshutdown.sourceforge.io/)              | Allows you to turn off or suspend a computer at a specified time.     | Cross-platform | ✓      |
 | [KTimer](https://apps.kde.org/ktimer/)                      | Execute programs after some time.                                     | Linux          | ✓      |
 | [Retro](https://github.com/sonnyp/Retro)                    | A customizable retro digital segment clock.                           | Linux          | ✓      |
 | [Time Switch](https://github.com/fsobolev/timeswitch)       | Set a task to run after a timer.                                      | Linux          | ✓      |
-| [WeKan](https://wekan.github.io/)                           | Kanban workflow task manager.                                         | Cross-platform | ✓      |
 ### Tweaks:
 | Program:                                                                                   | Description:                                                                                                                                                                         | Platform: | Free?: |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------ |
