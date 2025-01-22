@@ -2,31 +2,31 @@
 ```table-of-contents
 ```
 ### Table of Contents:
-| Chapter:                                                                                           |
-| -------------------------------------------------------------------------------------------------- |
-| [Appearance](https://github.com/Sod-ers/Programs?tab=readme-ov-file#appearance)                    |
-| [Audio Visualizers](https://github.com/Sod-ers/Programs?tab=readme-ov-file#audio-visualizers)      |
-| [Backup & Restoration](https://github.com/Sod-ers/Programs?tab=readme-ov-file#backup--restoration) |
-| [Browsers](https://github.com/Sod-ers/Programs?tab=readme-ov-file#browsers)                        |
-| [CD & DVD](https://github.com/Sod-ers/Programs?tab=readme-ov-file#cd--dvd)                         |
-| [Colors](https://github.com/Sod-ers/Programs?tab=readme-ov-file#colors)                            |
-| [Database](https://github.com/Sod-ers/Programs?tab=readme-ov-file#database)                        |
-| [Diagnostics](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagnostics)                  |
-| [Diagram](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagram)                          |
-| Emulation, Virtualization, & Compatibility                                                         |
-| [Files](https://github.com/Sod-ers/Programs?tab=readme-ov-file#files)                              |
-| [Finances](https://github.com/Sod-ers/Programs?tab=readme-ov-file#finances)                        |
-| [Gaming](https://github.com/Sod-ers/Programs?tab=readme-ov-file#gaming)                            |
-| [Metadata](https://github.com/Sod-ers/Programs?tab=readme-ov-file#metadata)                        |
-| [Notes](https://github.com/Sod-ers/Programs?tab=readme-ov-file#notes)                              |
-| [Privacy & Security](https://github.com/Sod-ers/Programs?tab=readme-ov-file#privacy--security)     |
-| [Programming](https://github.com/Sod-ers/Programs?tab=readme-ov-file#programming)                  |
-| [Reading](https://github.com/Sod-ers/Programs?tab=readme-ov-file#reading)                          |
-| [Server](https://github.com/Sod-ers/Programs?tab=readme-ov-file#server)                            |
-| [Time](https://github.com/Sod-ers/Programs?tab=readme-ov-file#time)                                |
-| [Tweaks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)                            |
-| [USB](https://github.com/Sod-ers/Programs?tab=readme-ov-file#usb)                                  |
-| [White Noise](https://github.com/Sod-ers/Programs?tab=readme-ov-file#white-noise)                  |
+| Chapter:                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------- |
+| [Appearance](https://github.com/Sod-ers/Programs?tab=readme-ov-file#appearance)                                           |
+| [Audio Visualizers](https://github.com/Sod-ers/Programs?tab=readme-ov-file#audio-visualizers)                             |
+| [Backup & Restoration](https://github.com/Sod-ers/Programs?tab=readme-ov-file#backup--restoration)                        |
+| [Browsers](https://github.com/Sod-ers/Programs?tab=readme-ov-file#browsers)                                               |
+| [CD & DVD](https://github.com/Sod-ers/Programs?tab=readme-ov-file#cd--dvd)                                                |
+| [Colors](https://github.com/Sod-ers/Programs?tab=readme-ov-file#colors)                                                   |
+| [Database](https://github.com/Sod-ers/Programs?tab=readme-ov-file#database)                                               |
+| [Diagnostics](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagnostics)                                         |
+| [Diagram](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagram)                                                 |
+| [Emulation, Virtualization, & Compatibility](https://github.com/Sod-ers/Programs#emulation-virtualization--compatibility) |
+| [Files](https://github.com/Sod-ers/Programs?tab=readme-ov-file#files)                                                     |
+| [Finances](https://github.com/Sod-ers/Programs?tab=readme-ov-file#finances)                                               |
+| [Gaming](https://github.com/Sod-ers/Programs?tab=readme-ov-file#gaming)                                                   |
+| [Metadata](https://github.com/Sod-ers/Programs?tab=readme-ov-file#metadata)                                               |
+| [Notes](https://github.com/Sod-ers/Programs?tab=readme-ov-file#notes)                                                     |
+| [Privacy & Security](https://github.com/Sod-ers/Programs?tab=readme-ov-file#privacy--security)                            |
+| [Programming](https://github.com/Sod-ers/Programs?tab=readme-ov-file#programming)                                         |
+| [Reading](https://github.com/Sod-ers/Programs?tab=readme-ov-file#reading)                                                 |
+| [Server](https://github.com/Sod-ers/Programs?tab=readme-ov-file#server)                                                   |
+| [Time](https://github.com/Sod-ers/Programs?tab=readme-ov-file#time)                                                       |
+| [Tweaks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)                                                   |
+| [USB](https://github.com/Sod-ers/Programs?tab=readme-ov-file#usb)                                                         |
+| [White Noise](https://github.com/Sod-ers/Programs?tab=readme-ov-file#white-noise)                                         |
 ________________________________________________________
 ### Appearance:
 | Program:                                                                                    | Description:                                                                                                  | Platform:      | Free?: |
