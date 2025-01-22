@@ -17,7 +17,7 @@
 | [Files](https://github.com/Sod-ers/Programs?tab=readme-ov-file#files)                                                     |
 | [Finances](https://github.com/Sod-ers/Programs?tab=readme-ov-file#finances)                                               |
 | [Gaming](https://github.com/Sod-ers/Programs?tab=readme-ov-file#gaming)                                                   |
-| [Hardware Required](ttps://github.com/Sod-ers/Programs?tab=readme-ov-file#hardware-required)                              |
+| [Hardware Required](https://github.com/Sod-ers/Programs?tab=readme-ov-file#hardware-required)                             |
 | [Illustration](https://github.com/Sod-ers/Programs?tab=readme-ov-file#illustration)                                       |
 | [Metadata](https://github.com/Sod-ers/Programs?tab=readme-ov-file#metadata)                                               |
 | [Misc](https://github.com/Sod-ers/Programs?tab=readme-ov-file#misc)                                                       |
