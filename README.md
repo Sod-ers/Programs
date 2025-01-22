@@ -13,6 +13,7 @@
 | [Database](https://github.com/Sod-ers/Programs?tab=readme-ov-file#database)                        |
 | [Diagnostics](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagnostics)                  |
 | [Diagram](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagram)                          |
+| Emulation, Virtualization, & Compatibility                                                         |
 | [Files](https://github.com/Sod-ers/Programs?tab=readme-ov-file#files)                              |
 | [Finances](https://github.com/Sod-ers/Programs?tab=readme-ov-file#finances)                        |
 | [Gaming](https://github.com/Sod-ers/Programs?tab=readme-ov-file#gaming)                            |
@@ -153,6 +154,23 @@ ________________________________________________________
 | [PSPP](https://www.gnu.org/software/pspp/)                          | For statistical analysis of sampled data.      | Cross-platform | ✓      |
 | [ThinkComposer](https://github.com/nmarcel/ThinkComposer/wiki)      | Diagramming software with mind map features.   | Windows        | ✓      |
 | [yEd](https://www.yworks.com/products/yed)                          | Generates high-quality diagrams.               | Cross-platform | ✓      |
+### Emulation, Virtualization, & Compatibility:
+| Program:                                                                                            | Description:                                                                                    | Platform:      | Free?: |
+| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------- | ------ |
+| [BlueStacks](https://www.bluestacks.com/)                                                           | Use Android apps on PC.                                                                         | Windows        | ✓      |
+| [Boxes](https://apps.gnome.org/Boxes/)                                                              | Select an operating system & let Boxes download & install it for you in a virtual machine.      | Linux          | ✓      |
+| [MultiVNC](https://github.com/bk138/multivnc)                                                       | Multicast-enabled VNC viewer.                                                                   | Cross-platform | ✓      |
+| [QEMU](https://www.qemu.org/)                                                                       | Open source machine emulator & virtualizer.                                                     | Cross-platform | ✓      |
+| [Snowglobe](https://flathub.org/apps/com.belmoussaoui.snowglobe)                                    | Virtualization viewer using QEMU over DBus.                                                     | Linux          | ✓      |
+| [TigerVNC](https://tigervnc.org/)                                                                   | High performance VNC client & server.                                                           | Cross-platform | ✓      |
+| [TightVNC](https://www.tightvnc.com/)                                                               | Remote desktop software that lets you access & control a computer over the network.             | Windows        | ✓      |
+| [TilEm](http://lpg.ticalc.org/prj_tilem/)                                                           | An emulator & debugger for Texas Instruments Z80-based graphing calculators.                    | Cross-platform | ✓      |
+| [virt-manager](https://virt-manager.org/)                                                           | A desktop user interface for managing virtual machines. Advanced but more efficient for Linux.  | Linux          | ✓      |
+| [VirtualBox](https://www.virtualbox.org/)                                                           | General-purpose full virtualization software, easy to use.                                      | Cross-platform | ✓      |
+| [Waydroid](https://waydro.id/)                                                                      | A container-based approach to boot a full Android system on Wayland based desktop environments. | Linux          | ✓      |
+| [Wine](https://www.winehq.org/)                                                                     | A compatibility layer for running Windows applications.                                         | Linux          | ✓      |
+| [Winetricks](https://github.com/Winetricks/winetricks)                                              | An easy way to work around problems in Wine.                                                    | Linux          | ✓      |
+| [VMware Workstation Pro](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) | The industry standard desktop hypervisors.                                                      | Cross-platform | ✓      |
 ### Files:
 | Program:                                                                   | Description:                                                                                                   | Platform:      | Free?: |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
@@ -326,7 +344,6 @@ ________________________________________________________
 | [Ampache](https://ampache.org/)                               | A web based audio/video streaming application & file manager. Access your music & videos from anywhere.                                                   | -              | ✓      |
 | [Bazarr](https://www.bazarr.media/)                           | A companion app to Sonarr/Radarr that manages & downloads subtitles based on your requirements.                                                           | Cross-platform | ✓      |
 | [bitmagnet](https://bitmagnet.io/)                            | A self-hosted BitTorrent indexer, DHT crawler, content classifier & torrent search engine with web UI, GraphQL API & Servarr stack integration.           | Cross-platform | ✓      |
-| [Caddy Server](https://caddyserver.com/)                      | Enterprise-ready, open source web server with automatic HTTPS written in Go.                                                                              | Cross-platform | ✓      |
 | [Crafty Controller](https://craftycontrol.com/)               | Allows users to start & administer Minecraft servers from a user-friendly interface.                                                                      | Cross-platform | ✓      |
 | [Doplarr](https://github.com/kiranshila/Doplarr)              | An *arr request bot for Discord.                                                                                                                          | Cross-platform | ✓      |
 | [Emby](https://emby.media/index.html)                         | A personal media server with apps on just about every device.                                                                                             | Cross-platform | ✓      |
@@ -343,7 +360,6 @@ ________________________________________________________
 | [Mylar3](https://github.com/mylar3/mylar3)                    | Automated Comic Book (cbr/cbz) downloader program for use with NZB & torrents.                                                                            | Cross-platform | ✓      |
 | [NextPVR](https://www.nextpvr.com/)                           | Makes recording & watching live TV easy.                                                                                                                  | Cross-platform | ✓      |
 | [Notifiarr](https://github.com/Notifiarr/)                    | Client for [Notifiarr.com](https://notifiarr.com). It enables content requests from Media Bot in your Discord server.                                     | Cross-platform | ✓      |
-| [OpenStack](https://www.openstack.org/)                       | A collection of software modules, called projects, that work together to create & manage cloud infrastructures.                                           | Linux          | ✓      |
 | [Plex](https://www.plex.tv/)                                  | Organize & stream your collection of movies, TV shows, music, & photos.                                                                                   | Cross-platform | ✗      |
 | [Prowlarr](https://prowlarr.com/)                             | An indexer manager/proxy built on the *arr stack to integrate with your various PVR apps. Supports management of both Torrent Trackers & Usenet Indexers. | Cross-platform | ✓      |
 | [Pterodactyl](https://pterodactyl.io/)                        | Game server manager that runs all game servers in isolated Docker containers while exposing a beautiful & intuitive UI to end users.                      | Linux          | ✓      |
