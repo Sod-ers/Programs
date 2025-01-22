@@ -5,7 +5,7 @@
 | Chapter:                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------- |
 | [Appearance](https://github.com/Sod-ers/Programs?tab=readme-ov-file#appearance)                                           |
-| [Audio Visualizers](https://github.com/Sod-ers/Programs?tab=readme-ov-file#audio-visualizers)                             |
+| [Audio](https://github.com/Sod-ers/Programs?tab=readme-ov-file#audio)                                                     |
 | [Backup & Restoration](https://github.com/Sod-ers/Programs?tab=readme-ov-file#backup--restoration)                        |
 | [Browsers](https://github.com/Sod-ers/Programs?tab=readme-ov-file#browsers)                                               |
 | [CD & DVD](https://github.com/Sod-ers/Programs?tab=readme-ov-file#cd--dvd)                                                |
@@ -17,9 +17,12 @@
 | [Files](https://github.com/Sod-ers/Programs?tab=readme-ov-file#files)                                                     |
 | [Finances](https://github.com/Sod-ers/Programs?tab=readme-ov-file#finances)                                               |
 | [Gaming](https://github.com/Sod-ers/Programs?tab=readme-ov-file#gaming)                                                   |
+| [Hardware Required](ttps://github.com/Sod-ers/Programs?tab=readme-ov-file#hardware-required)                              |
+| [Illustration](https://github.com/Sod-ers/Programs?tab=readme-ov-file#illustration)                                       |
 | [Metadata](https://github.com/Sod-ers/Programs?tab=readme-ov-file#metadata)                                               |
+| [Misc](https://github.com/Sod-ers/Programs?tab=readme-ov-file#misc)                                                       |
 | [Modeling, CAD, & Architecture](https://github.com/Sod-ers/Programs#modeling-cad--architecture)                           |
-| [Notes](https://github.com/Sod-ers/Programs?tab=readme-ov-file#notes)                                                     |
+| [Picture](https://github.com/Sod-ers/Programs?tab=readme-ov-file#picture)                                                 |
 | [Privacy & Security](https://github.com/Sod-ers/Programs?tab=readme-ov-file#privacy--security)                            |
 | [Programming](https://github.com/Sod-ers/Programs?tab=readme-ov-file#programming)                                         |
 | [Reading](https://github.com/Sod-ers/Programs?tab=readme-ov-file#reading)                                                 |
@@ -27,7 +30,9 @@
 | [Time](https://github.com/Sod-ers/Programs?tab=readme-ov-file#time)                                                       |
 | [Tweaks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)                                                   |
 | [USB](https://github.com/Sod-ers/Programs?tab=readme-ov-file#usb)                                                         |
+| [Video](https://github.com/Sod-ers/Programs?tab=readme-ov-file#video)                                                     |
 | [White Noise](https://github.com/Sod-ers/Programs?tab=readme-ov-file#white-noise)                                         |
+| [Writing](https://github.com/Sod-ers/Programs?tab=readme-ov-file#writing)                                                 |
 ________________________________________________________
 ### Appearance:
 | Program:                                                                                    | Description:                                                                                                  | Platform:      | Free?: |
@@ -42,7 +47,7 @@ ________________________________________________________
 | [Spicetify](https://github.com/spicetify/cli)                                               | Customize the official Spotify client.                                                                        | Cross-platform | ✓      |
 | [StartAllBack](https://www.startallback.com/)                                               | Customize Windows UI & enhances dark mode.                                                                    | Windows        | ✗      |
 | [XScreenSaver](https://www.jwz.org/xscreensaver/)                                           | Screensavers for X11.                                                                                         | Linux          | ✓      |
-### Audio Visualizers:
+### Audio:
 | Program:                                                            | Description:                                                                     | Platform:      | Free?: |
 | ------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------- | ------ |
 | [AudMeS](https://sourceforge.net/projects/audmes/)                  | Measure audio using the sound card.                                              | Cross-platform | ✓      |
@@ -232,6 +237,14 @@ ________________________________________________________
 | [VMT Editor](https://dima-369.github.io/VMT-Editor/)                                              | Visual editor for .vmt files.                                                                                                                                                                                                                                          | Windows        | ✓      |
 | [VTFEdit](https://gamebanana.com/tools/95)                                                        | Can open & save .vtf & .vmt files.                                                                                                                                                                                                                                     | Windows        | ✓      |
 | [xemu](https://xemu.app/)                                                                         | Emulates the original Xbox.                                                                                                                                                                                                                                            | Cross-platform | ✓      |
+### Hardware Required:
+| Program: | Description: | Platform: | Free?: |
+| -------- | ------------ | --------- | ------ |
+|          |              |           |        |
+### Illustration:
+| Program: | Description: | Platform: | Free?: |
+| -------- | ------------ | --------- | ------ |
+|          |              |           |        |
 ### Metadata:
 | Program:                                                                          | Description:                                                                                                                                      | Platform:      | Free?: |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
@@ -248,71 +261,48 @@ ________________________________________________________
 | [MusicBrainz Picard](https://picard.musicbrainz.org/)                             | It is the official [MusicBrainz](https://musicbrainz.org)  tagger, capable of using audio fingerprints.                                           | Cross-platform | ✓      |
 | [puddletag](https://github.com/puddletag/puddletag)                               | An audio tag editor similar to Mp3tag.                                                                                                            | Linux          | ✓      |
 | [Tropy](https://tropy.org/)                                                       | Organize & describe your research photos so you can find your sources whenever you need them.                                                     | Cross-platform | ✓      |
+### Misc:
+| Program: | Description: | Platform: | Free?: |
+| -------- | ------------ | --------- | ------ |
+|          |              |           |        |
 ### Modeling, CAD, & Architecture:
-| Program:                                                                    | Description:                                                                                                                     | Platform:      | Free?: |
-| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
-| [3D Builder](https://apps.microsoft.com/detail/9wzdncrfj3t6?hl=en-US&gl=US) | View, create, & personalize 3D objects.                                                                                          | Windows        | ✓      |
-| [3D Viewer](https://apps.microsoft.com/detail/9nblggh42ths?hl=en-US&gl=US)  | View 3D models with lighting controls, inspect model data & visualize different shading modes.                                   | Windows        | ✓      |
-| [3ds Max](https://www.autodesk.com/products/3ds-max/overview)               | 3D modeling & animation.                                                                                                         | Windows        | ✗      |
-| [Bforartists](https://www.bforartists.de/)                                  | A fork of Blender focused on refining graphical UI & usability.                                                                  | Cross-platform | ✓      |
-| [Blender](https://www.blender.org/)                                         | Modeling, rigging, animation, simulation, rendering, compositing & motion tracking, even video editing & game creation.          | Cross-platform | ✓      |
-| [Blockbench](https://www.blockbench.net/)                                   | A low-poly 3D model editor.                                                                                                      | Cross-platform | ✓      |
-| [BRL-CAD](https://brlcad.org/)                                              | Constructive Solid Geometry (CSG) based solid modeling system.                                                                   | Cross-platform | ✓      |
-| [Dust3D](https://dust3d.org/)                                               | Creates low poly 3D models.                                                                                                      | Cross-platform | ✓      |
-| [FreeCAD](https://www.freecad.org/)                                         | Parametric 3D modeler made primarily to design real-life objects of any size.                                                    | Cross-platform | ✓      |
-| [fstl](https://github.com/fstl-app/fstl)                                    | A fast STL file viewer.                                                                                                          | Cross-platform | ✓      |
-| [Goxel](https://goxel.xyz/)                                                 | Voxel editor.                                                                                                                    | Cross-platform | ✓      |
-| [KiCad](https://www.kicad.org/)                                             | Electronics design automation suite.                                                                                             | Cross-platform | ✓      |
-| [LeoCAD](https://www.leocad.org/)                                           | Design virtual models you can build with LEGO bricks.                                                                            | Cross-platform | ✓      |
-| [LibreCAD](https://librecad.org/)                                           | A 2D CAD drawing tool based on the community edition of [QCAD](https://www.qcad.org).                                            | Cross-platform | ✓      |
-| [Material Maker](https://rodzilla.itch.io/material-maker)                   | A procedural materials authoring & 3D model painting tool.                                                                       | Cross-platform | ✓      |
-| [MeshLab](https://www.meshlab.net/)                                         | Provides a set of tools for editing, cleaning, healing, inspecting, rendering, texturing & converting meshes.                    | Cross-platform | ✓      |
-| [Meshmixer](https://meshmixer.com/)                                         | A "Swiss Army Knife" for 3D meshes.                                                                                              | Windows        | ✓      |
-| [OpenSCAD](https://openscad.org/)                                           | Solid 3D CAD modeller for programmers. Focuses on the CAD aspects rather than the artistic aspects of 3D modeling.               | Cross-platform | ✓      |
-| [Plasticity](https://www.plasticity.xyz/)                                   | A 3D modeling & CAD program that has a focus on artistic workflows.                                                              | Cross-platform | ✗      |
-| [Plater](https://github.com/Rhoban/Plater)                                  | A 3D printer plates placer & optimizer.                                                                                          | Cross-platform | ✓      |
-| [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)                | Converts 3D models into G-code for 3D printers.                                                                                  | Cross-platform | ✓      |
-| [QCAD](https://www.qcad.org)                                                | Create technical drawings such as plans for buildings, interiors, mechanical parts or schematics & diagrams.                     | Cross-platform | ✗      |
-| [Revit](https://www.autodesk.com/products/revit/overview)                   | Design buildings & infrastructure in 3D.                                                                                         | Windows        | ✗      |
-| [Rhinoceros 3D](https://www.rhino3d.com/)                                   | 3D modeller for designers & architects.                                                                                          | Windows        | ✗      |
-| [Simplify3D](https://www.simplify3d.com/)                                   | Commercial 3D printing software.                                                                                                 | Cross-platform | ✗      |
-| [SolveSpace](https://solvespace.com/index.pl)                               | A parametric 3D CAD tool.                                                                                                        | Cross-platform | ✓      |
-| [Structure Synth](https://sourceforge.net/projects/structuresynth/)         | Generate 3D structures by specifying a design grammar.                                                                           | Cross-platform | ✓      |
-| [Sweet Home 3D](https://www.sweethome3d.com/)                               | Interior design application  <br>which helps you draw the plan of your house, arrange furniture on it & visit the results in 3D. | Cross-platform | ✓      |
-| [UltiMaker Cura](https://ultimaker.com/software/ultimaker-cura/)            | Converts 3D models into G-code for 3D printers.                                                                                  | Cross-platform | ✓      |
-| [vengi VoxEdit](https://vengi-voxel.github.io/vengi/)                       | Voxel editor & command line tools with animation.                                                                                | Cross-platform | ✓      |
-| [Voxel Paint Pro](https://github.com/mrbid/VoxelPaintPro)                   | Paint in 3D using pixel Voxels.                                                                                                  | Linux          | ✓      |
-### Notes:
-| Program:                                                           | Description:                                                                                                                              | Platform:      | Free?: |
-| ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
-| [Beaver Notes](https://beavernotes.com/)                           | Note taking app built for privacy & efficiency.                                                                                           | Cross-platform | ✓      |
-| [CherryTree](https://github.com/giuspen/cherrytree)                | A hierarchical note taking application.                                                                                                   | Cross-platform | ✓      |
-| [CmapTools](https://cmap.ihmc.us/cmaptools/)                       | For brainstorming, managing knowledge & organizing information.                                                                           | Cross-platform | ✓      |
-| [EncryptPad](https://github.com/evpo/EncryptPad)                   | Minimalist secure text editor & binary encryptor.                                                                                         | Cross-platform | ✓      |
-| [Endeavour](https://flathub.org/apps/org.gnome.Todo)               | Task management designed for simplicity.                                                                                                  | Linux          | ✓      |
-| [Errands](https://github.com/mrvladus/Errands)                     | To-do application for those who prefer simplicity.                                                                                        | Linux          | ✓      |
-| [FocusWriter](https://gottcode.org/focuswriter/)                   | Simple, distraction-free word processor.                                                                                                  | Cross-platform | ✓      |
-| [FreeMind](https://sourceforge.net/projects/freemind/)             | A mind mapper, & at the same time an easy-to-operate hierarchical editor with strong emphasis on folding.                                 | Cross-platform | ✓      |
-| [freeplane](https://github.com/freeplane/freeplane)                | Mind mapping, knowledge & project management.                                                                                             | Cross-platform | ✓      |
-| [Iotas](https://flathub.org/apps/org.gnome.World.Iotas)            | Distraction-free note taking.                                                                                                             | Linux          | ✓      |
-| [Joplin](https://joplinapp.org/)                                   | Privacy-focused note taking app.                                                                                                          | Cross-platform | ✓      |
-| [LibreOffice Calc](https://www.libreoffice.org/discover/calc/)     | Feature rich spreadsheets.                                                                                                                | Cross-platform | ✓      |
-| [LibreOffice Writer](https://www.libreoffice.org/discover/writer/) | Feature rich word processing & desktop publishing tool.                                                                                   | Cross-platform | ✓      |
-| [Minder](https://github.com/phase1geo/Minder)                      | Mind map that helps create, develop & visualize your ideas.                                                                               | Linux          | ✓      |
-| [Notesnook](https://notesnook.com/)                                | Note taking app with a focus on privacy/encryption.                                                                                       | Cross-platform | ✓      |
-| [Obsidian](https://obsidian.md/)                                   | Feature rich note taking app with dozens of customization options.                                                                        | Cross-platform | ✓      |
-| [OpenTodoList](https://opentodolist.rpdev.net/)                    | A simple task manager.                                                                                                                    | Cross-platform | ✓      |
-| [QOwnNotes](https://www.qownnotes.org/)                            | Plain-text file markdown note-taking with Nextcloud / ownCloud integration.                                                               | Cross-platform | ✓      |
-| [Rnote](https://github.com/flxzt/rnote)                            | Sketch & take handwritten notes.                                                                                                          | Cross-platform | ✓      |
-| [Simple Diary]()                                                   | Lightweight diary app.                                                                                                                    | Linux          | ✓      |
-| [Speech Note](https://flathub.org/apps/net.mkiol.SpeechNote)       | Lets you take, read & translate notes using speech to text, text to speech & machine translation.                                         | Linux          | ✓      |
-| [Standard Notes](https://standardnotes.com/)                       | Note-taking app with end-to-end encryption.                                                                                               | Cross-platform | ✓      |
-| [ThinkComposer](https://github.com/nmarcel/ThinkComposer/wiki)     | Mind mapper with diagram features.                                                                                                        | Windows        | ✓      |
-| [VUE](https://vue.tufts.edu/)                                      | Educational mind mapper.                                                                                                                  | Cross-platform | ✓      |
-| [VYM](https://sourceforge.net/projects/vym/)                       | Generate & manipulate mind maps.                                                                                                          | Cross-platform | ✓      |
-| [WeKan](https://wekan.github.io/)                                  | Kanban workflow task manager.                                                                                                             | Cross-platform | ✓      |
-| [WriterSolo](https://flathub.org/apps/com.writerduet.writersolo)   | An extensive desktop app for fully writing a screenplay or convert between various screenplay formats such as final draft fdx or fountain | Linux          | ✓      |
-| [Xournal++](https://github.com/xournalpp/xournalpp/)               | Handwriting notetaking software with PDF annotation support.                                                                              | Cross-platform | ✓      |
+| Program:                                                                    | Description:                                                                                                                | Platform:      | Free?: |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
+| [3D Builder](https://apps.microsoft.com/detail/9wzdncrfj3t6?hl=en-US&gl=US) | View, create, & personalize 3D objects.                                                                                     | Windows        | ✓      |
+| [3D Viewer](https://apps.microsoft.com/detail/9nblggh42ths?hl=en-US&gl=US)  | View 3D models with lighting controls, inspect model data & visualize different shading modes.                              | Windows        | ✓      |
+| [3ds Max](https://www.autodesk.com/products/3ds-max/overview)               | 3D modeling & animation.                                                                                                    | Windows        | ✗      |
+| [Bforartists](https://www.bforartists.de/)                                  | A fork of Blender focused on refining graphical UI & usability.                                                             | Cross-platform | ✓      |
+| [Blender](https://www.blender.org/)                                         | Modeling, rigging, animation, simulation, rendering, compositing & motion tracking, even video editing & game creation.     | Cross-platform | ✓      |
+| [Blockbench](https://www.blockbench.net/)                                   | A low-poly 3D model editor.                                                                                                 | Cross-platform | ✓      |
+| [BRL-CAD](https://brlcad.org/)                                              | Constructive Solid Geometry (CSG) based solid modeling system.                                                              | Cross-platform | ✓      |
+| [Dust3D](https://dust3d.org/)                                               | Creates low poly 3D models.                                                                                                 | Cross-platform | ✓      |
+| [FreeCAD](https://www.freecad.org/)                                         | Parametric 3D modeler made primarily to design real-life objects of any size.                                               | Cross-platform | ✓      |
+| [fstl](https://github.com/fstl-app/fstl)                                    | A fast STL file viewer.                                                                                                     | Cross-platform | ✓      |
+| [Goxel](https://goxel.xyz/)                                                 | Voxel editor.                                                                                                               | Cross-platform | ✓      |
+| [KiCad](https://www.kicad.org/)                                             | Electronics design automation suite.                                                                                        | Cross-platform | ✓      |
+| [LeoCAD](https://www.leocad.org/)                                           | Design virtual models you can build with LEGO bricks.                                                                       | Cross-platform | ✓      |
+| [LibreCAD](https://librecad.org/)                                           | A 2D CAD drawing tool based on the community edition of [QCAD](https://www.qcad.org).                                       | Cross-platform | ✓      |
+| [Material Maker](https://rodzilla.itch.io/material-maker)                   | A procedural materials authoring & 3D model painting tool.                                                                  | Cross-platform | ✓      |
+| [MeshLab](https://www.meshlab.net/)                                         | Provides a set of tools for editing, cleaning, healing, inspecting, rendering, texturing & converting meshes.               | Cross-platform | ✓      |
+| [Meshmixer](https://meshmixer.com/)                                         | A "Swiss Army Knife" for 3D meshes.                                                                                         | Windows        | ✓      |
+| [OpenSCAD](https://openscad.org/)                                           | Solid 3D CAD modeller for programmers. Focuses on the CAD aspects rather than the artistic aspects of 3D modeling.          | Cross-platform | ✓      |
+| [Plasticity](https://www.plasticity.xyz/)                                   | A 3D modeling & CAD program that has a focus on artistic workflows.                                                         | Cross-platform | ✗      |
+| [Plater](https://github.com/Rhoban/Plater)                                  | A 3D printer plates placer & optimizer.                                                                                     | Cross-platform | ✓      |
+| [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)                | Converts 3D models into G-code for 3D printers.                                                                             | Cross-platform | ✓      |
+| [QCAD](https://www.qcad.org)                                                | Create technical drawings such as plans for buildings, interiors, mechanical parts or schematics & diagrams.                | Cross-platform | ✗      |
+| [Revit](https://www.autodesk.com/products/revit/overview)                   | Design buildings & infrastructure in 3D.                                                                                    | Windows        | ✗      |
+| [Rhinoceros 3D](https://www.rhino3d.com/)                                   | 3D modeller for designers & architects.                                                                                     | Windows        | ✗      |
+| [Simplify3D](https://www.simplify3d.com/)                                   | Commercial 3D printing software.                                                                                            | Cross-platform | ✗      |
+| [SolveSpace](https://solvespace.com/index.pl)                               | A parametric 3D CAD tool.                                                                                                   | Cross-platform | ✓      |
+| [Structure Synth](https://sourceforge.net/projects/structuresynth/)         | Generate 3D structures by specifying a design grammar.                                                                      | Cross-platform | ✓      |
+| [Sweet Home 3D](https://www.sweethome3d.com/)                               | Interior design application which helps you draw the plan of your house, arrange furniture on it & visit the results in 3D. | Cross-platform | ✓      |
+| [UltiMaker Cura](https://ultimaker.com/software/ultimaker-cura/)            | Converts 3D models into G-code for 3D printers.                                                                             | Cross-platform | ✓      |
+| [vengi VoxEdit](https://vengi-voxel.github.io/vengi/)                       | Voxel editor & command line tools with animation.                                                                           | Cross-platform | ✓      |
+| [Voxel Paint Pro](https://github.com/mrbid/VoxelPaintPro)                   | Paint in 3D using pixel Voxels.                                                                                             | Linux          | ✓      |
+### Picture:
+| Program: | Description: | Platform: | Free?: |
+| -------- | ------------ | --------- | ------ |
+|          |              |           |        |
 ### Privacy & Security:
 | Program:                                                                               | Description:                                                                                                                                 | Platform:      | Free?: |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
@@ -445,6 +435,10 @@ ________________________________________________________
 | [UNetbootin](https://unetbootin.github.io/)                   | Create bootable Live USB drives for Linux distributions; it supplies ISOs or use your own.                                                                                                                                                | Cross-platform | ✓      |
 | [Ventoy](https://github.com/ventoy/Ventoy)                    | Creates a bootable USB drive. You don't need to format the disk over & over, you just need to copy the image files to the USB drive & boot it. You can copy many image files at a time & Ventoy will give you a boot menu to select them. | Cross-platform | ✓      |
 | [YUMI](https://pendrivelinux.com/yumi-multiboot-usb-creator/) | USB bootloader, similar to Ventoy.                                                                                                                                                                                                        | Windows        | ✓      |
+### Video:
+| Program: | Description: | Platform: | Free?: |
+| -------- | ------------ | --------- | ------ |
+|          |              |           |        |
 ### White Noise:
 | Program:                                                    | Description:                                                                              | Platform:      | Free?: |
 | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------- | ------ |
@@ -453,3 +447,34 @@ ________________________________________________________
 | [Relaxator](https://github.com/alexkdeveloper/relaxator)    | Relax to soothing sounds.                                                                 | Linux          | ✓      |
 | [Soundscape](https://github.com/ddanilov/soundscape)        | Play a mix of sounds, e.g. natural sounds by animals or wind & water.                     | Cross-platform | ✓      |
 | [Soundux](https://github.com/Soundux/Soundux)               | Soundboard that features a simple user interface.                                         | Cross-platform | ✓      |
+### Writing:
+| Program:                                                           | Description:                                                                                                                              | Platform:      | Free?: |
+| ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
+| [Beaver Notes](https://beavernotes.com/)                           | Note taking app built for privacy & efficiency.                                                                                           | Cross-platform | ✓      |
+| [CherryTree](https://github.com/giuspen/cherrytree)                | A hierarchical note taking application.                                                                                                   | Cross-platform | ✓      |
+| [CmapTools](https://cmap.ihmc.us/cmaptools/)                       | For brainstorming, managing knowledge & organizing information.                                                                           | Cross-platform | ✓      |
+| [EncryptPad](https://github.com/evpo/EncryptPad)                   | Minimalist secure text editor & binary encryptor.                                                                                         | Cross-platform | ✓      |
+| [Endeavour](https://flathub.org/apps/org.gnome.Todo)               | Task management designed for simplicity.                                                                                                  | Linux          | ✓      |
+| [Errands](https://github.com/mrvladus/Errands)                     | To-do application for those who prefer simplicity.                                                                                        | Linux          | ✓      |
+| [FocusWriter](https://gottcode.org/focuswriter/)                   | Simple, distraction-free word processor.                                                                                                  | Cross-platform | ✓      |
+| [FreeMind](https://sourceforge.net/projects/freemind/)             | A mind mapper, & at the same time an easy-to-operate hierarchical editor with strong emphasis on folding.                                 | Cross-platform | ✓      |
+| [freeplane](https://github.com/freeplane/freeplane)                | Mind mapping, knowledge & project management.                                                                                             | Cross-platform | ✓      |
+| [Iotas](https://flathub.org/apps/org.gnome.World.Iotas)            | Distraction-free note taking.                                                                                                             | Linux          | ✓      |
+| [Joplin](https://joplinapp.org/)                                   | Privacy-focused note taking app.                                                                                                          | Cross-platform | ✓      |
+| [LibreOffice Calc](https://www.libreoffice.org/discover/calc/)     | Feature rich spreadsheets.                                                                                                                | Cross-platform | ✓      |
+| [LibreOffice Writer](https://www.libreoffice.org/discover/writer/) | Feature rich word processing & desktop publishing tool.                                                                                   | Cross-platform | ✓      |
+| [Minder](https://github.com/phase1geo/Minder)                      | Mind map that helps create, develop & visualize your ideas.                                                                               | Linux          | ✓      |
+| [Notesnook](https://notesnook.com/)                                | Note taking app with a focus on privacy/encryption.                                                                                       | Cross-platform | ✓      |
+| [Obsidian](https://obsidian.md/)                                   | Feature rich note taking app with dozens of customization options.                                                                        | Cross-platform | ✓      |
+| [OpenTodoList](https://opentodolist.rpdev.net/)                    | A simple task manager.                                                                                                                    | Cross-platform | ✓      |
+| [QOwnNotes](https://www.qownnotes.org/)                            | Plain-text file markdown note-taking with Nextcloud / ownCloud integration.                                                               | Cross-platform | ✓      |
+| [Rnote](https://github.com/flxzt/rnote)                            | Sketch & take handwritten notes.                                                                                                          | Cross-platform | ✓      |
+| [Simple Diary]()                                                   | Lightweight diary app.                                                                                                                    | Linux          | ✓      |
+| [Speech Note](https://flathub.org/apps/net.mkiol.SpeechNote)       | Lets you take, read & translate notes using speech to text, text to speech & machine translation.                                         | Linux          | ✓      |
+| [Standard Notes](https://standardnotes.com/)                       | Note-taking app with end-to-end encryption.                                                                                               | Cross-platform | ✓      |
+| [ThinkComposer](https://github.com/nmarcel/ThinkComposer/wiki)     | Mind mapper with diagram features.                                                                                                        | Windows        | ✓      |
+| [VUE](https://vue.tufts.edu/)                                      | Educational mind mapper.                                                                                                                  | Cross-platform | ✓      |
+| [VYM](https://sourceforge.net/projects/vym/)                       | Generate & manipulate mind maps.                                                                                                          | Cross-platform | ✓      |
+| [WeKan](https://wekan.github.io/)                                  | Kanban workflow task manager.                                                                                                             | Cross-platform | ✓      |
+| [WriterSolo](https://flathub.org/apps/com.writerduet.writersolo)   | An extensive desktop app for fully writing a screenplay or convert between various screenplay formats such as final draft fdx or fountain | Linux          | ✓      |
+| [Xournal++](https://github.com/xournalpp/xournalpp/)               | Handwriting notetaking software with PDF annotation support.                                                                              | Cross-platform | ✓      |
