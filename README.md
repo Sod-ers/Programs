@@ -149,19 +149,20 @@ ________________________________________________________
 | [USBView](http://www.kroah.com/linux-usb/)                                                    | Detailed USB information.                                                                                                                                                                               | Linux          | ✓      |
 | [WizTree](https://diskanalyzer.com/)                                                          | Disk space analyzer.                                                                                                                                                                                    | Windows        | ✓      |
 ### Diagram:
-| Program:                                                               | Description:                                          | Platform:      | Free?: |
-| ---------------------------------------------------------------------- | ----------------------------------------------------- | -------------- | ------ |
-| [Apache OpenOffice Draw](https://www.openoffice.org/product/draw.html) | Tools to communicate with graphics & diagrams.        | Cross-platform | ✓      |
-| [BKChem](https://bkchem.zirael.org/)                                   | Chemical structure Editor to draw molecular diagrams. | Cross-platform | ✓      |
-| [Dia](http://dia-installer.de/)                                        | Draw structured diagrams.                             | Cross-platform | ✓      |
-| [DIY Layout Creator](https://github.com/bancika/diy-layout-creator)    | Circuit layout & schematic drawing tool.              | Cross-platform | ✓      |
-| [draw.io](https://www.drawio.com/)                                     | Diagramming & whiteboarding.                          | Cross-platform | ✓      |
-| [Gaphor](https://gaphor.org/)                                          | A UML, SysML, RAAML & C4 modeling application.        | Cross-platform | ✓      |
-| [PlantUml](https://sourceforge.net/projects/plantuml/)                 | Creates a UML diagram.                                | Cross-platform | ✓      |
-| [PlotDrop](https://plotdrop.sourceforge.net/)                          | Quick, simple visualisation of 2D data series.        | Linux          | ✓      |
-| [PSPP](https://www.gnu.org/software/pspp/)                             | For statistical analysis of sampled data.             | Cross-platform | ✓      |
-| [ThinkComposer](https://github.com/nmarcel/ThinkComposer/wiki)         | Diagramming software with mind map features.          | Windows        | ✓      |
-| [yEd](https://www.yworks.com/products/yed)                             | Generates high-quality diagrams.                      | Cross-platform | ✓      |
+| Program:                                                               | Description:                                            | Platform:      | Free?: |
+| ---------------------------------------------------------------------- | ------------------------------------------------------- | -------------- | ------ |
+| [Apache OpenOffice Draw](https://www.openoffice.org/product/draw.html) | Tools to communicate with graphics & diagrams.          | Cross-platform | ✓      |
+| [BKChem](https://bkchem.zirael.org/)                                   | Chemical structure Editor to draw molecular diagrams.   | Cross-platform | ✓      |
+| [Dia](http://dia-installer.de/)                                        | Draw structured diagrams.                               | Cross-platform | ✓      |
+| [DIY Layout Creator](https://github.com/bancika/diy-layout-creator)    | Circuit layout & schematic drawing tool.                | Cross-platform | ✓      |
+| [draw.io](https://www.drawio.com/)                                     | Diagramming & whiteboarding.                            | Cross-platform | ✓      |
+| [Gaphor](https://gaphor.org/)                                          | A UML, SysML, RAAML & C4 modeling application.          | Cross-platform | ✓      |
+| [LibreOffice Draw](https://www.libreoffice.org/discover/draw/)         | Produce anything from a quick sketch to a complex plan. | Cross-platform | ✓      |
+| [PlantUml](https://sourceforge.net/projects/plantuml/)                 | Creates a UML diagram.                                  | Cross-platform | ✓      |
+| [PlotDrop](https://plotdrop.sourceforge.net/)                          | Quick, simple visualisation of 2D data series.          | Linux          | ✓      |
+| [PSPP](https://www.gnu.org/software/pspp/)                             | For statistical analysis of sampled data.               | Cross-platform | ✓      |
+| [ThinkComposer](https://github.com/nmarcel/ThinkComposer/wiki)         | Diagramming software with mind map features.            | Windows        | ✓      |
+| [yEd](https://www.yworks.com/products/yed)                             | Generates high-quality diagrams.                        | Cross-platform | ✓      |
 ### Emulation, Virtualization, & Compatibility:
 | Program:                                                                                            | Description:                                                                                    | Platform:      | Free?: |
 | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------- | ------ |
@@ -244,21 +245,33 @@ ________________________________________________________
 | -------- | ------------ | --------- | ------ |
 |          |              |           |        |
 ### Illustration:
-| Program:                                                               | Description:                                                                    | Platform:      | Free?: |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------- | ------ |
-| [ASCII Draw](https://github.com/Nokse22/ascii-draw)                    | Draw using only ASCII characters.                                               | Linux          | ✓      |
-| [Boxy SVG](https://boxy-svg.com/)                                      | For editing SVG files.                                                          | Linux          | ✓      |
-| [Dot Matrix](https://github.com/lainsce/dot-matrix)                    | Make icons, glyphs, or anything you can create with lines in this grid of dots. | Linux          | ✓      |
-| [FIGlet](http://www.figlet.org/)                                       | Makes large letters out of ordinary text.                                       | Cross-platform | ✓      |
-| [Glaxnimate](https://glaxnimate.mattbas.org/)                          | Vector graphics animation program.                                              | Cross-platform | ✓      |
-| [img2braille](https://github.com/sindrets/img2braille)                 | Convert images to braille ascii-art.                                            | Linux          | ✓      |
-| [Inkscape](https://inkscape.org/)                                      | Feature rich vector graphics editor.                                            | Cross-platform | ✓      |
-| [Karbon](https://calligra.org/components/karbon/)                      | A vector graphics editor.                                                       | Cross-platform | ✓      |
-| [Letterpress](https://flathub.org/apps/io.gitlab.gregorni.Letterpress) | Converts images into a picture made up of ASCII characters.                     | Linux          | ✓      |
-| [Oh My SVG](https://github.com/sonnyp/OhMySVG)                         | Reduce the size of SVGs.                                                        | Linux          | ✓      |
-| [PikoPixel](https://twilightedge.com/mac/pikopixel/)                   | Drawing & editing pixel-art images.                                             | Linux          | ✓      |
-| [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)          | Pixel art multitool; can create sprites, tiles, & animations.                   | Cross-platform | ✓      |
-| [TOIlet](http://caca.zoy.org/wiki/toilet)                              | A replacement for the [​FIGlet](http://www.figlet.org/).                        | Linux          | ✓      |
+| Program:                                                               | Description:                                                                           | Platform:      | Free?: |
+| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------- | ------ |
+| [ASCII Draw](https://github.com/Nokse22/ascii-draw)                    | Draw using only ASCII characters.                                                      | Linux          | ✓      |
+| [Aseprite](https://www.aseprite.org/)                                  | Animated sprite editor & pixel art tool.                                               | Cross-platform | ✓      |
+| [Boxy SVG](https://boxy-svg.com/)                                      | For editing SVG files.                                                                 | Linux          | ✓      |
+| [CorePaint](https://flathub.org/apps/org.cubocore.CorePaint)           | Bitmap painting software to produce very simple graphics.                              | Linux          | ✓      |
+| [Dot Matrix](https://github.com/lainsce/dot-matrix)                    | Make icons, glyphs, or anything you can create with lines in this grid of dots.        | Linux          | ✓      |
+| [Drawpile](https://drawpile.net/)                                      | Lets multiple people draw, sketch, paint & animate on the same canvas simultaneously.  | Cross-platform | ✓      |
+| [FIGlet](http://www.figlet.org/)                                       | Makes large letters out of ordinary text.                                              | Cross-platform | ✓      |
+| [Glaxnimate](https://glaxnimate.mattbas.org/)                          | Vector graphics animation program.                                                     | Cross-platform | ✓      |
+| [img2braille](https://github.com/sindrets/img2braille)                 | Convert images to braille ascii-art.                                                   | Linux          | ✓      |
+| [Inkscape](https://inkscape.org/)                                      | Feature rich vector graphics editor.                                                   | Cross-platform | ✓      |
+| [JDraw](https://sourceforge.net/projects/jdraw/)                       | Simple pixel oriented graphics editor.                                                 | Cross-platform | ✓      |
+| [Karbon](https://calligra.org/components/karbon/)                      | A vector graphics editor.                                                              | Cross-platform | ✓      |
+| [Krita](https://krita.org)                                             | Raster graphics editor designed primarily for digital art & 2D animation.              | Cross-platform | ✓      |
+| [Letterpress](https://flathub.org/apps/io.gitlab.gregorni.Letterpress) | Converts images into a picture made up of ASCII characters.                            | Linux          | ✓      |
+| [LibreSprite](https://libresprite.github.io/#!/#page-top)              | Create & animate sprites.                                                              | Cross-platform | ✓      |
+| [MyPaint](https://mypaint.app/about/)                                  | A simple drawing & painting program that works well with Wacom-style graphics tablets. | Cross-platform | ✓      |
+| [Oh My SVG](https://github.com/sonnyp/OhMySVG)                         | Reduce the size of SVGs.                                                               | Linux          | ✓      |
+| [OpenToonz](https://opentoonz.github.io/e/)                            | 2D animation software.                                                                 | Cross-platform | ✓      |
+| [Paint.NET](https://www.getpaint.net/index.html)                       | Photo editing software, originally intended as a free replacement for Microsoft Paint. | Windows        | ✓      |
+| [Pencil2D](https://www.pencil2d.org/)                                  | For 2D hand-drawn animations.                                                          | Cross-platform | ✓      |
+| [PikoPixel](https://twilightedge.com/mac/pikopixel/)                   | Drawing & editing pixel-art images.                                                    | Linux          | ✓      |
+| [Pinta](https://www.pinta-project.com/)                                | Simple drawing & image editing.                                                        | Cross-platform | ✓      |
+| [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)          | Pixel art multitool; can create sprites, tiles, & animations.                          | Cross-platform | ✓      |
+| [TOIlet](http://caca.zoy.org/wiki/toilet)                              | A replacement for the [​FIGlet](http://www.figlet.org/).                               | Linux          | ✓      |
+| [Wick Editor](https://github.com/Wicklets/wick-editor)                 | For creating games, animations & everything in-between.                                | Cross-platform | ✓      |
 ### Metadata:
 | Program:                                                                          | Description:                                                                                                                                      | Platform:      | Free?: |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
