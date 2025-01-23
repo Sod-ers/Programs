@@ -8,7 +8,6 @@
 | [Audio](https://github.com/Sod-ers/Programs?tab=readme-ov-file#audio)                                                     |
 | [Backup & Restoration](https://github.com/Sod-ers/Programs?tab=readme-ov-file#backup--restoration)                        |
 | [Browsers](https://github.com/Sod-ers/Programs?tab=readme-ov-file#browsers)                                               |
-| [CD & DVD](https://github.com/Sod-ers/Programs?tab=readme-ov-file#cd--dvd)                                                |
 | [Colors](https://github.com/Sod-ers/Programs?tab=readme-ov-file#colors)                                                   |
 | [Database](https://github.com/Sod-ers/Programs?tab=readme-ov-file#database)                                               |
 | [Diagnostics](https://github.com/Sod-ers/Programs?tab=readme-ov-file#diagnostics)                                         |
@@ -29,7 +28,7 @@
 | [Server](https://github.com/Sod-ers/Programs?tab=readme-ov-file#server)                                                   |
 | [Time](https://github.com/Sod-ers/Programs?tab=readme-ov-file#time)                                                       |
 | [Tweaks](https://github.com/Sod-ers/Programs?tab=readme-ov-file#tweaks)                                                   |
-| [USB](https://github.com/Sod-ers/Programs?tab=readme-ov-file#usb)                                                         |
+| [USB, CD, & DVD](https://github.com/Sod-ers/Programs?tab=readme-ov-file#usb-cd--dvd)                                      |
 | [Video](https://github.com/Sod-ers/Programs?tab=readme-ov-file#video)                                                     |
 | [Writing](https://github.com/Sod-ers/Programs?tab=readme-ov-file#writing)                                                 |
 ________________________________________________________
@@ -97,13 +96,6 @@ ________________________________________________________
 | [Thorium](https://github.com/Alex313031/thorium)                               | Performance focused Chromium fork.                                       | Cross-platform | ✓      |
 | [Tor](https://www.torproject.org/)                                             | Private browsing without tracking, surveillance, or censorship.          | Cross-platform | ✓      |
 | [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | A lightweight approach to removing Google web service dependency.        | Cross-platform | ✓      |
-### CD & DVD:
-| Program:                                                       | Description:                                          | Platform:      | Free?: |
-| -------------------------------------------------------------- | ----------------------------------------------------- | -------------- | ------ |
-| [Brasero](https://flathub.org/apps/org.gnome.Brasero)          | Create, copy & burn data & audio to CD/DVDs.          | Linux          | ✓      |
-| [Handbrake](https://handbrake.fr/)                             | Open-source video transcoder, can rip DVDs.           | Cross-platform | ✓      |
-| [Sound Juicer](https://flathub.org/apps/org.gnome.SoundJuicer) | Extract the audio from CDs & convert them into files. | Linux          | ✓      |
-| [Xfburn](https://docs.xfce.org/apps/xfburn/start)              | CD burner for XFCE.                                   | Linux          | ✓      |
 ### Colors:
 | Program:                                                       | Description:                                                                                                            | Platform: | Free?: |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------- | ------ |
@@ -475,15 +467,19 @@ ________________________________________________________
 | [Win11Debloat](https://github.com/Raphire/Win11Debloat)                                    | PowerShell script that can remove pre-installed Windows bloatware apps, disable telemetry & more.                                                                                    | Windows   | ✓      |
 | [Winaero Tweaker](https://winaerotweaker.com/)                                             | Dozens of options for fine-grained tuning of various Windows settings & features.                                                                                                    | Windows   | ✓      |
 | [Winutil](https://github.com/ChrisTitusTech/winutil)                                       | Streamline installs, debloat with tweaks, troubleshoot with config, & fix Windows updates.                                                                                           | Windows   | ✓      |
-### USB:
-| Program:                                                      | Description:                                                                                                                                                                                                                              | Platform:      | Free?: |
-| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
-| [balenaEtcher](https://etcher.balena.io/)                     | Flash OS images to SD cards & USB drives.                                                                                                                                                                                                 | Cross-platform | ✓      |
-| [GParted Live](https://gparted.org/livecd.php)                | Access all the [features](https://gparted.org/features.php) of the latest versions of GParted from a portable device.                                                                                                                     | Cross-platform | ✓      |
-| [Rufus](https://github.com/pbatard/rufus)                     | Format & create bootable USB flash drives.                                                                                                                                                                                                | Windows        | ✓      |
-| [UNetbootin](https://unetbootin.github.io/)                   | Create bootable Live USB drives for Linux distributions; it supplies ISOs or use your own.                                                                                                                                                | Cross-platform | ✓      |
-| [Ventoy](https://github.com/ventoy/Ventoy)                    | Creates a bootable USB drive. You don't need to format the disk over & over, you just need to copy the image files to the USB drive & boot it. You can copy many image files at a time & Ventoy will give you a boot menu to select them. | Cross-platform | ✓      |
-| [YUMI](https://pendrivelinux.com/yumi-multiboot-usb-creator/) | USB bootloader, similar to Ventoy.                                                                                                                                                                                                        | Windows        | ✓      |
+### USB, CD, & DVD:
+| Program:                                                       | Description:                                                                                                                                                                                                                              | Platform:      | Free?: |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
+| [balenaEtcher](https://etcher.balena.io/)                      | Flash OS images to SD cards & USB drives.                                                                                                                                                                                                 | Cross-platform | ✓      |
+| [Brasero](https://flathub.org/apps/org.gnome.Brasero)          | Create, copy & burn data & audio to CD/DVDs.                                                                                                                                                                                              | Linux          | ✓      |
+| [GParted Live](https://gparted.org/livecd.php)                 | Access all the [features](https://gparted.org/features.php) of the latest versions of GParted from a portable device.                                                                                                                     | Cross-platform | ✓      |
+| [Handbrake](https://handbrake.fr/)                             | Open-source video transcoder, can rip DVDs.                                                                                                                                                                                               | Cross-platform | ✓      |
+| [Rufus](https://github.com/pbatard/rufus)                      | Format & create bootable USB flash drives.                                                                                                                                                                                                | Windows        | ✓      |
+| [Sound Juicer](https://flathub.org/apps/org.gnome.SoundJuicer) | Extract the audio from CDs & convert them into files.                                                                                                                                                                                     | Linux          | ✓      |
+| [UNetbootin](https://unetbootin.github.io/)                    | Create bootable Live USB drives for Linux distributions; it supplies ISOs or use your own.                                                                                                                                                | Cross-platform | ✓      |
+| [Ventoy](https://github.com/ventoy/Ventoy)                     | Creates a bootable USB drive. You don't need to format the disk over & over, you just need to copy the image files to the USB drive & boot it. You can copy many image files at a time & Ventoy will give you a boot menu to select them. | Cross-platform | ✓      |
+| [Xfburn](https://docs.xfce.org/apps/xfburn/start)              | CD burner for XFCE.                                                                                                                                                                                                                       | Linux          | ✓      |
+| [YUMI](https://pendrivelinux.com/yumi-multiboot-usb-creator/)  | USB bootloader, similar to Ventoy.                                                                                                                                                                                                        | Windows        | ✓      |
 ### Video:
 | Program: | Description: | Platform: | Free?: |
 | -------- | ------------ | --------- | ------ |
