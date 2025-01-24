@@ -1,0 +1,1 @@
+Use [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal) & disable xdg-run/pipewire-0
