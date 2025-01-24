@@ -70,3 +70,8 @@
 | [foo_texttools](https://www.foobar2000.org/components/view/foo_texttools)                                           | Customizable context menu commands for copying information about the selected tracks to Windows Clipboard.                                                                  |
 | [foo_ui_columns](https://www.foobar2000.org/components/view/foo_ui_columns)                                         | Alternative user interface.                                                                                                                                                 |
 | [foo_youtube](https://www.foobar2000.org/components/view/foo_youtube)                                               | Play Youtube videos & playlists directly by their URL.                                                                                                                      |
+### Misc:
+
+```
+$if($strstr(%path%,'://'),C:\User\Soders\Tags\%album%.png)
+```
