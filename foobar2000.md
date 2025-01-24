@@ -75,3 +75,8 @@ Custom album art for radio streams:
 ```
 $if($strstr(%path%,'://'),C:\User\Soders\Tags\%album%.png)
 ```
+
+Launch options:
+```
+C:\User\Soders\foobar2000\foobar2000.exe "/runcmd=Playback/Volume/Set to -21 dB" /play
+```
