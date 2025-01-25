@@ -118,6 +118,7 @@
 | [Modern Theme](https://addons.mozilla.org/en-US/firefox/addon/moderntheme/)                               |
 | [Modern Theme Green](https://addons.mozilla.org/en-US/firefox/addon/modernthemegreen/)                    |
 | [Moon and Earth](https://addons.mozilla.org/en-US/firefox/addon/moon-and-earth/)                          |
+| [Orange](https://addons.mozilla.org/en-US/firefox/addon/pantone-orange-021-u/)                            |
 | [Painter's Tape Light Blue](https://addons.mozilla.org/en-US/firefox/addon/painter-s-tape-light-blue/)    |
 | [Reddit (Dark)](https://addons.mozilla.org/en-US/firefox/addon/reddit-dark/)                              |
 | [Retro Themes Collection](https://github.com/matthewmx86/RetroThemesFirefox)                              |
