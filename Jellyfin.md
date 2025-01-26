@@ -4,6 +4,7 @@
 ### Plugins:
 | Plugin:                                                                         | Description:                                                              |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [FinTube](https://github.com/AECX/FinTube)                                      | Plugin to import directly from YT.                                        |
 | [Intro Skipper](https://github.com/intro-skipper/intro-skipper)                 | Fingerprint audio to automatically detect & skip intro/credit sequences.  |
 | [LastFM scrobbler](https://github.com/jesseward/jellyfin-plugin-lastfm)         | Enables audio scrobbling to Last.FM as well as a metadata fetcher source. |
 | [Skin Manager](https://github.com/danieladov/jellyfin-plugin-skin-manager)      | Helps you download & install skins.                                       |

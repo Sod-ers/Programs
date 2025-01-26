@@ -1,4 +1,4 @@
-udev rules for Elgato devices:[raw.githubusercontent.com/StreamController/StreamController/main/udev.rules](https://raw.githubusercontent.com/StreamController/StreamController/main/udev.rules)
+udev rules for Elgato devices: [raw.githubusercontent.com/StreamController/StreamController/main/udev.rules](https://raw.githubusercontent.com/StreamController/StreamController/main/udev.rules)
 ```
 SUBSYSTEM=="usb", ATTRS{idVendor}=="0fd9", ATTRS{idProduct}=="0063", TAG+="uaccess"
 SUBSYSTEM=="usb", ATTRS{idVendor}=="0fd9", ATTRS{idProduct}=="0090", TAG+="uaccess"

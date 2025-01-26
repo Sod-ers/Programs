@@ -24,6 +24,7 @@
 | GTK                  | [Dracula](https://www.gnome-look.org/p/1687249)                                                                    |
 | GTK                  | [Dracula](https://github.com/dracula/gtk)                                                                          |
 | GTK                  | [Colloid](https://github.com/vinceliuice/Colloid-gtk-theme)                                                        |
+| GTK                  | [Vimix](https://github.com/vinceliuice/Vimix-gtk-themes)                                                           |
 | Icons                | [Colloid](https://github.com/vinceliuice/Colloid-icon-theme)                                                       |
 | Illustrator Swatches | [Dracula](https://github.com/dracula/adobe)                                                                        |
 | Image Glass          | [Dark](https://imageglass.org/theme/default-dark-maatarashiii-46)                                                  |
@@ -33,10 +34,13 @@
 | Krita                | [Dracula](https://github.com/dracula/krita)                                                                        |
 | LibreOffice          | [Dracula](https://github.com/dracula/libreoffice)                                                                  |
 | LibreOffice          | [Colibre Dark](https://github.com/rizmut/libreoffice-style-colibre)                                                |
+| Linux Icons          | [Colloid](https://github.com/vinceliuice/Colloid-icon-theme)                                                       |
+| Linux Icons          | [Qogir](https://github.com/vinceliuice/Qogir-icon-theme)                                                           |
 | Mousepad             | [Dracula](https://github.com/dracula/mousepad)                                                                     |
 | Nextcloud            | [Dracula](https://github.com/dracula/nextcloud)                                                                    |
 | Notepad++            | [Dracula](https://github.com/dracula/notepad-plus-plus)                                                            |
 | Obsidian             | [Tokyo Night](https://github.com/tcmmichaelb139/obsidian-tokyonight)                                               |
+| OneCommander         | [Dev](https://github.com/Abod1960/One-Commander-Dev-Theme)                                                         |
 | Openbox              | [Dracula](https://draculatheme.com/openbox)                                                                        |
 | Papirus Folders      | [Dracula](https://github.com/dracula/papirus-folders)                                                              |
 | Photoshop Swatches   | [Dracula](https://github.com/dracula/adobe)                                                                        |
@@ -60,16 +64,21 @@
 | Steam                | [Fluenty](https://github.com/Hexality/Fluenty)                                                                     |
 | Steam                | [Store & Community Dark](https://steamskins.pages.dev/guides/installation/#dark-store-pages-by-shiina)             |
 | Steam                | [Chat & Friends Style](https://chat.lasr.skin)                                                                     |
+| Steam                | [Adwaita](https://github.com/Foldex/AdwSteamGtk)                                                                   |
+| Steam                | [Another Take On Metro Steam](https://github.com/Plaer1/ATOMS)                                                     |
 | Tabletop Simulator   | [Dracula](https://github.com/dracula/tabletop-simulator)                                                           |
 | Telegram             | [Dracula](https://github.com/dracula/telegram)                                                                     |
 | Telegram iOS         | [Dracula](https://github.com/dracula/telegram-ios)                                                                 |
 | Terminal             | [Collection](https://gogh-co.github.io/Gogh/)                                                                      |
 | Unreal Engine        | [Dracula](https://github.com/dracula/unreal-engine)                                                                |
 | Visual Studio Code   | [Humane-Dark](https://open-vsx.org/extension/sjsepan/sjsepan-humanedark)                                           |
+| Visual Studio Code   | [Subway (dark)](https://marketplace.visualstudio.com/items?itemName=idleberg.subway-dark)                          |
 | VLC media player     | [Dracula](https://addons.videolan.org/p/1647074/)                                                                  |
 | Windows              | [Dracula](https://www.vinstartheme.com/dracula-theme-for-windows/)                                                 |
 | Windows Powershell   | [Dracula](https://github.com/dracula/powershell)                                                                   |
 | Windows Terminal     | [Dracula](https://github.com/dracula/windows-terminal)                                                             |
 | Wine                 | [Breeze Dark](https://forums.linuxmint.com/viewtopic.php?t=394382)                                                 |
 | WinRAR               | [Collection](https://www.rarlab.com/themes.htm)                                                                    |
+| xed                  | [Monokai Extended](https://gist.github.com/LeoIannacone/71028cc3bce04567d77e)                                      |
+| xed                  | [Bohemian](https://github.com/vapoafe/Xed-Bohemian)                                                                |
 
