@@ -50,6 +50,7 @@
 ### Resources:
 | Resource:                                                                                 | Description:                                                   |
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| [Launch parameters](https://obsproject.com/kb/launch-parameters)                          | Launch parameters for automation.                              |
 | [OBS-PYTHON](https://github.com/Mushiiies/OBS-PYTHON)                                     | A portable version of Python for ease of use with OBS scripts. |
 | [obs-shaderfilter](https://github.com/exeldro/obs-shaderfilter/tree/master/data/examples) | Shader collection.                                             |
 ### Themes:

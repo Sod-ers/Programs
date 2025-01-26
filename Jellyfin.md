@@ -7,6 +7,7 @@
 | [FinTube](https://github.com/AECX/FinTube)                                      | Plugin to import directly from YT.                                          |
 | [Intro Skipper](https://github.com/intro-skipper/intro-skipper)                 | Fingerprint audio to automatically detect & skip intro/credit sequences.    |
 | [LastFM scrobbler](https://github.com/jesseward/jellyfin-plugin-lastfm)         | Enables audio scrobbling to Last.FM as well as a metadata fetcher source.   |
+| [Media Cleaner](https://github.com/shemanaev/jellyfin-plugin-media-cleaner)     | Automatically delete played media files after specified amount of time.     |
 | [Skin Manager](https://github.com/danieladov/jellyfin-plugin-skin-manager)      | Helps you download & install skins.                                         |
 | [TMDb Trailers](https://github.com/crobibero/jellyfin-plugin-tmdb-trailers)     | Watch trailers sourced from TMDb.                                           |
 | [Youtube Metadata](https://github.com/ankenyr/jellyfin-youtube-metadata-plugin) | Retrieves metadata for content from Youtube.                                |

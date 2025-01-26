@@ -4,6 +4,7 @@
 ### Themes:
 | Program:             | Theme:                                                                                                             |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Font                 | [SF Mono](https://github.com/supercomputra/SF-Mono-Font)                                                           |
 | Ableton Live         | [Dracula](https://github.com/dracula/ableton-live)                                                                 |
 | Aseprite             | [Dracula](https://github.com/dracula/aseprite)                                                                     |
 | Audacity             | [Dracula](https://github.com/dracula/audacity)                                                                     |
@@ -16,6 +17,7 @@
 | Cursor               | [Whitesur cursors](https://github.com/vinceliuice/WhiteSur-cursors)                                                |
 | Discord              | [Dracula](https://github.com/slowstab/dracula)                                                                     |
 | EverythingToolbar    | [Dracula](https://github.com/dracula/everythingtoolbar)                                                            |
+| Font                 | [San Francisco Pro](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts)                                      |
 | FreeCAD              | [Dracula](https://github.com/dracula/freecad)                                                                      |
 | Gamepad Viewer       | [Dracula](https://github.com/dracula/gamepad-viewer)                                                               |
 | GIMP                 | [Dracula](https://github.com/dracula/gimp)                                                                         |
