@@ -36,6 +36,7 @@
 | LibreOffice          | [Colibre Dark](https://github.com/rizmut/libreoffice-style-colibre)                                                |
 | Linux Icons          | [Colloid](https://github.com/vinceliuice/Colloid-icon-theme)                                                       |
 | Linux Icons          | [Qogir](https://github.com/vinceliuice/Qogir-icon-theme)                                                           |
+| Linux Icons          | [Kora](https://github.com/bikass/kora)                                                                             |
 | Mousepad             | [Dracula](https://github.com/dracula/mousepad)                                                                     |
 | Nextcloud            | [Dracula](https://github.com/dracula/nextcloud)                                                                    |
 | Notepad++            | [Dracula](https://github.com/dracula/notepad-plus-plus)                                                            |
@@ -81,4 +82,5 @@
 | WinRAR               | [Collection](https://www.rarlab.com/themes.htm)                                                                    |
 | xed                  | [Monokai Extended](https://gist.github.com/LeoIannacone/71028cc3bce04567d77e)                                      |
 | xed                  | [Bohemian](https://github.com/vapoafe/Xed-Bohemian)                                                                |
+| xed                  | [Catppuccin](https://github.com/catppuccin/xed)                                                                    |
 

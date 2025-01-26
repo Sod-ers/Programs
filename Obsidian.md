@@ -1,0 +1,6 @@
+
+| Plugin:                                                                               | Description:                                                                                                                                          |
+| ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Duplicate detector](https://github.com/Wishmater/obsidian-plugin-duplicate-detector) | Highlights duplicate lines in the active open note. Hovering over a highlighted line will show a tooltip with the line number where it is duplicated. |
+| [GitHub Sync](https://github.com/kevinmkchin/Obsidian-GitHub-Sync)                    | Sync Obsidian vault to personal GitHub.                                                                                                               |
+| [Table Sorting](https://github.com/kraibse/obsidian-table-sorting)                    | Organize your tables non-destructively, sorting by multiple columns is supported.                                                                     |
