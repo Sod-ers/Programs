@@ -94,8 +94,3 @@
 | [Window Resizer](https://chromewebstore.google.com/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                                | Resize the browser window to emulate various screen resolutions.                                                                                                                                       |
 | [xBrowserSync](https://chromewebstore.google.com/detail/xbrowsersync/lcbjdhceifofjlpecfpeimnnphbcjgnc)                                                          | Sync your bookmarks & browser data between your desktop browsers.                                                                                                                                      |
 | [YouTube Redux](https://chromewebstore.google.com/detail/youtube-redux/mdgdgieddpndgjlmeblhjgljejejkikf?hl=en)                                                  | Replicate old YouTube look & features within the modern layout.                                                                                                                                        |
-### Themes:
-| Theme:                                                                                                                            |
-| --------------------------------------------------------------------------------------------------------------------------------- |
-| [Dracula](https://chromewebstore.google.com/detail/dracula-chrome-theme/gfapcejdoghpoidkfodoiiffaaibpaem?utm_source=ext_app_menu) |
-| [Ultra Violet](https://chromewebstore.google.com/detail/ultra-violet/lcknjpenlfdlffeafcadkbjfodmmgdip)                            |

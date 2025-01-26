@@ -26,7 +26,3 @@
 | [Servarr Installation Script](https://wiki.servarr.com/install-script)             | Script to handle installation of servarr apps on Linux.                       |
 | [TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker)                    | An automated title card maker for Plex, Jellyfin, & Emby media servers.       |
 | [TraSH-Guides](https://trash-guides.info/)                                         | Guides to configure servarr apps.                                             |
-### Themes:
-| Theme:                                                               |
-| -------------------------------------------------------------------- |
-| [Dracula](https://docs.theme-park.dev/themes/jellyfin/#installation) |
