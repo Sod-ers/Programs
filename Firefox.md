@@ -128,4 +128,5 @@
 | [Tokyo Night](https://addons.mozilla.org/en-US/firefox/addon/tokyo-night-milav/)                          |
 | [tokyonight](https://addons.mozilla.org/en-US/firefox/addon/tokyonight/)                                  |
 | [Trully Dracula](https://addons.mozilla.org/en-US/firefox/addon/trully-dracula/)                          |
+| [Yellow Vampire](https://addons.mozilla.org/is/firefox/addon/yellow-vampire/)                             |
 | [YellowBlackSober](https://addons.mozilla.org/en-US/firefox/addon/yellowblacksober/)                      |
