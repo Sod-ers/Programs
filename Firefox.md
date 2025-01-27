@@ -113,6 +113,7 @@
 | [DuckDuckGo](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo/)                                  |
 | [Electric Night](https://addons.mozilla.org/en-US/firefox/addon/electric-night-by-justeasing/)            |
 | [Geckium](https://github.com/angelbruni/Geckium)                                                          |
+| [GNOME](https://github.com/largestgithubuseronearth/addwater)                                             |
 | [Gruvbox](https://addons.mozilla.org/en-US/firefox/addon/gruvboxgruvboxgruvboxgruvboxgr/)                 |
 | [Light Dracula](https://addons.mozilla.org/en-US/firefox/addon/light-dracula/)                            |
 | [macOS Dark](https://addons.mozilla.org/en-US/firefox/addon/macos-dark/)                                  |
