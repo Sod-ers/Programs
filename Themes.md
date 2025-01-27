@@ -25,6 +25,7 @@
 | GIMP                 | [Dracula](https://github.com/dracula/gimp)                                                                                        |
 | Grub Bootloader      | [OldBIOS](https://www.pling.com/p/2072033)                                                                                        |
 | Grub Bootloader      | [Collection](https://github.com/jacksaur/Gorgeous-GRUB)                                                                           |
+| GTK                  | [B00MERANG collection](https://b00merang-project.github.io/linux-themes)                                                          |
 | GTK                  | [Dracula](https://www.gnome-look.org/p/1687249)                                                                                   |
 | GTK                  | [Dracula](https://github.com/dracula/gtk)                                                                                         |
 | GTK                  | [Colloid](https://github.com/vinceliuice/Colloid-gtk-theme)                                                                       |
@@ -82,6 +83,13 @@
 | Unreal Engine        | [Dracula](https://github.com/dracula/unreal-engine)                                                                               |
 | Visual Studio Code   | [Humane-Dark](https://open-vsx.org/extension/sjsepan/sjsepan-humanedark)                                                          |
 | Visual Studio Code   | [Subway (dark)](https://marketplace.visualstudio.com/items?itemName=idleberg.subway-dark)                                         |
+| Visual Studio Code   | [Owlet](https://marketplace.visualstudio.com/items?itemName=itsjonq.owlet)                                                        |
+| Visual Studio Code   | [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)                              |
+| Visual Studio Code   | [Gitpod](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-theme)                                                 |
+| Visual Studio Code   | [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)                               |
+| Visual Studio Code   | [Adey Coder](https://marketplace.visualstudio.com/items?itemName=AdeyCoder.adey-coder-dark)                                       |
+| Visual Studio Code   | [Matrixish](https://marketplace.visualstudio.com/items?itemName=sjsepan.sjsepan-matrixish)                                        |
+| Visual Studio Code   | [Greyburst](https://marketplace.visualstudio.com/items?itemName=zewish.greyburst)                                                 |
 | VLC media player     | [Dracula](https://addons.videolan.org/p/1647074/)                                                                                 |
 | Windows              | [Dracula](https://www.vinstartheme.com/dracula-theme-for-windows/)                                                                |
 | Windows Powershell   | [Dracula](https://github.com/dracula/powershell)                                                                                  |
