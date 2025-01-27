@@ -51,8 +51,9 @@
 | Openbox              | [Dracula](https://draculatheme.com/openbox)                                                                                       |
 | Papirus Folders      | [Dracula](https://github.com/dracula/papirus-folders)                                                                             |
 | Photoshop Swatches   | [Dracula](https://github.com/dracula/adobe)                                                                                       |
-| Plymouth             | [Linux Distro Logos Colored - macOS Boot Splash Style](https://www.pling.com/p/2106821/)                                          |
+| Plymouth             | [Distro Logos Colored - macOS Boot Splash Style](https://www.pling.com/p/2106821/)                                                |
 | Plymouth             | [Collection](https://github.com/adi1090x/plymouth-themes)                                                                         |
+| Plymouth             | [Linux Desktop/WM - colored/macOS-Style](https://www.gnome-look.org/p/2214975)                                                    |
 | PolyMC               | [Dracula](https://github.com/dracula/polymc)                                                                                      |
 | qBittorrent          | [Dracula](https://github.com/dracula/qbittorrent)                                                                                 |
 | qBittorrent Web      | [Dark](https://github.com/Carve/qbittorrent-webui-cjratliff.com)                                                                  |
