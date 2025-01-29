@@ -9,7 +9,6 @@
 | [LastFM scrobbler](https://github.com/jesseward/jellyfin-plugin-lastfm)         | Enables audio scrobbling to Last.FM as well as a metadata fetcher source.   |
 | [Media Cleaner](https://github.com/shemanaev/jellyfin-plugin-media-cleaner)     | Automatically delete played media files after specified amount of time.     |
 | [Skin Manager](https://github.com/danieladov/jellyfin-plugin-skin-manager)      | Helps you download & install skins.                                         |
-| [TMDb Trailers](https://github.com/crobibero/jellyfin-plugin-tmdb-trailers)     | Watch trailers sourced from TMDb.                                           |
 | [Youtube Metadata](https://github.com/ankenyr/jellyfin-youtube-metadata-plugin) | Retrieves metadata for content from Youtube.                                |
 | [ytdl-sub](https://github.com/jmbannon/ytdl-sub)                                | Lightweight tool to automate downloading & metadata generation with yt-dlp. |
 | [ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM)                            | Script to serve Youtube/Twitch/Crunchyroll videos without storing it.       |

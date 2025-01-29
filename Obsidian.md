@@ -7,3 +7,6 @@
 | [Kanban](https://github.com/mgmeyers/obsidian-kanban)                                             | Create markdown-backed Kanban boards.                                                                                                                 |
 | [Sort and Permute lines](https://github.com/Vinzent03/obsidian-sort-and-permute-lines)            | Sort & Permute lines in whole file or selection.                                                                                                      |
 | [Table Sorting](https://github.com/kraibse/obsidian-table-sorting)                                | Organize your tables non-destructively, sorting by multiple columns is supported.                                                                     |
+URI examples: 
+obsidian://open?vault=Programs
+obsidian://open?vault=Programs&file=example

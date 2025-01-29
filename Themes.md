@@ -49,7 +49,7 @@
 | OBS Studio           | [Yami Resized](https://obsproject.com/forum/resources/yami-resized.1611/)                                                         |
 | Obsidian             | [Tokyo Night](https://github.com/tcmmichaelb139/obsidian-tokyonight)                                                              |
 | OneCommander         | [Dev](https://github.com/Abod1960/One-Commander-Dev-Theme)                                                                        |
-| Openbox              | [Dracula](https://draculatheme.com/openbox)                                                                                       |
+| Openbox              | [Dracula](https://github.com/dracula/openbox)                                                                                     |
 | Papirus Folders      | [Dracula](https://github.com/dracula/papirus-folders)                                                                             |
 | Photoshop Swatches   | [Dracula](https://github.com/dracula/adobe)                                                                                       |
 | Plymouth             | [Distro Logos Colored - macOS Boot Splash Style](https://www.pling.com/p/2106821/)                                                |
