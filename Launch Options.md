@@ -10,7 +10,6 @@
 | Program:      | Options:                                                                                                        |
 | ------------- | --------------------------------------------------------------------------------------------------------------- |
 | GMod          | -novid -fullscreen -high -con_enable 1 +fps_max 240 +cl_showfps 1 -freq 240 +exec autoexec                      |
-| HL2DM         | -novid -fullscreen -high -con_enable 1 +fps_max 240 +cl_showfps 1 -freq 240 +exec autoexec                      |
 | mkChromecast  | -s --source-url https://example-source.mp3                                                                      |
 | Open Fortress | -steam -novid -nostartupsound -high -con_enable 1 -windowed -noborder +fps_max 240 +cl_showfps 1 +exec autoexec |
 | PolyMC        | -l "instance name"                                                                                              |
