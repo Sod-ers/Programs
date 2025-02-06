@@ -13,9 +13,11 @@
 ### Resources:
 | Resource:                                                                             | Description:                                                                  |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Jellyfin ApiClient Python](https://github.com/jellyfin/jellyfin-apiclient-python)    | Python API client.                                                            |
 | [Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)              | A collection of awesome Jellyfin projects.                                    |
+| [Featured Content Bar](https://github.com/tedhinklater/Jellyfin-Featured-Content-Bar) | Featured Bar now with Fullscreen Version.                                     |
+| [Jellyfin ApiClient Python](https://github.com/jellyfin/jellyfin-apiclient-python)    | Python API client.                                                            |
 | [Jellyfin Rewind](https://github.com/Chaphasilor/jellyfin-rewind)                     | Review your music listening habits of the year. A "Spotify Wrapped"-like app. |
+| [jellyfin-mods](https://github.com/BobHasNoSoul/jellyfin-mods)                        | Guide for various modifications.                                              |
 | [Jellyman](https://github.com/smiley-mcsmiles/jellyman)                               | A set of scripts to install/manage & update Jellyfin.                         |
 | [Jellystat](https://github.com/CyferShepard/Jellystat)                                | Statistics app.                                                               |
 | [Playlifin](https://flathub.org/apps/net.krafting.Playlifin)                          | Converts a Youtube Music playlist to a Jellyfin playlist.                     |
@@ -25,4 +27,3 @@
 | [TraSH-Guides](https://trash-guides.info/)                                            | Guides to configure servarr apps.                                             |
 | [ytdl-sub](https://github.com/jmbannon/ytdl-sub)                                      | Lightweight tool to automate downloading & metadata generation with yt-dlp.   |
 | [ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM)                                  | Script to serve Youtube/Twitch/Crunchyroll videos without storing it.         |
-| [Featured Content Bar](https://github.com/tedhinklater/Jellyfin-Featured-Content-Bar) | Featured Bar now with Fullscreen Version.                                     |
