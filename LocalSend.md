@@ -1,0 +1,1 @@
+- Sharing App Store links from sharesheet to LocalSend dumps the icon too.
