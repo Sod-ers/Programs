@@ -1,0 +1,1 @@
+Install udev rules: https://openrgb.org/udev.html

@@ -10,4 +10,5 @@
 | 1920x1080   | 1         | 2        |
 ### Border:
 Thickness: 0.2%
+
 Color: 282a36

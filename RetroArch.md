@@ -1,0 +1,1 @@
+Flatpak directory: ~/.var/app/org.libretro.RetroArch/config/retroarch/thumbnails/
