@@ -2,6 +2,6 @@ After monitor & panel configuration is finished, use ARandR to save settings to 
 
 ARandR is useful for toggling monitors on/off.
 
-Rarely but occasionally I experience a bug with Linux that centers panels based on total multi-monitor display dimensions; offsetting panel incorrectly.
+Rarely but occasionally I experience a bug with XFCE that centers panels based on total multi-monitor display dimensions; offsetting panel incorrectly.
 
 Running ARandR scripts fixes this bug.
