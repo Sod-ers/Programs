@@ -1,0 +1,1 @@
+`ascii-image-converter /home/soders/Desktop/image.png -b -d 50,25`
