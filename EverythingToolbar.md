@@ -1,0 +1,1 @@
+Use alpha version of Everything for dark mode & set instance name to `1.5a` or relevant version

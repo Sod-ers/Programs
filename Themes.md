@@ -23,6 +23,7 @@
 | FreeCAD              | [Dracula](https://github.com/dracula/freecad)                                                                                     |
 | Gamepad Viewer       | [Dracula](https://github.com/dracula/gamepad-viewer)                                                                              |
 | GIMP                 | [Dracula](https://github.com/dracula/gimp)                                                                                        |
+| GIMP                 | [3.0 Collection](https://github.com/bunnywaffle/GIMP-3-Themes)                                                                    |
 | Grub Bootloader      | [OldBIOS](https://www.pling.com/p/2072033)                                                                                        |
 | Grub Bootloader      | [Collection](https://github.com/jacksaur/Gorgeous-GRUB)                                                                           |
 | GTK                  | [B00MERANG collection](https://b00merang-project.github.io/linux-themes)                                                          |

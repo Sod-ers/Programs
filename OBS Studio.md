@@ -56,3 +56,7 @@
 ### Misc:
 Flatpak themes directory:
 ~/.var/app/com.obsproject.Studio/config/obs-studio/themes/
+
+Flatpak plugins:
+Type in terminal then press tab twice.
+`flatpak install flathub com.obsproject.Studio.Plugin.`
