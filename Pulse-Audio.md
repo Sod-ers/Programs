@@ -1,0 +1,1 @@
+Fix for duplicate volume notifications: Right click panel volume icon, Click properties, disable `Show notifications when volume changes` option.
