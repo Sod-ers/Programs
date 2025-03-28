@@ -1,0 +1,1 @@
+Edit > Preferences > Tool options > Move tool > Set layer or path as active

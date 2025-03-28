@@ -16,6 +16,7 @@
 | Cursor               | [Capitaine cursors](https://github.com/keeferrourke/capitaine-cursors)                                                            |
 | Cursor               | [Windows 11 Dark](http://www.rw-designer.com/cursor-set/windows-11-dark-theme)                                                    |
 | Cursor               | [Whitesur cursors](https://github.com/vinceliuice/WhiteSur-cursors)                                                               |
+| Cursor               | [McMojave cursors](https://github.com/vinceliuice/McMojave-cursors)                                                               |
 | Discord              | [Dracula](https://github.com/slowstab/dracula)                                                                                    |
 | EverythingToolbar    | [Dracula](https://github.com/dracula/everythingtoolbar)                                                                           |
 | Font                 | [SF Mono](https://github.com/supercomputra/SF-Mono-Font)                                                                          |
