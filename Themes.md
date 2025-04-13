@@ -7,6 +7,7 @@
 | Ableton Live         | [Dracula](https://github.com/dracula/ableton-live)                                                                                |
 | Aseprite             | [Dracula](https://github.com/dracula/aseprite)                                                                                    |
 | Audacity             | [Dracula](https://github.com/dracula/audacity)                                                                                    |
+| Audacity/Tenacity    | [Collection](https://visoart.github.io/audacity-themes/)                                                                          |
 | Blender              | [Dracula](https://github.com/dracula/blender)                                                                                     |
 | Cava                 | [Dracula](https://github.com/dracula/cava)                                                                                        |
 | Chrome               | [Dracula](https://chromewebstore.google.com/detail/dracula-chrome-theme/gfapcejdoghpoidkfodoiiffaaibpaem?utm_source=ext_app_menu) |
