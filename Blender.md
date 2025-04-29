@@ -12,8 +12,11 @@
 | Ctrl + i             | Invert selection.                          |
 | Ctrl + J             | Join.                                      |
 | Ctrl + middle mouse  | Smooth pan.                                |
+| Ctrl + N             | Recalculate normals.                       |
 | Ctrl + P             | Parent.                                    |
+| Ctrl + X             | Merge faces.                               |
 | E                    | Extrude.                                   |
+| F                    | Fill.                                      |
 | G                    | Move.                                      |
 | G then X             | Move on X axis.                            |
 | G then Y             | Move on Y axis.                            |
@@ -47,9 +50,11 @@
 | [Blender Source Tools](http://steamreview.org/BlenderSourceTools/)          | Adds Source engine support to Blender.                |
 | [Drop It](https://andreasaust.gumroad.com/l/drop_it)                        | Simply drop objects to ground or surface.             |
 | [RenderMan for Blender](https://github.com/prman-pixar/RenderManForBlender) | Render engine.                                        |
+| [SourceIO](https://github.com/REDxEYE/SourceIO)                             | Import Source Engine textures/models/maps.            |
 | [SourceOps](https://github.com/bonjorno7/SourceOps)                         | More convenient alternative to Blender Source Tools.  |
 | [TexTools](https://github.com/franMarz/TexTools-Blender)                    | UV & Texture toolset.                                 |
 | [TF2-Trifecta](https://github.com/hisprofile/TF2-Trifecta)                  | Spawn & manipulate mercenaries, cosmetics, & weapons. |
+| [UVToolkit](https://extensions.blender.org/add-ons/uv-toolkit/)             | Collection of UV editing tools.                       |
 ### Tutorials:
 | Tutorial:                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -70,14 +75,11 @@
 | [Beginner Blender 4.0 Tutorial - Part 12: Animation](https://youtu.be/4-tCn4-GfM4?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z)                             |
 | [Beginner Blender 4.0 Tutorial - Part 13: Rendering](https://youtu.be/fSfFkh2sI4k?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z)                             |
 | [Beginner Blender 4.0 Tutorial - Part 14: Finale!](https://youtu.be/xkt4HEEgoSE?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z)                               |
-| [Blender Tutorial: How To Make a 3D Model of a Soda Can](https://www.youtube.com/watch?v=IrImZ9GKhEQ)                                                  |
 | [3 Different Ways To Cut Any Object](https://youtu.be/62rDhWB6O-0)                                                                                     |
 | [How to Find Polygon/Vertex Count of your Blender Scene](https://youtu.be/QjsRTGw9yms)                                                                 |
 | [All 54 Modifiers in Blender Explained in 10 Minutes](https://youtu.be/idcFMhoSdIc?si=AK-NA2rrCTetAGTQ)                                                |
+| [All 80+ Blender material nodes explained in under 30 minutes](https://youtu.be/cQ0qtcSymDI)                                                           |
 | [How to export textures from Blender](https://youtu.be/YYUt7BRooL4)                                                                                    |
-| [10 Free Best Addons for Blender 2024](https://www.youtube.com/watch?v=15nlOTbhX3k)                                                                    |
-| [Free Blender Addons that even the PROs USE!](https://www.youtube.com/watch?v=FMfLocFWc2M)                                                             |
-| [6 Powerful FREE Blender Addons For 3D Modeling](https://youtu.be/x-2cWhEcD9Q?si=wqMjMJWDPC2-CFVZ)                                                     |
 | [Making Props for Source Engine in 6 Minutes (Blender)](https://youtu.be/0nRQxy4wek4)                                                                  |
 | [How to port MODELS from BLENDER to SOURCE - Easy and Fast](https://youtu.be/96LJSzr7uc0)                                                              |
 | [How to Create & Texture 3D Models for Garry's Mod with Blender! BEST WAY and UPDATED for 2020! 🏗️](https://youtu.be/6pSeggMfXOs?si=An4kZHxxwofIJDCm) |
@@ -87,6 +89,4 @@
 | [Creating models for GMOD - Hammer Tutorials V2](https://youtu.be/h4zeiH4bHNA?si=UgWZCB4f5enIY4mP)                                                     |
 | [Blender to MDL Tutorial](https://youtu.be/MGirKYjgaF8?si=2lF6AbJBCdH6B332)                                                                            |
 | [How to Bake Normals in 1 minute Blender Tutorial](https://youtu.be/vzBu5mLBNBs?si=4yYBKmFPOALmGAG8)                                                   |
-| [I made 100+ UV Maps to learn this ONE Lesson..](https://youtu.be/kZaa8MJyGBs?si=LsKZxeRscTC4ArWw)                                                     |
-| [Creating Valve texture material with normal map & environment mask](https://youtu.be/Xkt9t2nudY4?si=bQHVc1n4O0_PXNqZ)                                 |
 | [Creating Collision Models - Source Engine](https://youtu.be/NxmCzkQBXrc)                                                                              |
