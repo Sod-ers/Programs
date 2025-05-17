@@ -33,7 +33,6 @@
 | GTK                  | [Dracula](https://github.com/dracula/gtk)                                                                                         |
 | GTK                  | [Colloid](https://github.com/vinceliuice/Colloid-gtk-theme)                                                                       |
 | GTK                  | [Vimix](https://github.com/vinceliuice/Vimix-gtk-themes)                                                                          |
-| Icons                | [Colloid](https://github.com/vinceliuice/Colloid-icon-theme)                                                                      |
 | Illustrator Swatches | [Dracula](https://github.com/dracula/adobe)                                                                                       |
 | Image Glass          | [Dark](https://imageglass.org/theme/default-dark-maatarashiii-46)                                                                 |
 | Image Glass Icons    | [Resolute Bay icon set (H-one Design)](https://imageglass.org/extension-icon/resolute-bay-icon-set-h-one-design-3)                |
