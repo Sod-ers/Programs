@@ -8,7 +8,8 @@
 | Aseprite             | [Dracula](https://github.com/dracula/aseprite)                                                                                    |
 | Audacity             | [Dracula](https://github.com/dracula/audacity)                                                                                    |
 | Audacity/Tenacity    | [Collection](https://visoart.github.io/audacity-themes/)                                                                          |
-| Blender              | [Dracula](https://github.com/dracula/blender)                                                                                     |
+| Blender              | [Midnight Round](https://extensions.blender.org/themes/midnight-round-theme/)                                                     |
+| Blender              | [Accent color changer](https://themes.kame404.com/)                                                                               |
 | Cava                 | [Dracula](https://github.com/dracula/cava)                                                                                        |
 | Chrome               | [Dracula](https://chromewebstore.google.com/detail/dracula-chrome-theme/gfapcejdoghpoidkfodoiiffaaibpaem?utm_source=ext_app_menu) |
 | Chrome               | [Ultra Violet](https://chromewebstore.google.com/detail/ultra-violet/lcknjpenlfdlffeafcadkbjfodmmgdip)                            |

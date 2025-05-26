@@ -70,6 +70,8 @@
 | [foo_texttools](https://www.foobar2000.org/components/view/foo_texttools)                                           | Customizable context menu commands for copying information about the selected tracks to Windows Clipboard.                                                                  |
 | [foo_ui_columns](https://www.foobar2000.org/components/view/foo_ui_columns)                                         | Alternative user interface.                                                                                                                                                 |
 | [foo_youtube](https://www.foobar2000.org/components/view/foo_youtube)                                               | Play Youtube videos & playlists directly by their URL.                                                                                                                      |
+| [foo_flowin](https://github.com/ttsping/foo_flowin)                                                                 | Floating window for Default UI.                                                                                                                                             |
+| [foo_nowplaying2](https://github.com/foxx1337/foo_nowplaying2)                                                      | Generate "now playing" text, clipboard or file.                                                                                                                             |
 ### Misc:
 Custom album art for radio streams:
 ```
@@ -80,3 +82,7 @@ Launch options:
 ```
 C:\User\Soders\foobar2000\foobar2000.exe "/runcmd=Playback/Volume/Set to -21 dB" /play
 ```
+
+[beefweb-mpris:](https://github.com/ther0n/beefweb_mpris) Adds MPRIS support to foobar2000 running in WINE on Linux through the beefweb component REST API.
+
+[Foobar2000_Now_Playing_Overlay:](https://github.com/Kurogal/Foobar2000_Now_Playing_Overlay)Now playing overlays for Foobar2000.
