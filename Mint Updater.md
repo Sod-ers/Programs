@@ -1,0 +1,1 @@
+- Refresh the list of updates every 6 hours.
