@@ -45,16 +45,17 @@
 | System > Memory & Limits       | 256           |
 | System > Cycles Render Devices | OptiX or CUDA |
 ### Addons:
-| Addon:                                                                      | Description:                                          |
-| --------------------------------------------------------------------------- | ----------------------------------------------------- |
-| [Blender Source Tools](http://steamreview.org/BlenderSourceTools/)          | Adds Source engine support to Blender.                |
-| [Drop It](https://andreasaust.gumroad.com/l/drop_it)                        | Simply drop objects to ground or surface.             |
-| [RenderMan for Blender](https://github.com/prman-pixar/RenderManForBlender) | Render engine.                                        |
-| [SourceIO](https://github.com/REDxEYE/SourceIO)                             | Import Source Engine textures/models/maps.            |
-| [SourceOps](https://github.com/bonjorno7/SourceOps)                         | More convenient alternative to Blender Source Tools.  |
-| [TexTools](https://github.com/franMarz/TexTools-Blender)                    | UV & Texture toolset.                                 |
-| [TF2-Trifecta](https://github.com/hisprofile/TF2-Trifecta)                  | Spawn & manipulate mercenaries, cosmetics, & weapons. |
-| [UVToolkit](https://extensions.blender.org/add-ons/uv-toolkit/)             | Collection of UV editing tools.                       |
+| Addon:                                                                                       | Description:                                            |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| [Blender Source Tools](http://steamreview.org/BlenderSourceTools/)                           | Adds Source engine support to Blender.                  |
+| [Drop It](https://andreasaust.gumroad.com/l/drop_it)                                         | Simply drop objects to ground or surface.               |
+| [RenderMan for Blender](https://github.com/prman-pixar/RenderManForBlender)                  | Render engine.                                          |
+| [Source Engine Collision Tools](https://github.com/theanine3D/source_engine_collision_tools) | Generate & optimize collision models for Source Engine. |
+| [SourceIO](https://github.com/REDxEYE/SourceIO)                                              | Import Source Engine textures/models/maps.              |
+| [SourceOps](https://github.com/bonjorno7/SourceOps)                                          | More convenient alternative to Blender Source Tools.    |
+| [TexTools](https://github.com/franMarz/TexTools-Blender)                                     | UV & Texture toolset.                                   |
+| [TF2-Trifecta](https://github.com/hisprofile/TF2-Trifecta)                                   | Spawn & manipulate mercenaries, cosmetics, & weapons.   |
+| [UVToolkit](https://extensions.blender.org/add-ons/uv-toolkit/)                              | Collection of UV editing tools.                         |
 ### Tutorials:
 | Tutorial:                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
