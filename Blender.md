@@ -91,3 +91,4 @@
 | [Blender to MDL Tutorial](https://youtu.be/MGirKYjgaF8?si=2lF6AbJBCdH6B332)                                                                            |
 | [How to Bake Normals in 1 minute Blender Tutorial](https://youtu.be/vzBu5mLBNBs?si=4yYBKmFPOALmGAG8)                                                   |
 | [Creating Collision Models - Source Engine](https://youtu.be/NxmCzkQBXrc)                                                                              |
+| [Change middle mouse scroll zoom sensitivity aka depth](https://blenderartists.org/t/is-there-a-way-to-change-mmb-scroll-zoom-sensitivity/1488326/3)   |
