@@ -92,3 +92,4 @@
 | [How to Bake Normals in 1 minute Blender Tutorial](https://youtu.be/vzBu5mLBNBs?si=4yYBKmFPOALmGAG8)                                                   |
 | [Creating Collision Models - Source Engine](https://youtu.be/NxmCzkQBXrc)                                                                              |
 | [Change middle mouse scroll zoom sensitivity aka depth](https://blenderartists.org/t/is-there-a-way-to-change-mmb-scroll-zoom-sensitivity/1488326/3)   |
+| [Scale & extrude together](https://www.reddit.com/r/blenderhelp/comments/16sm2qs/how_do_you_inset_a_face_like_this_without/)                           |
