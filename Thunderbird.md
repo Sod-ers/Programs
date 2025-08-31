@@ -30,3 +30,6 @@
 | [Textmarker](https://addons.thunderbird.net/en-US/thunderbird/addon/textmarker/)                               | Highlights selected text when composing emails.                                                                                      |
 | [ThirdStats](https://addons.thunderbird.net/en-US/thunderbird/addon/thirdstats/)                               | Beautifully visualized statistics.                                                                                                   |
 | [WarnAttachment](https://addons.thunderbird.net/en-US/thunderbird/addon/warnattachment/)                       | Shows an additional dialog to confirm potentially dangerous attachments. Some attachments, like executables, are completely blocked. |
+
+### Notes:
+**Error 400:** Enable cookies

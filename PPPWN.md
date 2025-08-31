@@ -21,4 +21,8 @@ If the exploit fails or the PS4 crashes, you can skip the internet setup and sim
 
 If the exploit works, you should see an output similar to below, and you should see `Cannot connect to network.` followed by `PPPwned` printed on your PS4, or the other way around.
 
-https://github.com/TheOfficialFloW/PPPwn
+https://github.com/TheOfficialFloW/PPPwn  
+  
+Static connection.  
+GoldHen plugged in on startup.  
+Laptop 1 second before PS4.  

@@ -1,0 +1,6 @@
+- Viewport settings for low med hi poly models.
+- Baking.
+- Subsurface scattering.
+- Bridge edge loops.
+- Apply transformations.
+- Merge vertices to optimize.

@@ -1,0 +1,6 @@
+- Symmetrical maps.
+- Recalculating normals (Ctrl N).
+- Modifier - Weighted Normal (makes it look better?).
+- Ambient occlusion.
+- Enviornment map/mask.
+- mat_specular 0
