@@ -28,5 +28,7 @@
 | [ytdl-sub](https://github.com/jmbannon/ytdl-sub)                                      | Lightweight tool to automate downloading & metadata generation with yt-dlp.   |
 | [ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM)                                  | Script to serve Youtube/Twitch/Crunchyroll videos without storing it.         |
 ### Misc:
-Restoring backup: change ownership after deployment:
-``sudo chown -R jellyfin: /var/lib/jellyfin /etc/jellyfin``
+Restoring backup: change ownership after deployment:  
+``sudo chown -R jellyfin: /var/lib/jellyfin /etc/jellyfin``  
+
+Fix Jellyfin XML error on startup: https://forum.jellyfin.org/t-solved-xml-error-on-startup  

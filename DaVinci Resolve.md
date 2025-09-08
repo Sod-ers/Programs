@@ -1,0 +1,1 @@
+Use DaVinci Resolve for color grading.

@@ -9,6 +9,11 @@
 | [Sort and Permute lines](https://github.com/Vinzent03/obsidian-sort-and-permute-lines)            | Sort & Permute lines in whole file or selection.                                                                                                      |
 | [Table Sorting](https://github.com/kraibse/obsidian-table-sorting)                                | Organize your tables non-destructively, sorting by multiple columns is supported.                                                                     |
 
-URI examples:\
-obsidian://open?vault=Programs\
-obsidian://open?vault=Programs&file=example
+URI examples:  
+obsidian://open?vault=Programs\  
+obsidian://open?vault=Programs&file=example  
+obsidian://vault/Notes/Study/Misc  
+https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Shorthand+formats  
+  
+Kanban ematrix config:  
+`{"kanban-plugin":"board","list-collapse":[false,false,false,false],"show-checkboxes":true,"new-card-insertion-method":"prepend-compact","hide-card-count":false}`
