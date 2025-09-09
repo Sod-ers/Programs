@@ -20,11 +20,14 @@
 | Cursor               | [Whitesur cursors](https://github.com/vinceliuice/WhiteSur-cursors)                                                               |
 | Cursor               | [McMojave cursors](https://github.com/vinceliuice/McMojave-cursors)                                                               |
 | Discord              | [Dracula](https://github.com/slowstab/dracula)                                                                                    |
+| Emacs                | modus-vivendi-tinted                                                                                                              |
 | EverythingToolbar    | [Dracula](https://github.com/dracula/everythingtoolbar)                                                                           |
 | Font                 | [SF Mono](https://github.com/supercomputra/SF-Mono-Font)                                                                          |
 | Font                 | [San Francisco Pro](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts)                                                     |
 | FreeCAD              | [Dracula](https://github.com/dracula/freecad)                                                                                     |
 | Gamepad Viewer       | [Dracula](https://github.com/dracula/gamepad-viewer)                                                                              |
+| Geany                | Cyber Sugar                                                                                                                       |
+| Geany                | [Dracula](https://draculatheme.com/geany)                                                                                         |
 | GIMP                 | [Dracula](https://github.com/dracula/gimp)                                                                                        |
 | GIMP                 | [3.0 Collection](https://github.com/bunnywaffle/GIMP-3-Themes)                                                                    |
 | Grub Bootloader      | [OldBIOS](https://www.pling.com/p/2072033)                                                                                        |
