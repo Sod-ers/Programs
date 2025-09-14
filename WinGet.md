@@ -1,0 +1,1 @@
+Clear Temp directory after a while, save GBs.  `/AppData/Local/Temp/WinGet/`  

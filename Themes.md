@@ -26,7 +26,7 @@
 | Font                 | [San Francisco Pro](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts)                                                     |
 | FreeCAD              | [Dracula](https://github.com/dracula/freecad)                                                                                     |
 | Gamepad Viewer       | [Dracula](https://github.com/dracula/gamepad-viewer)                                                                              |
-| Geany                | Cyber Sugar                                                                                                                       |
+| Geany                | [Cyber Sugar](https://www.geany.org/download/themes/)                                                                             |
 | Geany                | [Dracula](https://draculatheme.com/geany)                                                                                         |
 | GIMP                 | [Dracula](https://github.com/dracula/gimp)                                                                                        |
 | GIMP                 | [3.0 Collection](https://github.com/bunnywaffle/GIMP-3-Themes)                                                                    |

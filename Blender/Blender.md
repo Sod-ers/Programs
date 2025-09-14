@@ -40,12 +40,13 @@
 | X                    | Delete.                                    |
 | Z (hold)             | Change shading.                            |
 ### Preferences:
-| Preference:                    | Value:        |
-| ------------------------------ | ------------- |
-| System > Memory & Limits       | 256           |
-| System > Cycles Render Devices | OptiX or CUDA |
-| System > Global Undo           | Enable        |
-| Overlays > Statistics          | Enable        |
+| Preference:                    | Value:           |
+| ------------------------------ | ---------------- |
+| System > Memory & Limits       | 256              |
+| System > Cycles Render Devices | OptiX or CUDA    |
+| System > Global Undo           | Enable           |
+| Overlays > Statistics          | Enable           |
+| File Paths > Fonts             | C:\Windows\Fonts |
 ### Addons:
 | Addon:                                                                                       | Description:                                                                                   |
 | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
