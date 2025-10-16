@@ -1,3 +1,4 @@
+- Weight painting.
 - Symmetrical maps.
 - Recalculating normals (Ctrl N).
 - Modifier - Weighted Normal (makes it look better?).

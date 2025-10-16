@@ -6,6 +6,7 @@
 | A                    | Select all.                                |
 | Alt + H              | Unhide.                                    |
 | Alt + left click     | Select connected segments.                 |
+| Alt + P              | Unparent.                                  |
 | C                    | Circle select. Right click or Esc to exit. |
 | Ctrl + A             | Apply.                                     |
 | Ctrl + B             | Bevel.                                     |
@@ -29,6 +30,7 @@
 | Numpad .             | Focus on object.                           |
 | Numpad 0             | Camera.                                    |
 | Numpad 1-9           | Orthographic camera controls.              |
+| Q                    | Quick favorites.                           |
 | R                    | Rotate.                                    |
 | S                    | Scale.                                     |
 | Shift + ~            | Noclip.                                    |
@@ -51,8 +53,11 @@
 | Addon:                                                                                       | Description:                                                                                   |
 | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | [Blender Source Tools](http://steamreview.org/BlenderSourceTools/)                           | Adds Source engine support to Blender.                                                         |
-| [Drop It](https://andreasaust.gumroad.com/l/drop_it)                                         | Simply drop objects to ground or surface.                                                      |
+| [BlenderSourceAnimations](https://github.com/Ultikynnys/BlenderSourceAnimations)             | Set of tools for creating animations for pre-existing Source Engine models.                    |
+| [BlenderVertexLitGeneric](https://github.com/syborg64/BlenderVertexLitGeneric)               | Native shader nodes implementation mimicking Source Engine's VertexLitGeneric shader.          |
+| [Drop It](https://andreasaust.gumroad.com/l/drop_it)                                         | Simply drop objects to ground or surface. _For Blender 2.8 - 3.x_                              |
 | [Mio3 UV](https://extensions.blender.org/add-ons/mio3-uv/)                                   | UV Edit Assistant Tools.                                                                       |
+| [Plumber](https://github.com/lasa01/Plumber)                                                 | Import Source 1 engine maps, models, materials & textures.                                     |
 | [RenderMan for Blender](https://github.com/prman-pixar/RenderManForBlender)                  | Render engine.                                                                                 |
 | [Source Engine Collision Tools](https://github.com/theanine3D/source_engine_collision_tools) | Generate & optimize collision models for Source Engine.                                        |
 | [SourceIO](https://github.com/REDxEYE/SourceIO)                                              | Import Source Engine textures/models/maps.                                                     |
@@ -102,3 +107,17 @@
 | [Show statistics](https://blenderartists.org/t/where-are-the-statistics-info-at-the-lower-right-in-blender-4-1/1531837)                                              |
 | [Offset mirrored geometry](https://blender.stackexchange.com/questions/185079/offset-mirrored-geometry)                                                              |
 | [Rotate an object around its own axis](https://blenderartists.org/t/how-do-i-rotate-an-object-around-its-own-axis-while-its-already-parented-to-an-object/1283664/2) |
+| [Move an object to center (0 0 0)](https://www.reddit.com/r/blender/comments/1ahm2kk/how_can_i_move_an_object_to_the_center_origin_of/)                              |
+| [Extrude outwards](https://www.reddit.com/r/blenderhelp/comments/11c65qd/how_do_you_extrude_outwardly_like_shown_in_the/)                                            |
+| [Loop cuts](https://docs.blender.org/manual/en/latest/modeling/meshes/tools/loop.html)                                                                               |
+| [Frame Range](https://docs.blender.org/manual/en/latest/render/output/properties/frame_range.html#)                                                                  |
+| [Fix keyframes not appearing on timeline](https://www.reddit.com/r/blenderhelp/comments/njbs5w/keyframes_not_appearing_on_timeline/)                                 |
+| [Editing Bones](https://docs.blender.org/manual/en/2.81/animation/armatures/bones/editing/bones.html)                                                                |
+| [Change font](https://blenderartists.org/t/how-where-to-change-the-font-type-in-blender/1475286)                                                                     |
+| [new SourceOps tutorial](https://www.youtube.com/watch?v=PamLBKMlpfk)                                                                                                |
+| [Blender to Source Engine model/animation export tutorial](https://www.youtube.com/watch?v=EdGiNn2RLPc)                                                              |
+| [Animation in Blender](https://developer.valvesoftware.com/wiki/Animation_in_Blender)                                                                                |
+| [Fix unwrapped model not appearing in UV editor](https://blender.stackexchange.com/questions/7889/why-doesnt-my-unwrapped-model-appear-in-the-uv-editor)             |
+| [Editing Normals](https://docs.blender.org/manual/en/latest/modeling/meshes/editing/mesh/normals.html)                                                               |
+| [Show normals & filp normals](https://www.youtube.com/watch?v=qJvvDHyK14Y)                                                                                           |
+| [Make it thicker](https://www.reddit.com/r/blender/comments/qvmxhp/how_do_i_make_it_thicker_im_very_new_to_blender/)                                                 |
