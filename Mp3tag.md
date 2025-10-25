@@ -2,5 +2,5 @@
 ### Formats:
 | Format:                                                       | Description: |
 | ------------------------------------------------------------- | ------------ |
-| %title%                                                       | Videos       |
+| %artist% - %title%                                            | Videos       |
 | [$num(%discnumber%,1)]. $num(%track%,2). - %artist% - %title% | Music        |

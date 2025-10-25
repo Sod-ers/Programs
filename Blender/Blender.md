@@ -50,23 +50,24 @@
 | Overlays > Statistics          | Enable           |
 | File Paths > Fonts             | C:\Windows\Fonts |
 ### Addons:
-| Addon:                                                                                       | Description:                                                                                   |
-| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| [Blender Source Tools](http://steamreview.org/BlenderSourceTools/)                           | Adds Source engine support to Blender.                                                         |
-| [BlenderSourceAnimations](https://github.com/Ultikynnys/BlenderSourceAnimations)             | Set of tools for creating animations for pre-existing Source Engine models.                    |
-| [BlenderVertexLitGeneric](https://github.com/syborg64/BlenderVertexLitGeneric)               | Native shader nodes implementation mimicking Source Engine's VertexLitGeneric shader.          |
-| [Drop It](https://andreasaust.gumroad.com/l/drop_it)                                         | Simply drop objects to ground or surface. _For Blender 2.8 - 3.x_                              |
-| [Mio3 UV](https://extensions.blender.org/add-ons/mio3-uv/)                                   | UV Edit Assistant Tools.                                                                       |
-| [Plumber](https://github.com/lasa01/Plumber)                                                 | Import Source 1 engine maps, models, materials & textures.                                     |
-| [RenderMan for Blender](https://github.com/prman-pixar/RenderManForBlender)                  | Render engine.                                                                                 |
-| [Source Engine Collision Tools](https://github.com/theanine3D/source_engine_collision_tools) | Generate & optimize collision models for Source Engine.                                        |
-| [SourceIO](https://github.com/REDxEYE/SourceIO)                                              | Import Source Engine textures/models/maps.                                                     |
-| [SourceOps](https://github.com/bonjorno7/SourceOps)                                          | More convenient alternative to Blender Source Tools.                                           |
-| [SURGE](https://github.com/Kompile/SURGE)                                                    | Generate surf ramp meshes.                                                                     |
-| [TexTools](https://github.com/franMarz/TexTools-Blender)                                     | UV & Texture toolset.                                                                          |
-| [TF2-Trifecta](https://github.com/hisprofile/TF2-Trifecta)                                   | Spawn & manipulate mercenaries, cosmetics, & weapons.                                          |
-| [UVToolkit](https://extensions.blender.org/add-ons/uv-toolkit/)                              | Collection of UV editing tools.                                                                |
-| [VirtuCamera](https://virtucamera.com/installation-in-blender/)                              | Realtime camera motion capture App.<br>https://github.com/shycats/VirtuCameraBlender/issues/28 |
+| Addon:                                                                                       | Description:                                                                                                                                              |
+| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Blender Source Tools](http://steamreview.org/BlenderSourceTools/)                           | Adds Source engine support to Blender.                                                                                                                    |
+| [BlenderSourceAnimations](https://github.com/Ultikynnys/BlenderSourceAnimations)             | Set of tools for creating animations for pre-existing Source Engine models.                                                                               |
+| [BlenderVertexLitGeneric](https://github.com/syborg64/BlenderVertexLitGeneric)               | Native shader nodes implementation mimicking Source Engine's VertexLitGeneric shader.                                                                     |
+| [Drop It](https://andreasaust.gumroad.com/l/drop_it)                                         | Simply drop objects to ground or surface. _For Blender 2.8 - 3.x_                                                                                         |
+| [Mio3 UV](https://extensions.blender.org/add-ons/mio3-uv/)                                   | UV Edit Assistant Tools.                                                                                                                                  |
+| [Plumber](https://github.com/lasa01/Plumber)                                                 | Import Source 1 engine maps, models, materials & textures.                                                                                                |
+| [Pribambase](https://www.illusionofmana.art/Pribambase.html)                                 | Ease & speed up lowpoly pixel textured, or 2.5D pixelart workflow. It links Aseprite & Blender editors, & handles a lot of repetitive operations for you. |
+| [RenderMan for Blender](https://github.com/prman-pixar/RenderManForBlender)                  | Render engine.                                                                                                                                            |
+| [Source Engine Collision Tools](https://github.com/theanine3D/source_engine_collision_tools) | Generate & optimize collision models for Source Engine.                                                                                                   |
+| [SourceIO](https://github.com/REDxEYE/SourceIO)                                              | Import Source Engine textures/models/maps.                                                                                                                |
+| [SourceOps](https://github.com/bonjorno7/SourceOps)                                          | More convenient alternative to Blender Source Tools.                                                                                                      |
+| [SURGE](https://github.com/Kompile/SURGE)                                                    | Generate surf ramp meshes.                                                                                                                                |
+| [TexTools](https://github.com/franMarz/TexTools-Blender)                                     | UV & Texture toolset.                                                                                                                                     |
+| [TF2-Trifecta](https://github.com/hisprofile/TF2-Trifecta)                                   | Spawn & manipulate mercenaries, cosmetics, & weapons.                                                                                                     |
+| [UVToolkit](https://extensions.blender.org/add-ons/uv-toolkit/)                              | Collection of UV editing tools.                                                                                                                           |
+| [VirtuCamera](https://virtucamera.com/installation-in-blender/)                              | Realtime camera motion capture App.<br>https://github.com/shycats/VirtuCameraBlender/issues/28                                                            |
 ### Tutorials:
 | Tutorial:                                                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
