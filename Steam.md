@@ -1,0 +1,1 @@
+Downloads > Shader Pre-Caching > Disable
