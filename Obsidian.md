@@ -16,4 +16,6 @@ obsidian://vault/Notes/Study/Misc
 https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Shorthand+formats  
   
 Kanban ematrix config:  
-`{"kanban-plugin":"board","list-collapse":[false,false,false,false],"show-checkboxes":true,"new-card-insertion-method":"prepend-compact","hide-card-count":false}`
+`{"kanban-plugin":"board","list-collapse":[false,false,false,false],"show-checkboxes":true,"new-card-insertion-method":"prepend-compact","hide-card-count":false}`  
+  
+Disable automatic update checking.  

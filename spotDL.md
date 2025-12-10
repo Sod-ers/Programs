@@ -10,3 +10,6 @@ To get cookies:
 [FAQ: Rate/request limit or YT-DLP Download Error · Issue #2420 · spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader/issues/2420)
 
 Other: `F12 > Network > v1/player > Request > serviceIntegrityDimensions`
+________________________________________________
+Required for YTDLP:  
+https://deno.com/  

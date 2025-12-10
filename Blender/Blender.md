@@ -1,46 +1,48 @@
 
 ### Keyboard Shortcuts:
-| Keys:                | Description:                               |
-| -------------------- | ------------------------------------------ |
-| 1 2 3                | Vertex, edge, face mode.                   |
-| A                    | Select all.                                |
-| Alt + H              | Unhide.                                    |
-| Alt + left click     | Select connected segments.                 |
-| Alt + P              | Unparent.                                  |
-| C                    | Circle select. Right click or Esc to exit. |
-| Ctrl + A             | Apply.                                     |
-| Ctrl + B             | Bevel.                                     |
-| Ctrl + i             | Invert selection.                          |
-| Ctrl + J             | Join.                                      |
-| Ctrl + middle mouse  | Smooth pan.                                |
-| Ctrl + N             | Recalculate normals.                       |
-| Ctrl + P             | Parent.                                    |
-| Ctrl + X             | Merge faces.                               |
-| E                    | Extrude.                                   |
-| F                    | Fill.                                      |
-| G                    | Move.                                      |
-| G then X             | Move on X axis.                            |
-| G then Y             | Move on Y axis.                            |
-| G then Z             | Move on Z axis.                            |
-| H                    | Hide.                                      |
-| i                    | Insert face.                               |
-| i                    | Insert keyframe.                           |
-| Middle mouse         | Move view.                                 |
-| N                    | Properties.                                |
-| Numpad .             | Focus on object.                           |
-| Numpad 0             | Camera.                                    |
-| Numpad 1-9           | Orthographic camera controls.              |
-| Q                    | Quick favorites.                           |
-| R                    | Rotate.                                    |
-| S                    | Scale.                                     |
-| Shift + ~            | Noclip.                                    |
-| Shift + A            | Add menu.                                  |
-| Shift + D            | Duplicate.                                 |
-| Shift + middle mouse | Move position.                             |
-| Shift + right click  | Set cursor location.                       |
-| Tab                  | Toggle between modes.                      |
-| X                    | Delete.                                    |
-| Z (hold)             | Change shading.                            |
+| Keys:                  | Description:                               |
+| ---------------------- | ------------------------------------------ |
+| 1 2 3                  | Vertex, edge, face mode.                   |
+| A                      | Select all.                                |
+| Alt + D                | Linked Duplicate.                          |
+| Alt + H                | Unhide.                                    |
+| Alt + left click       | Select connected segments.                 |
+| Alt + P                | Unparent.                                  |
+| C                      | Circle select. Right click or Esc to exit. |
+| Ctrl + A               | Apply.                                     |
+| Ctrl + B               | Bevel.                                     |
+| Ctrl + i               | Invert selection.                          |
+| Ctrl + J               | Join.                                      |
+| Ctrl + middle mouse    | Smooth pan.                                |
+| Ctrl + N               | Recalculate normals.                       |
+| Ctrl + P               | Parent.                                    |
+| Ctrl + Shift + Numpad+ | Select adjacent faces.                     |
+| Ctrl + X               | Merge faces.                               |
+| E                      | Extrude.                                   |
+| F                      | Fill.                                      |
+| G                      | Move.                                      |
+| G then X               | Move on X axis.                            |
+| G then Y               | Move on Y axis.                            |
+| G then Z               | Move on Z axis.                            |
+| H                      | Hide.                                      |
+| i                      | Insert face.                               |
+| i                      | Insert keyframe.                           |
+| Middle mouse           | Move view.                                 |
+| N                      | Properties.                                |
+| Numpad .               | Focus on object.                           |
+| Numpad 0               | Camera.                                    |
+| Numpad 1-9             | Orthographic camera controls.              |
+| Q                      | Quick favorites.                           |
+| R                      | Rotate.                                    |
+| S                      | Scale.                                     |
+| Shift + ~              | Noclip.                                    |
+| Shift + A              | Add menu.                                  |
+| Shift + D              | Duplicate.                                 |
+| Shift + middle mouse   | Move position.                             |
+| Shift + right click    | Set cursor location.                       |
+| Tab                    | Toggle between modes.                      |
+| X                      | Delete.                                    |
+| Z (hold)               | Change shading.                            |
 ### Preferences:
 | Preference:                    | Value:           |
 | ------------------------------ | ---------------- |
@@ -50,24 +52,29 @@
 | Overlays > Statistics          | Enable           |
 | File Paths > Fonts             | C:\Windows\Fonts |
 ### Addons:
-| Addon:                                                                                       | Description:                                                                                                                                              |
-| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Blender Source Tools](http://steamreview.org/BlenderSourceTools/)                           | Adds Source engine support to Blender.                                                                                                                    |
-| [BlenderSourceAnimations](https://github.com/Ultikynnys/BlenderSourceAnimations)             | Set of tools for creating animations for pre-existing Source Engine models.                                                                               |
-| [BlenderVertexLitGeneric](https://github.com/syborg64/BlenderVertexLitGeneric)               | Native shader nodes implementation mimicking Source Engine's VertexLitGeneric shader.                                                                     |
-| [Drop It](https://andreasaust.gumroad.com/l/drop_it)                                         | Simply drop objects to ground or surface. _For Blender 2.8 - 3.x_                                                                                         |
-| [Mio3 UV](https://extensions.blender.org/add-ons/mio3-uv/)                                   | UV Edit Assistant Tools.                                                                                                                                  |
-| [Plumber](https://github.com/lasa01/Plumber)                                                 | Import Source 1 engine maps, models, materials & textures.                                                                                                |
-| [Pribambase](https://www.illusionofmana.art/Pribambase.html)                                 | Ease & speed up lowpoly pixel textured, or 2.5D pixelart workflow. It links Aseprite & Blender editors, & handles a lot of repetitive operations for you. |
-| [RenderMan for Blender](https://github.com/prman-pixar/RenderManForBlender)                  | Render engine.                                                                                                                                            |
-| [Source Engine Collision Tools](https://github.com/theanine3D/source_engine_collision_tools) | Generate & optimize collision models for Source Engine.                                                                                                   |
-| [SourceIO](https://github.com/REDxEYE/SourceIO)                                              | Import Source Engine textures/models/maps.                                                                                                                |
-| [SourceOps](https://github.com/bonjorno7/SourceOps)                                          | More convenient alternative to Blender Source Tools.                                                                                                      |
-| [SURGE](https://github.com/Kompile/SURGE)                                                    | Generate surf ramp meshes.                                                                                                                                |
-| [TexTools](https://github.com/franMarz/TexTools-Blender)                                     | UV & Texture toolset.                                                                                                                                     |
-| [TF2-Trifecta](https://github.com/hisprofile/TF2-Trifecta)                                   | Spawn & manipulate mercenaries, cosmetics, & weapons.                                                                                                     |
-| [UVToolkit](https://extensions.blender.org/add-ons/uv-toolkit/)                              | Collection of UV editing tools.                                                                                                                           |
-| [VirtuCamera](https://virtucamera.com/installation-in-blender/)                              | Realtime camera motion capture App.<br>https://github.com/shycats/VirtuCameraBlender/issues/28                                                            |
+| Addon:                                                                                                                       | Description:                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [AnimEasy](https://animeasy.pro/)                                                                                            | Speeds up animation workflow.                                                                                                                             |
+| [Blender Source Tools](http://steamreview.org/BlenderSourceTools/)                                                           | Adds Source engine support to Blender.                                                                                                                    |
+| [BlenderSourceAnimations](https://github.com/Ultikynnys/BlenderSourceAnimations)                                             | Set of tools for creating animations for pre-existing Source Engine models.                                                                               |
+| [BlenderVertexLitGeneric](https://github.com/syborg64/BlenderVertexLitGeneric)                                               | Native shader nodes implementation mimicking Source Engine's VertexLitGeneric shader.                                                                     |
+| [Drop It](https://andreasaust.gumroad.com/l/drop_it)                                                                         | Simply drop objects to ground or surface. _For Blender 2.8 - 3.x_                                                                                         |
+| [Extra Curve Objects](https://extensions.blender.org/add-ons/extra-curve-objectes/)                                          | Add extra curve object types.                                                                                                                             |
+| [Mio3 UV](https://extensions.blender.org/add-ons/mio3-uv/)                                                                   | UV Edit Assistant Tools.                                                                                                                                  |
+| [Plumber](https://github.com/lasa01/Plumber)                                                                                 | Import Source 1 engine maps, models, materials & textures.                                                                                                |
+| [Pribambase](https://www.illusionofmana.art/Pribambase.html)                                                                 | Ease & speed up lowpoly pixel textured, or 2.5D pixelart workflow. It links Aseprite & Blender editors, & handles a lot of repetitive operations for you. |
+| [Quad Remesher](https://exoside.com/)                                                                                        | Automatic quad remeshing (or auto retopology) algorithm.                                                                                                  |
+| [RenderMan for Blender](https://github.com/prman-pixar/RenderManForBlender)                                                  | Render engine.                                                                                                                                            |
+| [Source Armature Toolkit](https://github.com/Haggets/source-armature-toolkit)                                                | Fastening the workflow of working with Source armatures.                                                                                                  |
+| [Source Engine Collision Tools](https://github.com/theanine3D/source_engine_collision_tools)                                 | Generate & optimize collision models for Source Engine.                                                                                                   |
+| [SourceIO](https://github.com/REDxEYE/SourceIO)                                                                              | Import Source Engine textures/models/maps.                                                                                                                |
+| [SourceOps](https://github.com/bonjorno7/SourceOps)                                                                          | More convenient alternative to Blender Source Tools.                                                                                                      |
+| [SURGE](https://github.com/Kompile/SURGE)                                                                                    | Generate surf ramp meshes.                                                                                                                                |
+| [TexTools](https://github.com/franMarz/TexTools-Blender)                                                                     | UV & Texture toolset.                                                                                                                                     |
+| [TF2-Trifecta](https://github.com/hisprofile/TF2-Trifecta)                                                                   | Spawn & manipulate mercenaries, cosmetics, & weapons.                                                                                                     |
+| [UVToolkit](https://extensions.blender.org/add-ons/uv-toolkit/)                                                              | Collection of UV editing tools.                                                                                                                           |
+| [Vertex Colours for Substance Painter (V.C.S.P)](https://github.com/Piotruska/Vertex-Colours-for-Substance-Painter-V.C.S.P-) | Quick vertex coloring for substance painter to generate id maps.                                                                                          |
+| [VirtuCamera](https://virtucamera.com/installation-in-blender/)                                                              | Realtime camera motion capture App.<br>https://github.com/shycats/VirtuCameraBlender/issues/28                                                            |
 ### Tutorials:
 | Tutorial:                                                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -122,3 +129,6 @@
 | [Editing Normals](https://docs.blender.org/manual/en/latest/modeling/meshes/editing/mesh/normals.html)                                                               |
 | [Show normals & filp normals](https://www.youtube.com/watch?v=qJvvDHyK14Y)                                                                                           |
 | [Make it thicker](https://www.reddit.com/r/blender/comments/qvmxhp/how_do_i_make_it_thicker_im_very_new_to_blender/)                                                 |
+| [Viewport clipping parameters](https://blender.stackexchange.com/questions/4946/where-can-the-viewport-clipping-parameters-be-changed)                               |
+| [Duplication](https://docs.blender.org/manual/en/2.80/scene_layout/object/editing/duplication.html)                                                                  |
+| [Delete all unused materials](https://youtu.be/QiRDcCb5Rds?si=GM4kUpE0WEwcwTVQ)                                                                                      |

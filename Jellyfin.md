@@ -2,33 +2,50 @@
 ```table-of-contents
 ```
 ### Plugins:
-| Plugin:                                                                         | Description:                                                              |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [FinTube](https://github.com/AECX/FinTube)                                      | Plugin to import directly from YT.                                        |
-| [Intro Skipper](https://github.com/intro-skipper/intro-skipper)                 | Fingerprint audio to automatically detect & skip intro/credit sequences.  |
-| [LastFM scrobbler](https://github.com/jesseward/jellyfin-plugin-lastfm)         | Enables audio scrobbling to Last.FM as well as a metadata fetcher source. |
-| [Media Cleaner](https://github.com/shemanaev/jellyfin-plugin-media-cleaner)     | Automatically delete played media files after specified amount of time.   |
-| [Skin Manager](https://github.com/danieladov/jellyfin-plugin-skin-manager)      | Helps you download & install skins.                                       |
-| [Youtube Metadata](https://github.com/ankenyr/jellyfin-youtube-metadata-plugin) | Retrieves metadata for content from Youtube.                              |
+| Plugin:                                                                         | Description:                                                                                                                                                 |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [FinTube](https://github.com/AECX/FinTube)                                      | Plugin to import directly from YT.                                                                                                                           |
+| [Intro Skipper](https://github.com/intro-skipper/intro-skipper)                 | Fingerprint audio to automatically detect & skip intro/credit sequences.                                                                                     |
+| [Jellyfin Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)              | A Jellyfin Plugin to enhance your Jellyfin Web experience.                                                                                                   |
+| [Jellyfin Roulette](https://github.com/ztffn/Jellyfin-Roulette)                 | Plays a random item from playlists.                                                                                                                          |
+| [Jellyfin.Xtream](https://github.com/Kevinjil/Jellyfin.Xtream)                  | Integrate content provided by an [Xtream-compatible API](https://xtream-ui.org/api-xtreamui-xtreamcode/) in your [Jellyfin](https://jellyfin.org/) instance. |
+| [LastFM scrobbler](https://github.com/jesseward/jellyfin-plugin-lastfm)         | Enables audio scrobbling to Last.FM as well as a metadata fetcher source.                                                                                    |
+| [Media Cleaner](https://github.com/shemanaev/jellyfin-plugin-media-cleaner)     | Automatically delete played media files after specified amount of time.                                                                                      |
+| [Skin Manager](https://github.com/danieladov/jellyfin-plugin-skin-manager)      | Helps you download & install skins.                                                                                                                          |
+| [Youtube Metadata](https://github.com/ankenyr/jellyfin-youtube-metadata-plugin) | Retrieves metadata for content from Youtube.                                                                                                                 |
 ### Resources:
-| Resource:                                                                             | Description:                                                                  |
-| ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)              | A collection of awesome Jellyfin projects.                                    |
-| [Featured Content Bar](https://github.com/tedhinklater/Jellyfin-Featured-Content-Bar) | Featured Bar now with Fullscreen Version.                                     |
-| [Jellyfin ApiClient Python](https://github.com/jellyfin/jellyfin-apiclient-python)    | Python API client.                                                            |
-| [Jellyfin Rewind](https://github.com/Chaphasilor/jellyfin-rewind)                     | Review your music listening habits of the year. A "Spotify Wrapped"-like app. |
-| [jellyfin-mods](https://github.com/BobHasNoSoul/jellyfin-mods)                        | Guide for various modifications.                                              |
-| [Jellyman](https://github.com/smiley-mcsmiles/jellyman)                               | A set of scripts to install/manage & update Jellyfin.                         |
-| [Jellystat](https://github.com/CyferShepard/Jellystat)                                | Statistics app.                                                               |
-| [Playlifin](https://flathub.org/apps/net.krafting.Playlifin)                          | Converts a Youtube Music playlist to a Jellyfin playlist.                     |
-| [Playlifin Voyager](https://flathub.org/apps/net.krafting.PlaylifinVoyager)           | Export & import playlists from & to your Jellyfin server.                     |
-| [Servarr Installation Script](https://wiki.servarr.com/install-script)                | Script to handle installation of servarr apps on Linux.                       |
-| [TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker)                       | An automated title card maker for Plex, Jellyfin, & Emby media servers.       |
-| [TraSH-Guides](https://trash-guides.info/)                                            | Guides to configure servarr apps.                                             |
-| [ytdl-sub](https://github.com/jmbannon/ytdl-sub)                                      | Lightweight tool to automate downloading & metadata generation with yt-dlp.   |
-| [ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM)                                  | Script to serve Youtube/Twitch/Crunchyroll videos without storing it.         |
+| Resource:                                                                                                    | Description:                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)                                     | A collection of awesome Jellyfin projects.                                                                                                                      |
+| [CSS Customizations](https://jellyfin.org/docs/general/clients/css-customization/)                           | List of CSS tweaks.                                                                                                                                             |
+| [ElegantFin Theme](https://github.com/lscambo13/ElegantFin)                                                  | Theme inspired by Jellyseerr.<br>Additional patch: https://github.com/lscambo13/ElegantFin/issues/133#issuecomment-3423905809                                   |
+| [Featured Content Bar](https://github.com/tedhinklater/Jellyfin-Featured-Content-Bar)                        | Featured Bar now with Fullscreen Version.                                                                                                                       |
+| [Flow Theme](https://github.com/LitCastVlog/Flow)                                                            | Plex-inspired theme for Jellyfin's WebUI (Based on Scyfin)                                                                                                      |
+| [How to Set Up Live TV on Jellyfin.](https://youtu.be/G-pi8fGJU7k?si=opp7T2FgzDLIXsfR)                       | Set up Live TV on Jellyfin.                                                                                                                                     |
+| [JellyBridge](https://github.com/kinggeorges12/JellyBridge)                                                  | Bridges Jellyfin with Jellyseerr for seamless movie & series discovery and download requests.                                                                   |
+| [Jellyfin ApiClient Python](https://github.com/jellyfin/jellyfin-apiclient-python)                           | Python API client.                                                                                                                                              |
+| [Jellyfin MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim)                                           | MPV Cast Client for Jellyfin.                                                                                                                                   |
+| [Jellyfin Rewind](https://github.com/Chaphasilor/jellyfin-rewind)                                            | Review your music listening habits of the year. A "Spotify Wrapped"-like app.                                                                                   |
+| [jellyfin-mods](https://github.com/BobHasNoSoul/jellyfin-mods)                                               | Guide for various modifications.                                                                                                                                |
+| [Jellyfin-RPC 1](https://github.com/Radiicall/jellyfin-rpc)                                                  | Displays the content you're currently watching on Discord!                                                                                                      |
+| [Jellyfin-RPC 2](https://github.com/kennethsible/jellyfin-rpc)                                               | Jellyfin RPC updates your Discord status with what you're watching or listening to on your Jellyfin server.                                                     |
+| [Jellyfish Theme](https://github.com/n00bcodr/Jellyfish)                                                     | Jellyfin Theme inspired by Flow, Zesty & Ultrachromic.                                                                                                          |
+| [Jellyman](https://github.com/smiley-mcsmiles/jellyman)                                                      | A set of scripts to install/manage & update Jellyfin.                                                                                                           |
+| [Jellystat](https://github.com/CyferShepard/Jellystat)                                                       | Statistics app.                                                                                                                                                 |
+| [Media Bar](https://github.com/IAmParadox27/jellyfin-plugin-media-bar)                                       | A Jellyfin featured content bar to show off your media collection.                                                                                              |
+| [Playlifin](https://flathub.org/apps/net.krafting.Playlifin)                                                 | Converts a Youtube Music playlist to a Jellyfin playlist.                                                                                                       |
+| [Playlifin Voyager](https://flathub.org/apps/net.krafting.PlaylifinVoyager)                                  | Export & import playlists from & to your Jellyfin server.                                                                                                       |
+| [Servarr Installation Script](https://wiki.servarr.com/install-script)                                       | Script to handle installation of servarr apps on Linux.                                                                                                         |
+| [Theme collection](https://forum.jellyfin.org/f-themes-styles?datecut=9999&prefix=0&sortby=views&order=desc) | Themes from the forums.                                                                                                                                         |
+| [TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker)                                              | An automated title card maker for Plex, Jellyfin, & Emby media servers.                                                                                         |
+| [TraSH-Guides](https://trash-guides.info/)                                                                   | Guides to configure servarr apps.                                                                                                                               |
+| [WatchState](https://github.com/arabcoders/watchstate)                                                       | sync your backends **users** play state without relying on third party services, out of the box, this tool support `Jellyfin`, `Plex` and `Emby` media servers. |
+| [ytdl-sub](https://github.com/jmbannon/ytdl-sub)                                                             | Lightweight tool to automate downloading & metadata generation with yt-dlp.                                                                                     |
+| [ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM)                                                         | Script to serve Youtube/Twitch/Crunchyroll videos without storing it.                                                                                           |
 ### Misc:
 Restoring backup: change ownership after deployment:  
 ``sudo chown -R jellyfin: /var/lib/jellyfin /etc/jellyfin``  
 
 Fix Jellyfin XML error on startup: https://forum.jellyfin.org/t-solved-xml-error-on-startup  
+
+`mkdir /tmp/jellyfin/` before launching & use Flatseal to allow access to `/tmp/jellyfin/` if insufficient space.
