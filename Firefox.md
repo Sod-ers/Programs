@@ -82,6 +82,7 @@
 | [Simple maximize windows on start up](https://addons.mozilla.org/en-US/firefox/addon/maximize-windows-on-start-up/) | Maximizes windows on start up.                                                                                                                                                                         |
 | [Simple Translate](https://addons.mozilla.org/firefox/addon/simple-translate/)                                      | Quickly translate selected or typed text on web pages.                                                                                                                                                 |
 | [SingleFile](https://addons.mozilla.org/en-US/firefox/addon/single-file/)                                           | Save a complete page into a single HTML file.                                                                                                                                                          |
+| [Slop Evader](https://addons.mozilla.org/en-US/firefox/addon/slop-evader/)                                          | Avoid AI slop.                                                                                                                                                                                         |
 | [SoundFixer](https://addons.mozilla.org/en-US/firefox/addon/soundfixer/)                                            | Helps you fix annoying sound problems.                                                                                                                                                                 |
 | [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)                                        | Easily skip YouTube video sponsors.                                                                                                                                                                    |
 | [Startpage — Private Search Engine](https://addons.mozilla.org/en-US/firefox/addon/startpage-private-search/)       | Protects users from being tracked while allowing them to search the web in complete private mode.                                                                                                      |
@@ -143,3 +144,4 @@
 | ------------------------------------------------ | ------ |
 | widget.non-native-theme.scrollbar.style          | 4      |
 | layout.testing.overlay-scrollbars.always-visible | true   |
+| sidebar.revamp                                   | false  |

@@ -48,4 +48,6 @@ Restoring backup: change ownership after deployment:
 
 Fix Jellyfin XML error on startup: https://forum.jellyfin.org/t-solved-xml-error-on-startup  
 
-`mkdir /tmp/jellyfin/` before launching & use Flatseal to allow access to `/tmp/jellyfin/` if insufficient space.
+`mkdir /tmp/jellyfin/` before launching & use Flatseal to allow access to `/tmp/jellyfin/` if insufficient space.  
+  
+Always shutdown before updating Jellyfin.
