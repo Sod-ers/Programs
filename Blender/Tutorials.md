@@ -1,3 +1,8 @@
+### Table of Contents:
+| Chapter:                                                                                          |
+| ------------------------------------------------------------------------------------------------- |
+| [Blender](https://github.com/Sod-ers/Programs/blob/main/Blender/Tutorials.md#blender)             |
+| [Source Engine](https://github.com/Sod-ers/Programs/blob/main/Blender/Tutorials.md#source-engine) |
 ### Blender:
 | Essential Tutorials:                                                                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -41,9 +46,9 @@
 | [The right way to cut holes in surfaces](https://youtu.be/Ci1jBOm_5NY)                           |
 | [Inset faces tool](https://youtu.be/8SdM9l2RHJU)                                                 |
 | [Join vertices & edges](https://youtu.be/762ljmEUy20)                                            |
-| [Join 2 objects](https://youtu.be/zkUteBKHhpw)                                                   |
 | [Merge vertices](https://youtu.be/Wn_3oreyk_w)                                                   |
 | [Merge faces](https://youtu.be/o6lM-qTwliw)                                                      |
+| [Join 2 objects](https://youtu.be/zkUteBKHhpw)                                                   |
 | [Combine objects](https://youtu.be/sB68HUH87dk)                                                  |
 | [Seamlessly merge sculpted objects](https://youtu.be/YIkbuw8XJc8)                                |
 | [Six ways to merge geometry](https://youtu.be/Ab7wbUG_Q3g)                                       |
@@ -96,8 +101,9 @@
 | [Creating animations in Blender](https://youtu.be/sjAlFz9LV6s)                                             |
 | [Easy armature rigging](https://youtu.be/WXt9wAYTNqg)                                                      |
 | [Facial flexes for TF2 item](https://youtu.be/p-x1iwcDA9k)                                                 |
-| [Blender Timelapse - Ye Olde Flame - TF2 cosmetic](https://youtu.be/J6KLi3sAFpw)                           |
-| [Blender Timelapse - The Lunatic - TF2 cosmetic](https://youtu.be/ISekLZr-WB4)                             |
+| [TF2 cosmetic full process (timelapse)](https://youtu.be/fJkSH7gc4MQ)                                      |
+| [Blender timelapse - Ye Olde Flame - TF2 cosmetic](https://youtu.be/J6KLi3sAFpw)                           |
+| [Blender timelapse - The Lunatic - TF2 cosmetic](https://youtu.be/ISekLZr-WB4)                             |
 | [Making an accepted TF2 cosmetic](https://youtu.be/HdXNN0-SucU)                                            |
 | [From Maya to Source Engine](https://youtu.be/poNX1MK9_Jw)                                                 |
 | [MAKING YOUR TF2 HAT IDEAS!](https://youtu.be/Kp4caW1lwpY)                                                 |
