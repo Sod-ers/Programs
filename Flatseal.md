@@ -1,0 +1,1 @@
+- Give access to `~/.themes/` to match theme.

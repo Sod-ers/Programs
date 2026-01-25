@@ -1,0 +1,1 @@
+- Add user to video group & restart machine after installing udev rules.  Example: sudo usermod -a -G video soders
