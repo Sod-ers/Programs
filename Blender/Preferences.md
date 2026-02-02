@@ -1,8 +1,10 @@
 ### Preferences:
 | Preference:                    | Value:                                  |
 | ------------------------------ | --------------------------------------- |
-| System > Memory & Limits       | 256                                     |
+| File Paths > Fonts             | C:\Windows\Fonts  <br>/usr/share/fonts/ |
+| Interface > Resolution Scale   | 1.15                                    |
+| Interface > Splash Screen      | Disable                                 |
+| Overlays > Statistics          | Enable                                  |
 | System > Cycles Render Devices | OptiX or CUDA                           |
 | System > Global Undo           | Enable                                  |
-| Overlays > Statistics          | Enable                                  |
-| File Paths > Fonts             | C:\Windows\Fonts  <br>/usr/share/fonts/ |
+| System > Memory & Limits       | 256                                     |

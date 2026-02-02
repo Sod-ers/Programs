@@ -34,51 +34,52 @@
 | [Delete all unused materials](https://youtu.be/QiRDcCb5Rds?si=GM4kUpE0WEwcwTVQ)                                                                                      |
 | [Delete unwanted materials forcefully](https://blenderartists.org/t/solved-can-i-get-rid-of-unwanted-materials/1418352/5)                                            |
 
-| Maybe Useful:                                                                                    |
-| ------------------------------------------------------------------------------------------------ |
-| [Turn SVG image files into 3D meshes](https://youtu.be/shCZ2zjR5CU)                              |
-| [Convert SVG files into 3D](https://youtu.be/tI5ul-GgPZk)                                        |
-| [3D text: everything you need to know](https://youtu.be/fnLV3878HN4)                             |
-| [Change font](https://blenderartists.org/t/how-where-to-change-the-font-type-in-blender/1475286) |
-| [Text topology fix](https://youtu.be/_CK-gGKjBPo)                                                |
-| [Loop cut & slide](https://youtu.be/6XzrvHZEMQs)                                                 |
-| [3 different ways to cut any object](https://youtu.be/62rDhWB6O-0)                               |
-| [The right way to cut holes in surfaces](https://youtu.be/Ci1jBOm_5NY)                           |
-| [Inset faces tool](https://youtu.be/8SdM9l2RHJU)                                                 |
-| [Join vertices & edges](https://youtu.be/762ljmEUy20)                                            |
-| [Merge vertices](https://youtu.be/Wn_3oreyk_w)                                                   |
-| [Merge faces](https://youtu.be/o6lM-qTwliw)                                                      |
-| [Join 2 objects](https://youtu.be/zkUteBKHhpw)                                                   |
-| [Combine objects](https://youtu.be/sB68HUH87dk)                                                  |
-| [Seamlessly merge sculpted objects](https://youtu.be/YIkbuw8XJc8)                                |
-| [Six ways to merge geometry](https://youtu.be/Ab7wbUG_Q3g)                                       |
-| [Create face from vertex](https://youtu.be/trDRiYt_wGY)                                          |
-| [Snap objects to other objects](https://youtu.be/Dt0PfqOc0ls)                                    |
-| [UV unwrapping (full beginner tutorial)](https://youtu.be/JwkgVckqGw4)                           |
-| [Complete guide to UV unwrapping - where & why marking seams](https://youtu.be/jnzhNdWoXMg)      |
-| [Simple 4-step process for perfect UVs](https://youtu.be/Fr2SX1rZZM0)                            |
-| [Copy UV map in Blender - link same UVs on multiple objects](https://youtu.be/ezPrw943Yco)       |
-| [Fix UV while extruding](https://youtu.be/vp1x897TEXo)                                           |
-| [Export textures from Blender](https://youtu.be/YYUt7BRooL4)                                     |
-| [What is a bump map](https://youtu.be/D7uK4WWW-Rk)                                               |
-| [Bake normals](https://youtu.be/vzBu5mLBNBs?si=4yYBKmFPOALmGAG8)                                 |
-| [Bake normal map decals](https://youtu.be/tmsxEr-Bovc)                                           |
-| [Make curve (Simple Deform)](https://youtu.be/7UzVIjiPGO8)                                       |
-| [Simple Deform (Bend)](https://youtu.be/Tdjb8wAert4)                                             |
-| [Bending a plane - Simple Deform modifier](https://youtu.be/KHVtvI7M9mQ)                         |
-| [Deform objects with Lattice modifier](https://youtu.be/7hq92JvHq2g)                             |
-| [Blender Simple Deform bend modifier - Blender 2.8](https://youtu.be/iq2_goboheo)                |
-| [How to round the corner of a plane](https://youtu.be/QUUYAyz25Sg)                               |
-| [Round corners of object](https://youtu.be/UjUYkUUyZNs)                                          |
-| [Bevel a vertex](https://youtu.be/r7at3-2LWAk)                                                   |
-| [Create simple 3D spiral curves](https://youtu.be/eE5brkY8s3s)                                   |
-| [Create a spiral](https://youtu.be/VvcV5lY5QtM)                                                  |
-| [Create simple 3D spring/coil](https://youtu.be/FMoxn8K4wZk)                                     |
-| [Make springs & spirals](https://youtu.be/ybv_SJe-Sok)                                           |
-| [Ultimate guide to proportional editing](https://youtu.be/h9aGx-YUPhQ)                           |
-| [All 80+ material nodes explained](https://youtu.be/cQ0qtcSymDI)                                 |
-| [All 54 modifiers explained](https://youtu.be/idcFMhoSdIc?si=AK-NA2rrCTetAGTQ)                   |
-| [Collecting reference photos for Blender](https://youtu.be/0cm6ssePY28)                          |
+| Maybe Useful:                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------- |
+| [Turn SVG image files into 3D meshes](https://youtu.be/shCZ2zjR5CU)                                                                       |
+| [Convert SVG files into 3D](https://youtu.be/tI5ul-GgPZk)                                                                                 |
+| [3D text: everything you need to know](https://youtu.be/fnLV3878HN4)                                                                      |
+| [Change font](https://blenderartists.org/t/how-where-to-change-the-font-type-in-blender/1475286)                                          |
+| [Text topology fix](https://youtu.be/_CK-gGKjBPo)                                                                                         |
+| [Loop cut & slide](https://youtu.be/6XzrvHZEMQs)                                                                                          |
+| [3 different ways to cut any object](https://youtu.be/62rDhWB6O-0)                                                                        |
+| [The right way to cut holes in surfaces](https://youtu.be/Ci1jBOm_5NY)                                                                    |
+| [Inset faces tool](https://youtu.be/8SdM9l2RHJU)                                                                                          |
+| [Join vertices & edges](https://youtu.be/762ljmEUy20)                                                                                     |
+| [Merge vertices](https://youtu.be/Wn_3oreyk_w)                                                                                            |
+| [Merge faces](https://youtu.be/o6lM-qTwliw)                                                                                               |
+| [Join 2 objects](https://youtu.be/zkUteBKHhpw)                                                                                            |
+| [Combine objects](https://youtu.be/sB68HUH87dk)                                                                                           |
+| [Seamlessly merge sculpted objects](https://youtu.be/YIkbuw8XJc8)                                                                         |
+| [Six ways to merge geometry](https://youtu.be/Ab7wbUG_Q3g)                                                                                |
+| [Create face from vertex](https://youtu.be/trDRiYt_wGY)                                                                                   |
+| [Snap objects to other objects](https://youtu.be/Dt0PfqOc0ls)                                                                             |
+| [UV unwrapping (full beginner tutorial)](https://youtu.be/JwkgVckqGw4)                                                                    |
+| [Complete guide to UV unwrapping - where & why marking seams](https://youtu.be/jnzhNdWoXMg)                                               |
+| [Simple 4-step process for perfect UVs](https://youtu.be/Fr2SX1rZZM0)                                                                     |
+| [Copy UV map in Blender - link same UVs on multiple objects](https://youtu.be/ezPrw943Yco)                                                |
+| [Fix UV while extruding](https://youtu.be/vp1x897TEXo)                                                                                    |
+| [Export textures from Blender](https://youtu.be/YYUt7BRooL4)                                                                              |
+| [What is a bump map](https://youtu.be/D7uK4WWW-Rk)                                                                                        |
+| [Bake normals](https://youtu.be/vzBu5mLBNBs?si=4yYBKmFPOALmGAG8)                                                                          |
+| [Bake normal map decals](https://youtu.be/tmsxEr-Bovc)                                                                                    |
+| [Make curve (Simple Deform)](https://youtu.be/7UzVIjiPGO8)                                                                                |
+| [Simple Deform (Bend)](https://youtu.be/Tdjb8wAert4)                                                                                      |
+| [Bending a plane - Simple Deform modifier](https://youtu.be/KHVtvI7M9mQ)                                                                  |
+| [Deform objects with Lattice modifier](https://youtu.be/7hq92JvHq2g)                                                                      |
+| [Blender Simple Deform bend modifier - Blender 2.8](https://youtu.be/iq2_goboheo)                                                         |
+| [How to round the corner of a plane](https://youtu.be/QUUYAyz25Sg)                                                                        |
+| [Round corners of object](https://youtu.be/UjUYkUUyZNs)                                                                                   |
+| [Bevel a vertex](https://youtu.be/r7at3-2LWAk)                                                                                            |
+| [Create simple 3D spiral curves](https://youtu.be/eE5brkY8s3s)                                                                            |
+| [Create a spiral](https://youtu.be/VvcV5lY5QtM)                                                                                           |
+| [Create simple 3D spring/coil](https://youtu.be/FMoxn8K4wZk)                                                                              |
+| [Make springs & spirals](https://youtu.be/ybv_SJe-Sok)                                                                                    |
+| [Ultimate guide to proportional editing](https://youtu.be/h9aGx-YUPhQ)                                                                    |
+| [All 80+ material nodes explained](https://youtu.be/cQ0qtcSymDI)                                                                          |
+| [All 54 modifiers explained](https://youtu.be/idcFMhoSdIc?si=AK-NA2rrCTetAGTQ)                                                            |
+| [Collecting reference photos for Blender](https://youtu.be/0cm6ssePY28)                                                                   |
+| [Add dialation](https://blender.stackexchange.com/questions/121653/how-can-i-expand-the-borders-of-a-exture-edge-outwards-like-an-offset) |
 ### Source Engine:
 | Tutorials:                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------- |
@@ -109,3 +110,4 @@
 | [MAKING YOUR TF2 HAT IDEAS!](https://youtu.be/Kp4caW1lwpY)                                                 |
 | [ZestyAlt - Workshop Reviews](https://youtube.com/playlist?list=PLAT5vs5tO-VXMsFbjwVaMrH3X1YWewCjr)        |
 | [Content Free Time - How Many Tris?](https://youtube.com/playlist?list=PLnSFNyRFUqXZdcDQMNl9MiVVxOmKF_I_x) |
+| [Creating Surf Ramps in Blender using the SURGE addon](https://youtu.be/WWZm1lRNFAs)                       |
