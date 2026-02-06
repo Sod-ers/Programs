@@ -26,3 +26,4 @@
 | [Windows builds](https://github.com/zhongfly/mpv-winbuild)                                                                                               |
 | [Configuration for Windows](https://github.com/Zabooby/mpv-config)                                                                                       |
 | [Shaders](https://github.com/iwalton3/default-shader-pack)                                                                                               |
+| [ff2mpv](https://github.com/woodruffw/ff2mpv)                                                                                                            |

@@ -8,3 +8,6 @@ The Flatpak version need a special permission to generate desktop entries. To ac
 ```
 flatpak override com.usebottles.bottles --user --filesystem=xdg-data/applications
 ```
+
+---
+`~/.var/app/com.usebottles.bottles/data/bottles/bottles/`

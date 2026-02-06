@@ -88,3 +88,5 @@ C:\User\Soders\foobar2000\foobar2000.exe "/runcmd=Playback/Volume/Set to -21 dB"
 [Foobar2000_Now_Playing_Overlay:](https://github.com/Kurogal/Foobar2000_Now_Playing_Overlay)Now playing overlays for Foobar2000.
 
 Create autoplaylists by clicking Library > Search > Type sort pattern into Media Library Search panel > Click 3 dots top right > Create Autoplaylist.
+
+FooTuner: Remove `easylyrics_helper.js`

@@ -30,3 +30,5 @@ Icon=/opt/armorpaint/icon.png
 ### Misc Notes:
 - Program won't launch if selected theme file is missing.
 - Themes colors use `Android / android.graphics.Color` values (https://encycolorpedia.com)
+- .obj more reliable.
+- Config may need manual import.
