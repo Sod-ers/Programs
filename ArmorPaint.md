@@ -1,8 +1,9 @@
 ### Build on Linux:
 1. Install dependencies:  
-https://github.com/armory3d/armortools/wiki/Linux-Dependencies/cfbb55bc94dcbfbd5a726f257f7b16e59bc74c7a
+https://github.com/armory3d/armortools/wiki/Linux-Dependencies/cfbb55bc94dcbfbd5a726f257f7b16e59bc74c7a  
 Debian/Ubuntu:  
 `sudo apt install make clang libxinerama-dev libxrandr-dev libasound2-dev libxi-dev mesa-common-dev libgl-dev libxcursor-dev libvulkan-dev libgtk-3-dev libudev-dev libstdc++-12-dev`  
+  
 Fedora/similar:
 `sudo dnf install make clang libXinerama-devel libXrandr-devel alsa-lib-devel libXi-devel mesa-libGL-devel libXcursor-devel vulkan-devel gtk3-devel libstdc++-static libudev-devel wayland-protocols-devel`
 
