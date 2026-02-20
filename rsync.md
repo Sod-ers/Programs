@@ -1,0 +1,1 @@
+- [What are the differences between the rsync delete options?](https://superuser.com/questions/156664/what-are-the-differences-between-the-rsync-delete-options)

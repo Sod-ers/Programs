@@ -34,6 +34,7 @@
 | Grub Bootloader      | [Collection](https://github.com/jacksaur/Gorgeous-GRUB)                                                                           |
 | GTK                  | [Aero Glass](https://github.com/xRUS47x/Aero-Glass-XFCE4)                                                                         |
 | GTK                  | [B00MERANG collection](https://b00merang-project.github.io/linux-themes)                                                          |
+| GTK                  | [GTKAero (fork of B00MERANG)](https://github.com/User738git/GTKAero)                                                              |
 | GTK                  | [Dracula](https://www.gnome-look.org/p/1687249)                                                                                   |
 | GTK                  | [Dracula](https://github.com/dracula/gtk)                                                                                         |
 | GTK                  | [Colloid](https://github.com/vinceliuice/Colloid-gtk-theme)                                                                       |

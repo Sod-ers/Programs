@@ -9,6 +9,7 @@
 ### Linux:
 | Program:                                                                                 | Options:                                                                                                        |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Wine / Nvidia                                                                            | # PROTON_USE_WINED3D=1 %command%<br><br>PROTON_ENABLE_NVAPI=1                                                   |
 | GMod Steam overlay                                                                       | GMOD_ENABLE_LD_PRELOAD=1 %command%                                                                              |
 | GMod                                                                                     | -novid -fullscreen -high -con_enable 1 +fps_max 240 +cl_showfps 1 -freq 240 +exec autoexec                      |
 | mkChromecast                                                                             | -s --source-url https://example-source.mp3                                                                      |
