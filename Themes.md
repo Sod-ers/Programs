@@ -48,6 +48,7 @@
 | Jellyfin             | [Dracula](https://docs.theme-park.dev/themes/jellyfin/#installation)                                                              |
 | Joplin               | [Dracula](https://github.com/dracula/joplin)                                                                                      |
 | Krita                | [Dracula](https://github.com/dracula/krita)                                                                                       |
+| Kvantum              | [Dracula](https://store.kde.org/p/1370681)                                                                                        |
 | LibreOffice          | [Dracula](https://github.com/dracula/libreoffice)                                                                                 |
 | LibreOffice          | [Colibre Dark](https://github.com/rizmut/libreoffice-style-colibre)                                                               |
 | Linux Icons          | [Colloid](https://github.com/vinceliuice/Colloid-icon-theme)                                                                      |
@@ -68,6 +69,9 @@
 | PolyMC               | [Dracula](https://github.com/dracula/polymc)                                                                                      |
 | qBittorrent          | [Dracula](https://github.com/dracula/qbittorrent)                                                                                 |
 | qBittorrent Web      | [Dark](https://github.com/Carve/qbittorrent-webui-cjratliff.com)                                                                  |
+| Qt Creator           | [Collection](https://github.com/ihonen/qt-creator-themes)                                                                         |
+| qt5                  | [Dracula](https://draculatheme.com/qt5)                                                                                           |
+| qt5                  | [Collection](https://github.com/beatreichenbach/qt-themes)                                                                        |
 | Ripcord              | [Dracula](https://github.com/dracula/ripcord)                                                                                     |
 | Servarr Apps         | [Dracula](https://github.com/themepark-dev/theme.park/)                                                                           |
 | Simplify3D           | [Dark](http://www.aunix.de/tmp/s3d/S3D_DIY_Theme.qss)                                                                             |

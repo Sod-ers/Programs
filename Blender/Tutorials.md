@@ -33,6 +33,7 @@
 | [Fix unwrapped model not appearing in UV editor](https://blender.stackexchange.com/questions/7889/why-doesnt-my-unwrapped-model-appear-in-the-uv-editor)             |
 | [Delete all unused materials](https://youtu.be/QiRDcCb5Rds?si=GM4kUpE0WEwcwTVQ)                                                                                      |
 | [Delete unwanted materials forcefully](https://blenderartists.org/t/solved-can-i-get-rid-of-unwanted-materials/1418352/5)                                            |
+| [Normal Map node](https://docs.blender.org/manual/en/latest/render/shader_nodes/displacement/normal_map.html)                                                        |
 
 | Maybe Useful:                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -80,6 +81,8 @@
 | [All 54 modifiers explained](https://youtu.be/idcFMhoSdIc?si=AK-NA2rrCTetAGTQ)                                                            |
 | [Collecting reference photos for Blender](https://youtu.be/0cm6ssePY28)                                                                   |
 | [Add dialation](https://blender.stackexchange.com/questions/121653/how-can-i-expand-the-borders-of-a-exture-edge-outwards-like-an-offset) |
+| [Evenly space vertices](https://www.youtube.com/shorts/q9pqD5SXskM)                                                                       |
+| [Use backface culling to avoid flipped normals](https://youtu.be/7Oqayyw4yNU)                                                             |
 ### Source Engine:
 | Tutorials:                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------- |

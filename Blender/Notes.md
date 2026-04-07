@@ -1,1 +1,2 @@
 - APPLY ALL TRANSFORMATIONS.
+- UV maps should match texture density.

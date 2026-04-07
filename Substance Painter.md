@@ -18,3 +18,5 @@ Document channels + Normal + AO (With Alpha) for transparent output.
 | [Apply a UV checker texture](https://youtu.be/-UcSaZIg1bM)                                        |
 | [Texturing TF2 item](https://youtu.be/Vz9PNd-N_MU)                                                |
 | [Transferring layers between substance painters projects](https://youtu.be/zwCBPB_hZ1U)           |
+### Disable Shadows:  
+Environment settings > Shadows > Disable.  

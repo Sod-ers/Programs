@@ -7,6 +7,7 @@
 | Alt + H                | Unhide.                                    |
 | Alt + left click       | Select connected segments.                 |
 | Alt + P                | Unparent.                                  |
+| Alt + R                | Reset pose.                                |
 | C                      | Circle select. Right click or Esc to exit. |
 | Ctrl + A               | Apply.                                     |
 | Ctrl + B               | Bevel.                                     |
