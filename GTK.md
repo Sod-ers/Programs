@@ -1,0 +1,1 @@
+Example: `GTK_THEME=Dracula-slim:dark "/usr/bin/nextcloud" --background`

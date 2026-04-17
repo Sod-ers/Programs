@@ -1,2 +1,5 @@
+- Data (Object Data Properties) > Viewport Display > Show Names
+- Twist Method: Z-Up
 - APPLY ALL TRANSFORMATIONS.
 - UV maps should match texture density.
+- Alpha: Channel Packed
