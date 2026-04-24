@@ -83,6 +83,7 @@
 | [Add dialation](https://blender.stackexchange.com/questions/121653/how-can-i-expand-the-borders-of-a-exture-edge-outwards-like-an-offset) |
 | [Evenly space vertices](https://www.youtube.com/shorts/q9pqD5SXskM)                                                                       |
 | [Use backface culling to avoid flipped normals](https://youtu.be/7Oqayyw4yNU)                                                             |
+| [Dragon (lowpoly)](https://youtu.be/qE-ziO5hPaQ)                                                                                          |
 ### Source Engine:
 | Tutorials:                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------- |
