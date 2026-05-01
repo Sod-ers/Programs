@@ -37,16 +37,16 @@
 | VK3D_CONFIG       | no_upload_hvv |                    |
 20. (CachyOS only) Under Game execution box > Command prefix, you need to put `game-performance`.
 21. Save the game, launch it, & log in.
-22. Select your game, click the blue "Setup" button, then find where you have the game installed. I create a symlink for each game in `~/.local/share/wineprefixes/cod/drive_c/users/soders/Favorites/` & they appear in WINE Explorers Quick Access favorites.
+22. Select your game, click the blue "Setup" button, then find where you have the game installed. I create a symlink for each game in `~/.local/share/wineprefixes/cod/drive_c/users/soders/Favorites/` & they appear in WINE Explorers Quick Access favorites.  
 Notes:  
-- WINE prefix size: 2.4 GiB.
-- GLCache size: 420.4 MiB (growing?).
-- plutonium.exe 4.6 MiB.
+- WINE prefix size: 2.4 GiB.  
+- GLCache size: 420.4 MiB (growing?).  
+- plutonium.exe 4.6 MiB.  
   
-SOURCES:
-https://forum.plutonium.pw/topic/39182/installing-plutonium-on-linux-with-nvidia-gpu-full-guide
-https://www.protondb.com/app/42700#hOEbj8TTKj
-
-### Mods directories:
+SOURCES:  
+https://forum.plutonium.pw/topic/39182/installing-plutonium-on-linux-with-nvidia-gpu-full-guide  
+https://www.protondb.com/app/42700#hOEbj8TTKj  
+  
+### Mods directories:  
 `C:\Users\Name\AppData\Local\Plutonium\storage\t6\scripts\zm`  
 `C:\Users\Name\AppData\Local\Plutonium\storage\t6\scripts\mp`  
