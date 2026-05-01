@@ -1,7 +1,7 @@
 ### Installing Plutonium on Linux - NVIDIA:
 1. Install games; Campaign, Zombies _**and/OR**_ Multiplayer (only install modes you plan to play; don't need all).
-2. Make a WINE prefix with DotNET 4.8, D3D Compiler 4.7 & the Microsoft Core Fonts: `WINEPREFIX=~/.local/share/wineprefixes/cod winetricks dotnet48 d3dcompiler_47 corefonts`
-3. Fix sound issues & locked audio device: `WINEPREFIX=~/.local/share/wineprefixes/cod winetricks faudio xact xaudio2_7 xaudio2_9`
+2. Make a WINE prefix with DotNET 4.8, D3D Compiler 4.7 & the Microsoft Core Fonts, ignore the errors: `WINEPREFIX=~/.local/share/wineprefixes/cod winetricks dotnet48 d3dcompiler_47 corefonts`
+3. Fix sound issues & locked audio device, ignore the errors: `WINEPREFIX=~/.local/share/wineprefixes/cod winetricks faudio xact xaudio2_7 xaudio2_9`
 4. Download [Plutonium](https://plutonium.pw/docs/install/) & [Lutris](https://lutris.net/downloads).
 5. Pull up Lutris, & click the + on the top left hand corner. After that, select "Add Locally Installed Game".
 6. In the "Game Info" tab, select WINE as your runner.
@@ -38,6 +38,10 @@
 20. (CachyOS only) Under Game execution box > Command prefix, you need to put `game-performance`.
 21. Save the game, launch it, & log in.
 22. Select your game, click the blue "Setup" button, then find where you have the game installed. I create a symlink for each game in `~/.local/share/wineprefixes/cod/drive_c/users/soders/Favorites/` & they appear in WINE Explorers Quick Access favorites.
+Notes:  
+- WINE prefix size: 2.4 GiB.
+- GLCache size: 420.4 MiB (growing?).
+- plutonium.exe 4.6 MiB.
   
 SOURCES:
 https://forum.plutonium.pw/topic/39182/installing-plutonium-on-linux-with-nvidia-gpu-full-guide
