@@ -8,7 +8,7 @@
 7. On the "Game Options" tab, click the three dots by the Executable text box, & search for where you placed Plutonium. Click "Open", or something similar in your file manager of choice.
 8. For your WINE prefix, just select the one you had just made. Leave everything else as default.
 9. Once you go into Runner Options, turn on the "Advanced" toggle right by the "Save" button. These upcoming steps require the advanced settings to be turned on.
-10. Try different WINE versions. wine-ge-8-26-x86_64 is known good.
+10. Try different WINE versions. wine-ge-8-26-x86_64 is known good. GE-Proton (Latest) (Default)/GE-Proton10-34 is laggy.
 11. On the Graphics box, enable everything, and make sure they're at the latest version of each.
 12. If your kernel supports it, turn on _**both**_ Esync & Fsync. My kernel does, so I turn both on. If you can only do Esync, that's fine too.
 13. Disable AMD FidelityFX Super Resolution (FSR), BattlEye Anti-Cheat, Easy Anti-Cheat.
@@ -37,17 +37,30 @@
 | VK3D_CONFIG       | no_upload_hvv |                    |
 20. (CachyOS only) Under Game execution box > Command prefix, you need to put `game-performance`.
 21. Save the game, launch it, & log in.
-22. Select your game, click the blue "Setup" button, then find where you have the game installed. I create a symlink for each game in `~/.local/share/wineprefixes/cod/drive_c/users/soders/Favorites/` & they appear in WINE Explorers Quick Access favorites.  
-  
-**Notes:**  
-- WINE prefix size: 2.4 GiB.  
-- GLCache size: 420.4 MiB (growing?).  
-- plutonium.exe 4.6 MiB.  
-  
-**Sources:**  
-https://forum.plutonium.pw/topic/39182/installing-plutonium-on-linux-with-nvidia-gpu-full-guide  
-https://www.protondb.com/app/42700#hOEbj8TTKj  
-  
-### Mods directories:  
-`C:\Users\Name\AppData\Local\Plutonium\storage\t6\scripts\zm`  
-`C:\Users\Name\AppData\Local\Plutonium\storage\t6\scripts\mp`  
+22. Select your game, click the blue "Setup" button, then find where you have the game installed. I create a symlink for each game in `~/.local/share/wineprefixes/cod/drive_c/users/soders/Favorites/` & they appear in WINE Explorers Quick Access favorites.
+
+**Notes:**
+- WINE prefix size: 2.4 GiB.
+- GLCache size: 420.4 MiB (growing?).
+- plutonium.exe 4.6 MiB.
+- Steam automatically creates a Wine prefix; for Black Ops 1 it's located `../steamapps/compatdata/42700/pfx/`. If you're only playing 1 game use Steams Wine prefix.
+- Game ownership may need to be verified on Windows beforehand.*
+
+**Sources:**
+https://forum.plutonium.pw/topic/39182/installing-plutonium-on-linux-with-nvidia-gpu-full-guide
+https://www.protondb.com/app/42700#hOEbj8TTKj
+https://www.pcgamingwiki.com/wiki/Call_of_Duty:_Black_Ops#Configuration_file.28s.29_location
+
+### Mods directories:
+`C:\Users\Name\AppData\Local\Plutonium\storage\t6\scripts\zm`
+`C:\Users\Name\AppData\Local\Plutonium\storage\t6\scripts\mp`
+
+### Config directories:
+`/home/soders/.steam/debian-installation/steamapps/common/Call of Duty Black Ops II/players`
+`~/.local/share/wineprefixes/cod/drive_c/users/soders/AppData/Local/Plutonium/storage/`
+T4 directory contains `$$$`, scripts dislike this character in paths. Solution: Create a symlink thru the context menu as a proxy.
+
+### Console Commands:
+| Command: | Description:          |
+| -------- | --------------------- |
+| cg_fov   | Change field of view. |
