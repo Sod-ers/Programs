@@ -38,28 +38,25 @@
 20. (CachyOS only) Under Game execution box > Command prefix, you need to put `game-performance`.
 21. Save the game, launch it, & log in.
 22. Select your game, click the blue "Setup" button, then find where you have the game installed. I create a symlink for each game in `~/.local/share/wineprefixes/cod/drive_c/users/soders/Favorites/` & they appear in WINE Explorers Quick Access favorites.
-
-**Notes:**
-- WINE prefix size: 2.4 GiB.
-- GLCache size: 420.4 MiB (growing?).
-- plutonium.exe 4.6 MiB.
-- Steam automatically creates a Wine prefix; for Black Ops 1 it's located `../steamapps/compatdata/42700/pfx/`. If you're only playing 1 game use Steams Wine prefix.
-- Game ownership may need to be verified on Windows beforehand.*
-
-**Sources:**
-https://forum.plutonium.pw/topic/39182/installing-plutonium-on-linux-with-nvidia-gpu-full-guide
-https://www.protondb.com/app/42700#hOEbj8TTKj
-https://www.pcgamingwiki.com/wiki/Call_of_Duty:_Black_Ops#Configuration_file.28s.29_location
-
+  
+**Notes:**  
+- WINE prefix size: 2.4 GiB.  
+- GLCache size: 420.4 MiB (growing?).  
+- plutonium.exe 4.6 MiB.  
+- Steam automatically creates a Wine prefix; for Black Ops 1 it's located `../steamapps/compatdata/42700/pfx/`. If you're only playing 1 game use Steams Wine prefix.  
+- Game ownership may need to be verified on Windows beforehand.*  
+  
+**Sources:**  
+https://forum.plutonium.pw/topic/39182/installing-plutonium-on-linux-with-nvidia-gpu-full-guide  
+https://www.protondb.com/app/42700#hOEbj8TTKj  
+https://www.pcgamingwiki.com/wiki/Call_of_Duty:_Black_Ops#Configuration_file.28s.29_location  
 ### Mods directories:
-`C:\Users\Name\AppData\Local\Plutonium\storage\t6\scripts\zm`
-`C:\Users\Name\AppData\Local\Plutonium\storage\t6\scripts\mp`
-
+`C:\Users\Name\AppData\Local\Plutonium\storage\t6\scripts\zm`  
+`C:\Users\Name\AppData\Local\Plutonium\storage\t6\scripts\mp`  
 ### Config directories:
-`/home/soders/.steam/debian-installation/steamapps/common/Call of Duty Black Ops II/players`
-`~/.local/share/wineprefixes/cod/drive_c/users/soders/AppData/Local/Plutonium/storage/`
-T4 directory contains `$$$`, scripts dislike this character in paths. Solution: Create a symlink thru the context menu as a proxy.
-
+`/home/soders/.steam/debian-installation/steamapps/common/Call of Duty Black Ops II/players`  
+`~/.local/share/wineprefixes/cod/drive_c/users/soders/AppData/Local/Plutonium/storage/`  
+T4 directory contains `$$$`, scripts dislike this character in paths.   Solution: Create a symlink thru the context menu as a proxy.  
 ### Console Commands:
 | Command: | Description:          |
 | -------- | --------------------- |
