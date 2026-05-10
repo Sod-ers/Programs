@@ -27,3 +27,5 @@
 | [Configuration for Windows](https://github.com/Zabooby/mpv-config)                                                                                       |
 | [Shaders](https://github.com/iwalton3/default-shader-pack)                                                                                               |
 | [ff2mpv](https://github.com/woodruffw/ff2mpv)                                                                                                            |
+| [Plex HTPC-Inspired theme](https://github.com/LitCastVlog/MPV-Plex-Inspired-OSC-Theme)                                                                   |
+| [thumbfast](https://github.com/po5/thumbfast)                                                                                                            |
