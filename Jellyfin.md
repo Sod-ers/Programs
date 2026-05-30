@@ -59,6 +59,7 @@
 | [Nyan Cat Progress Bar](https://userstyles.world/style/23231/nyan-cat-progress-bar-for-jellyfin)             | Progress bar.                                                                                                                                                   |
 | [Playlifin](https://flathub.org/apps/net.krafting.Playlifin)                                                 | Converts a Youtube Music playlist to a Jellyfin playlist.                                                                                                       |
 | [Playlifin Voyager](https://flathub.org/apps/net.krafting.PlaylifinVoyager)                                  | Export & import playlists from & to your Jellyfin server.                                                                                                       |
+| [Plezy](https://github.com/edde746/plezy)                                                                    | Modern cross-platform Plex & Jellyfin client.                                                                                                                   |
 | [Sashimi](https://github.com/mondominator/sashimi/)                                                          | tvOS client.                                                                                                                                                    |
 | [Scyfin](https://github.com/loof2736/scyfin)                                                                 | WebUI theme.                                                                                                                                                    |
 | [Scyfin-mod](https://github.com/LitCastVlog/scyfin-mod)                                                      | WebUI theme.                                                                                                                                                    |
@@ -80,4 +81,9 @@ Fix Jellyfin XML error on startup: https://forum.jellyfin.org/t-solved-xml-error
 
 `mkdir /tmp/jellyfin/` before launching & use Flatseal to allow access to `/tmp/jellyfin/` if insufficient space.  
   
-Always shutdown before updating Jellyfin.
+Always shutdown before updating Jellyfin.  
+  
+### Fix for: Server Mismatch
+The server you are connecting to is not the same server that you previously connected to at this address. If this is expected, please select "Connect Anyway". Otherwise, your connection or the server might be compromised.  
+  
+Clear browser cache/history/logins.  

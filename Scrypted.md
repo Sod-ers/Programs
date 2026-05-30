@@ -1,0 +1,5 @@
+- RTSP address is dynamic & changes during internet restart.
+- Do not disable audio in Scrypted, do it in camera app. (stream won't load).
+- `sudo docker ps` to check status.
+- Use rebroadcast stream address to connect client viewers.
+- Open required ports.
