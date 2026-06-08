@@ -1,16 +1,20 @@
 
 | Plugin:                                                                                           | Description:                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Actions URI](https://github.com/czottmann/obsidian-actions-uri)                                  | Adds additional `x-callback-url` endpoints to the app for common actions.                                                                             |
 | [Automatic Table of Contents](https://github.com/johansatge/obsidian-automatic-table-of-contents) | Create a table of contents in a note, that updates itself when the note changes.                                                                      |
 | [CardBoard](https://github.com/roovo/obsidian-card-board)                                         | Display markdown tasks on kanban-style boards.                                                                                                        |
 | [Ctrl Click Links](https://github.com/eikowagenknecht/obsidian-ctrl-click-links)                  | Require Ctrl + Click to open links.                                                                                                                   |
 | [Duplicate detector](https://github.com/Wishmater/obsidian-plugin-duplicate-detector)             | Highlights duplicate lines in the active open note. Hovering over a highlighted line will show a tooltip with the line number where it is duplicated. |
+| [ExcaliBrain](https://github.com/zsviczian/excalibrain)                                           | Graph view to navigate your vault.                                                                                                                    |
 | [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)                             | Virtual whiteboard.                                                                                                                                   |
 | [Git](https://github.com/Vinzent03/obsidian-git)                                                  | Integrate Git version control with automatic commit-&-sync & other advanced features in Obsidian.md                                                   |
 | [Kanban](https://github.com/mgmeyers/obsidian-kanban)                                             | Create markdown-backed Kanban boards.                                                                                                                 |
 | [Print](https://github.com/marijnbent/obsidian-print)                                             | Print your notes directly from Obsidian.                                                                                                              |
+| [Reminders](https://github.com/uphy/obsidian-reminder)                                            | Adds feature to manage markdown TODOs.                                                                                                                |
 | [Sort and Permute lines](https://github.com/Vinzent03/obsidian-sort-and-permute-lines)            | Sort & Permute lines in whole file or selection.                                                                                                      |
 | [Table Sorting](https://github.com/kraibse/obsidian-table-sorting)                                | Organize your tables non-destructively, sorting by multiple columns is supported.                                                                     |
+| [Typewriter Mode](https://github.com/davisriedel/obsidian-typewriter-mode)                        | A distraction-free writing environment.                                                                                                               |
 
 URI examples:  
 obsidian://open?vault=Programs\  
@@ -27,4 +31,6 @@ Disable automatic update checking.
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Obsidian Eistenhower Matrix. | [https://forum.obsidian.md/t/eisenhower-matrix-kanban-style/77729](https://forum.obsidian.md/t/eisenhower-matrix-kanban-style/77729)  <br>[https://tfthacker.com/eisenhower-matrix-kanban](https://tfthacker.com/eisenhower-matrix-kanban)  <br>[https://help.obsidian.md/snippets](https://help.obsidian.md/snippets)  <br>[https://help.obsidian.md/properties](https://help.obsidian.md/properties)  <br>[https://www.browserstack.com/guide/how-to-use-css-rgba](https://www.browserstack.com/guide/how-to-use-css-rgba) |
   
-Use Flatpak to remember window size/position.
+Use Flatpak to remember window size/position.  
+  
+[Syncing Obsidian with Nexcloud.](https://rshyn.site/posts/sync-obsidian-with-nextcloud.html)

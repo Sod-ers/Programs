@@ -3,6 +3,10 @@
 
 | Key:                 | Command:                          |
 | -------------------- | --------------------------------- |
+| g                    | set gif start                     |
+| G                    | set gif end                       |
+| Ctrl+g               | render gif                        |
+| Ctrl+G               | render gif with subtitles         |
 | LEFT                 | playlist-prev                     |
 | RIGHT                | playlist-next                     |
 | MBTN_LEFT            | playlist-prev                     |
@@ -21,19 +25,23 @@
 | S                    | cycle sub-visibility              |
 **mpv-shim:**
 
-| Key:                 | Command:              |
-| -------------------- | --------------------- |
-| Ctrl+Alt+Shift+Up    | add volume 5          |
-| Ctrl+Alt+Shift+Down  | add volume -5         |
-| Ctrl+Alt+Shift+Left  | seek  -3              |
-| Ctrl+Alt+Shift+Right | seek  3               |
-| Ctrl+Alt+Shift+Space | cycle pause           |
-| Left                 | frame-back-step       |
-| Right                | frame-step            |
-| Enter                | screenshot            |
-| shift+enter          | screenshot each-frame |
-| s                    | cycle sub-visibility  |
-| S                    | cycle sub-visibility  |
+| Key:                 | Command:                  |
+| -------------------- | ------------------------- |
+| g                    | set gif start             |
+| G                    | set gif end               |
+| Ctrl+g               | render gif                |
+| Ctrl+G               | render gif with subtitles |
+| Ctrl+Alt+Shift+Up    | add volume 5              |
+| Ctrl+Alt+Shift+Down  | add volume -5             |
+| Ctrl+Alt+Shift+Left  | seek  -3                  |
+| Ctrl+Alt+Shift+Right | seek  3                   |
+| Ctrl+Alt+Shift+Space | cycle pause               |
+| Left                 | frame-back-step           |
+| Right                | frame-step                |
+| Enter                | screenshot                |
+| shift+enter          | screenshot each-frame     |
+| s                    | cycle sub-visibility      |
+| S                    | cycle sub-visibility      |
 **mpv-rtsp:**
 
 | Key:  | Command:      |

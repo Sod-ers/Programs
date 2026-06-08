@@ -1,14 +1,19 @@
 Edit > Preferences > Tool options > Move tool > Set layer or path as active
 
-| Description:                                        | Resource:                                                                                               |
-| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| Make eraser completely erase.                       | https://www.reddit.com/r/GIMP/comments/46u44b/help_just_trying_to_get_the_eraser_tool_to/               |
-| How to center a layer.                              | https://imagy.app/how-to-center-a-layer-in-gimp/                                                        |
-| Converting color images to B&W.                     | https://www.gimp.org/tutorials/Color2BW/                                                                |
-| Use custom path for plugins & Flatseal to allow it. | https://askubuntu.com/questions/1044101/how-to-use-plugins-with-gimp-2-10-flatpak                       |
-| Add gradient to text.                               | https://graphicdesign.stackexchange.com/questions/162899/how-do-i-add-gradient-fill-across-text-in-gimp |
-| Batch image processing plug-in.                     | https://github.com/kamilburda/batcher                                                                   |
-| Resynthesizer Plugin Suite.                         | https://github.com/bootchk/resynthesizer                                                                |
+| Description:                                        | Resource:                                                                                                     |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Make eraser completely erase.                       | https://www.reddit.com/r/GIMP/comments/46u44b/help_just_trying_to_get_the_eraser_tool_to/                     |
+| How to center a layer.                              | https://imagy.app/how-to-center-a-layer-in-gimp/                                                              |
+| Converting color images to B&W.                     | https://www.gimp.org/tutorials/Color2BW/                                                                      |
+| Use custom path for plugins & Flatseal to allow it. | https://askubuntu.com/questions/1044101/how-to-use-plugins-with-gimp-2-10-flatpak                             |
+| Add gradient to text.                               | https://graphicdesign.stackexchange.com/questions/162899/how-do-i-add-gradient-fill-across-text-in-gimp       |
+| Batch image processing plug-in.                     | https://github.com/kamilburda/batcher                                                                         |
+| Resynthesizer Plugin Suite.                         | https://github.com/bootchk/resynthesizer                                                                      |
+| Draw a rectangle.                                   | https://www.reddit.com/r/GIMP/comments/1pa6142/drawing_a_rectangle_with_306/                                  |
+| Vertcial Text.                                      | https://youtu.be/xnJUDlUqEu0                                                                                  |
+| Outline a shape.                                    | https://www.gimp-forum.net/Thread-Outline-of-a-shape?pid=32395#pid32395                                       |
+| Monochrome.                                         | https://www.gimp-forum.net/Thread-Monochrome-png-exports-as-grayscale-antialiased-RESOLVED?pid=46689#pid46689 |
+| Threshold.                                          | https://docs.gimp.org/3.2/en/gimp-tool-threshold.html                                                         |
 
 Grocery Images: 300 x 300  
 ### Troubleshooting:  

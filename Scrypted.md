@@ -3,3 +3,4 @@
 - `sudo docker ps` to check status.
 - Use rebroadcast stream address to connect client viewers.
 - Open required ports.
+- OpenCV Motion Detection plugin.
