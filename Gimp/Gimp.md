@@ -14,20 +14,27 @@ Edit > Preferences > Tool options > Move tool > Set layer or path as active
 | Outline a shape.                                    | https://www.gimp-forum.net/Thread-Outline-of-a-shape?pid=32395#pid32395                                       |
 | Monochrome.                                         | https://www.gimp-forum.net/Thread-Monochrome-png-exports-as-grayscale-antialiased-RESOLVED?pid=46689#pid46689 |
 | Threshold.                                          | https://docs.gimp.org/3.2/en/gimp-tool-threshold.html                                                         |
+| Newsprint aka Halftone.                             | https://docs.gimp.org/2.10/en/plug-in-newsprint.html                                                          |
 
 Grocery Images: 300 x 300  
 ### Troubleshooting:  
   
-`bwrap: execvp gimp-3.0: No such file or directory`
+`bwrap: execvp gimp-3.0: No such file or directory`  
 When GIMP upgrades, the launch command needs to be updated:  
 From:  
 `/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=gimp-3.0 --file-forwarding org.gimp.GIMP @@u %U @@`  
 To:  
 `/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=gimp-3.2 --file-forwarding org.gimp.GIMP @@u %U @@`  
-Plugins & Patches will have to be reapplied
-
-### Change Loading Splash Screen:
-Add/remove images here: `~/.config/GIMP/3.2/splashes/`
-
-### Install Plugins:
-`~/.config/GIMP/3.2/plug-ins/`
+Plugins & Patches will have to be reapplied  
+  
+---
+Grow selection fails, grayed out: Make new layer & copy over what needs to grow.  
+  
+### Change Loading Splash Screen:  
+Add/remove images here: `~/.config/GIMP/3.2/splashes/`  
+  
+### Install Plugins:  
+`~/.config/GIMP/3.2/plug-ins/`  
+  
+### Snap Bounding Boxes:  
+gimp > view > select to bounding boxes  

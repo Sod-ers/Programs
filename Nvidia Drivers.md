@@ -41,13 +41,18 @@ cat /proc/driver/nvidia/version
 inxi -Gx
 ```
 Reboot twice to fix monitor/panel names.  
-Update Flatpak afterwards to fix "No available configurations for the given pixel format" error.
-
-### The difference between metapackage & open kernel drivers:
-https://ubuntu-mate.community/t/open-kernel-drivers-and-metapackage-tested/31058/2
-
+Update Flatpak afterwards to fix "No available configurations for the given pixel format" error.  
+  
+### The difference between metapackage & open kernel drivers:  
+https://ubuntu-mate.community/t/open-kernel-drivers-and-metapackage-tested/31058/2  
+  
 Metapackages: A collection of packages to install, meant for older GPUs.  
-Open Kernel: Drivers with community contributions, meant for modern GPUs.
-
-### Changelogs:
-https://github.com/NVIDIA/open-gpu-kernel-modules/releases
+Open Kernel: Drivers with community contributions, meant for modern GPUs.  
+  
+Whether or not the Nvidia driver & Kernel modules will work with a specific kernel version is based on how their installation is handled.  
+  
+### Changelogs:  
+https://github.com/NVIDIA/open-gpu-kernel-modules/releases  
+  
+### Misc:  
+[Troubleshooting NVIDIA driver issues after Kernel update on Ubuntu.](https://oneuptime.com/blog/post/2026-03-02-how-to-troubleshoot-nvidia-driver-issues-after-kernel-update-on-ubuntu/view)  

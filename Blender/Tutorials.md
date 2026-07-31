@@ -13,9 +13,11 @@
 | [Show statistics](https://blenderartists.org/t/where-are-the-statistics-info-at-the-lower-right-in-blender-4-1/1531837)                                              |
 | [Change middle mouse scroll zoom sensitivity/depth](https://blenderartists.org/t/is-there-a-way-to-change-mmb-scroll-zoom-sensitivity/1488326/3)                     |
 | [Viewport clipping parameters](https://blender.stackexchange.com/questions/4946/where-can-the-viewport-clipping-parameters-be-changed)                               |
-| [Move an object to center (0 0 0)](https://www.reddit.com/r/blender/comments/1ahm2kk/how_can_i_move_an_object_to_the_center_origin_of/)                              |
+| [Prevent objects from fading into the void](https://www.reddit.com/r/blender/comments/1acjxra/comment/kjv5jvz/)                                                      |
+| [Move an object to center (0 0 0)](https://www.reddit.com/r/blender/comments/1ahm2kk/comment/kor0tku/)                                                               |
 | [Rotate an object around its own axis](https://blenderartists.org/t/how-do-i-rotate-an-object-around-its-own-axis-while-its-already-parented-to-an-object/1283664/2) |
 | [Loop cuts](https://docs.blender.org/manual/en/latest/modeling/meshes/tools/loop.html)                                                                               |
+| [Move loop cuts along constraint](https://www.reddit.com/r/blender/comments/ur0kut/comment/i8ua6us/)                                                                 |
 | [Bend objects with Simple Deform](https://youtu.be/GlLjLkPsGyk)                                                                                                      |
 | [Extrude outwards](https://www.reddit.com/r/blenderhelp/comments/11c65qd/how_do_you_extrude_outwardly_like_shown_in_the/)                                            |
 | [Scale & extrude together](https://www.reddit.com/r/blenderhelp/comments/16sm2qs/how_do_you_inset_a_face_like_this_without/)                                         |
@@ -34,6 +36,7 @@
 | [Delete all unused materials](https://youtu.be/QiRDcCb5Rds?si=GM4kUpE0WEwcwTVQ)                                                                                      |
 | [Delete unwanted materials forcefully](https://blenderartists.org/t/solved-can-i-get-rid-of-unwanted-materials/1418352/5)                                            |
 | [Normal Map node](https://docs.blender.org/manual/en/latest/render/shader_nodes/displacement/normal_map.html)                                                        |
+| [Place camera at current view](https://www.reddit.com/r/blender/comments/1rhere/comment/cdnctub/)                                                                    |
 
 | Maybe Useful:                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -84,6 +87,8 @@
 | [Evenly space vertices](https://www.youtube.com/shorts/q9pqD5SXskM)                                                                       |
 | [Use backface culling to avoid flipped normals](https://youtu.be/7Oqayyw4yNU)                                                             |
 | [Dragon (lowpoly)](https://youtu.be/qE-ziO5hPaQ)                                                                                          |
+| [Select every second edge loop](https://www.reddit.com/r/blender/comments/lsn0lm/comment/gos6hn0/)                                        |
+| [Middle mouse button alternative shortcut](https://blender.stackexchange.com/questions/119784/middle-mouse-key-alternative)               |
 ### Source Engine:
 | Tutorials:                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------- |

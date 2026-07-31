@@ -1,0 +1,1 @@
+- Use default file manager when importing APKs to installer.

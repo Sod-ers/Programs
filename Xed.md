@@ -1,0 +1,1 @@
+Plugins > Disable: `Save Without Trailing Spaces`

@@ -1,6 +1,6 @@
 ### Keybinds:
 **mpv:**
-
+  
 | Key:                 | Command:                          |
 | -------------------- | --------------------------------- |
 | g                    | set gif start                     |
@@ -24,7 +24,7 @@
 | s                    | cycle sub-visibility              |
 | S                    | cycle sub-visibility              |
 **mpv-shim:**
-
+  
 | Key:                 | Command:                  |
 | -------------------- | ------------------------- |
 | g                    | set gif start             |
@@ -36,14 +36,16 @@
 | Ctrl+Alt+Shift+Left  | seek  -3                  |
 | Ctrl+Alt+Shift+Right | seek  3                   |
 | Ctrl+Alt+Shift+Space | cycle pause               |
-| Left                 | frame-back-step           |
-| Right                | frame-step                |
+| Up                   | add volume 5              |
+| Down                 | add volume -5             |
+| Left                 | seek -3                   |
+| Right                | seek 3                    |
 | Enter                | screenshot                |
 | shift+enter          | screenshot each-frame     |
 | s                    | cycle sub-visibility      |
 | S                    | cycle sub-visibility      |
 **mpv-rtsp:**
-
+  
 | Key:  | Command:      |
 | ----- | ------------- |
 | ENTER | screenshot    |

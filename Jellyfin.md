@@ -73,17 +73,25 @@
 | [Wholphin](https://github.com/damontecres/Wholphin)                                                          | Android TV client.                                                                                                                                              |
 | [ytdl-sub](https://github.com/jmbannon/ytdl-sub)                                                             | Lightweight tool to automate downloading & metadata generation with yt-dlp.                                                                                     |
 | [ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM)                                                         | Script to serve Youtube/Twitch/Crunchyroll videos without storing it.                                                                                           |
-### Misc:
+### Misc:  
 Restoring backup: change ownership after deployment:  
 ``sudo chown -R jellyfin: /var/lib/jellyfin /etc/jellyfin``  
-
+  
 Fix Jellyfin XML error on startup: https://forum.jellyfin.org/t-solved-xml-error-on-startup  
-
+  
 `mkdir /tmp/jellyfin/` before launching & use Flatseal to allow access to `/tmp/jellyfin/` if insufficient space.  
   
 Always shutdown before updating Jellyfin.  
   
-### Fix for: Server Mismatch
+### Fix for: Server Mismatch  
 The server you are connecting to is not the same server that you previously connected to at this address. If this is expected, please select "Connect Anyway". Otherwise, your connection or the server might be compromised.  
   
 Clear browser cache/history/logins.  
+### Directories:  
+| Description:                   | Directory:                                                                |
+| ------------------------------ | ------------------------------------------------------------------------- |
+| Intro Skipper database & cache | ~/.var/app/org.jellyfin.JellyfinServer/data/jellyfin/data/introskipper/   |
+| Playlists                      | ~/.var/app/org.jellyfin.JellyfinServer/data/jellyfin/data/playlists/      |
+| Plugins                        | ~/.var/app/org.jellyfin.JellyfinServer/data/jellyfin/plugins/             |
+| Scheduled Tasks                | ~/.var/app/org.jellyfin.JellyfinServer/data/jellyfin/data/ScheduledTasks/ |
+| Subtitles                      | ~/.var/app/org.jellyfin.JellyfinServer/data/jellyfin/data/subtitles/      |
