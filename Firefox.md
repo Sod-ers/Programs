@@ -16,6 +16,7 @@
 | [Block Site](https://addons.mozilla.org/en-US/firefox/addon/block-website/)                                         | A customizable, password-protected website blocker & redirector.                                                                                                                                       |
 | [Bookmark Info](https://addons.mozilla.org/en-US/firefox/addon/bookmark-info/)                                      | Improves the browser's capabilities for working with bookmarks.                                                                                                                                        |
 | [Broken Link Checker](https://addons.mozilla.org/en-US/firefox/addon/find-broken-links/)                            | A SEO tool to find broken (404) & redirected (301, 307, 308) links in all frames.                                                                                                                      |
+| [Caffeine: Keep your screen awake](https://addons.mozilla.org/en-US/firefox/addon/caffeine-keep-screen-awake/)      | Prevent display from sleeping on websites you choose.                                                                                                                                                  |
 | [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)                                      | Alters some JS APIs to prevent fingerprinting.                                                                                                                                                         |
 | [Clear Browsing Data](https://addons.mozilla.org/en-US/firefox/addon/clear-browsing-data/)                          | Delete browsing data directly from the browser toolbar.                                                                                                                                                |
 | [Clear Cache](https://addons.mozilla.org/en-US/firefox/addon/clearcache)                                            | Clear browser cache with a single click or via the F9 key.                                                                                                                                             |
@@ -43,7 +44,6 @@
 | [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)                        | Take control of YouTube & boost your user experience.                                                                                                                                                  |
 | [External Application Button](https://addons.mozilla.org/en-US/firefox/addon/external-application/)                 | A highly customizable external application button & context-menu items.                                                                                                                                |
 | [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)                            | Prevent Facebook from tracking you around the web.                                                                                                                                                     |
-| [Fakespot](https://addons.mozilla.org/en-US/firefox/addon/fakespot-fake-reviews-amazon/)                            | Protect yourself from bad sellers & fake reviews on Amazon & more.                                                                                                                                     |
 | [ff2mpv](https://addons.mozilla.org/en-US/firefox/addon/ff2mpv/)                                                    | Tries to play links in mpv.                                                                                                                                                                            |
 | [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)        | Lets you keep parts of your online life separated into color-coded tabs.                                                                                                                               |
 | [Firefox Relay](https://addons.mozilla.org/en-US/firefox/addon/private-relay/)                                      | Makes it easy to create email masks that forward to your true inbox.                                                                                                                                   |
@@ -103,7 +103,6 @@
 | [Tab Session Manager](https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager/)                          | Save & restore the state of windows & tabs.                                                                                                                                                            |
 | [Tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/)                                                  | A beautiful New Tab page with many customizable backgrounds & widgets.                                                                                                                                 |
 | [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)                                        | Userscript manager.                                                                                                                                                                                    |
-| [The Camelizer](https://addons.mozilla.org/en-US/firefox/addon/the-camelizer-price-history-ch/)                     | Adds price history charts & price watch features to Firefox when viewing product pages on Amazon.                                                                                                      |
 | [TinEye Reverse Image Search](https://addons.mozilla.org/en-US/firefox/addon/tineye-reverse-image-search/)          | Discover where an image came from, see how it is being used, check if modified versions exist or locate high resolution versions.                                                                      |
 | [Toggle Image Animations](https://addons.mozilla.org/en-US/firefox/addon/toggleanigif/)                             | Disables or enables the animation of images.                                                                                                                                                           |
 | [Tomato Clock](https://addons.mozilla.org/en-US/firefox/addon/tomato-clock/)                                        | Helps with online time management.                                                                                                                                                                     |
@@ -124,6 +123,7 @@
 | --------------------------------------------------------------------------------------------------------- |
 | [Adobe Collection](https://addons.mozilla.org/en-US/firefox/user/8519478/)                                |
 | [Adobe Flash](https://addons.mozilla.org/en-US/firefox/addon/adobe-flash/)                                |
+| [Arctic Nord Theme](https://addons.mozilla.org/en-US/firefox/addon/arctic-nord-theme/)                    |
 | [Aura Theme](https://addons.mozilla.org/en-US/firefox/addon/aura-theme/)                                  |
 | [Blue](https://addons.mozilla.org/en-US/firefox/addon/blueblueblueblueblue/)                              |
 | [Blueprint](https://addons.mozilla.org/en-US/firefox/addon/light-blueprint/)                              |
@@ -137,6 +137,7 @@
 | [Gruvbox](https://addons.mozilla.org/en-US/firefox/addon/gruvboxgruvboxgruvboxgruvboxgr/)                 |
 | [Light Dracula](https://addons.mozilla.org/en-US/firefox/addon/light-dracula/)                            |
 | [macOS Dark](https://addons.mozilla.org/en-US/firefox/addon/macos-dark/)                                  |
+| [Magical aristocracy](https://addons.mozilla.org/en-US/firefox/addon/magical-aristocracy/)                |
 | [Matte Black (Red)](https://addons.mozilla.org/en-US/firefox/addon/matte-black-red/)                      |
 | [Modern Theme](https://addons.mozilla.org/en-US/firefox/addon/moderntheme/)                               |
 | [Modern Theme Green](https://addons.mozilla.org/en-US/firefox/addon/modernthemegreen/)                    |
@@ -145,6 +146,7 @@
 | [Painter's Tape Light Blue](https://addons.mozilla.org/en-US/firefox/addon/painter-s-tape-light-blue/)    |
 | [Reddit (Dark)](https://addons.mozilla.org/en-US/firefox/addon/reddit-dark/)                              |
 | [Retro Themes Collection](https://github.com/matthewmx86/RetroThemesFirefox)                              |
+| [seaglass](https://addons.mozilla.org/en-US/firefox/addon/seaglass-purple/)                               |
 | [Shades of Purple](https://addons.mozilla.org/en-US/firefox/addon/shades-of-purple-milav/)                |
 | [Shades of Purple-Redux](https://addons.mozilla.org/en-US/firefox/addon/shades-of-purple-redux/)          |
 | [Tokyo Night](https://addons.mozilla.org/en-US/firefox/addon/tokyo-night-milav/)                          |
@@ -155,8 +157,10 @@
 ### Config:
 | Option:                                          | Value: |
 | ------------------------------------------------ | ------ |
-| widget.non-native-theme.scrollbar.style          | 4      |
+| browser.sessionstore.max_resumed_crashes         | 0      |
+| browser.sessionstore.resume_from_crash           | false  |
 | layout.testing.overlay-scrollbars.always-visible | true   |
 | sidebar.revamp                                   | false  |
+| widget.non-native-theme.scrollbar.style          | 4      |
 ### Notes:
 - Rename stylus.json to stylus.txt for mobile import.  

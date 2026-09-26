@@ -10,6 +10,7 @@
 | [Burn My Windows](https://extensions.gnome.org/extension/4679/burn-my-windows/)                                  | Disintegrate your windows with style.                                                                      |
 | [Caffeine](https://extensions.gnome.org/extension/517/caffeine/)                                                 | Disable the screensaver & auto suspend.                                                                    |
 | [Cloudflare Warp Toggle](https://extensions.gnome.org/extension/5982/cloudflare-warp-toggle/)                    | Toggle cloudflare warp in quick settings.                                                                  |
+| [Cursor Size](https://extensions.gnome.org/extension/9202/cursor-size/)                                          | Easily adjust your mouse cursor size with a simple & intuitive interface.                                  |
 | [Customize Clock on Lock Screen](https://extensions.gnome.org/extension/4663/customize-clock-on-lock-screen/)    | Customize clock on lock screen.                                                                            |
 | [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)                                         | A dock for the Shell.                                                                                      |
 | [ddterm](https://extensions.gnome.org/extension/3780/ddterm/)                                                    | Drop down terminal.                                                                                        |
@@ -20,6 +21,7 @@
 | [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)                                  | Tweak tool to customize the Shell.                                                                         |
 | [Lockscreen Extension](https://extensions.gnome.org/extension/7472/lockscreen-extension/)                        | Customize the lockscreen from the lockscreen itself.                                                       |
 | [Logo Menu](https://extensions.gnome.org/extension/4451/logo-menu/)                                              | A menu similar to Apple's macOS menu.                                                                      |
+| [No overview at start-up](https://extensions.gnome.org/extension/4099/no-overview/)                              | No overview at start-up.                                                                                   |
 | [Open .desktop file location](https://extensions.gnome.org/extension/7865/open-desktop-file-location/)           | Opens the location of the applications .desktop file.                                                      |
 | [Pano - Clipboard Manager](https://extensions.gnome.org/extension/5278/pano/)                                    | Clipboard manager.                                                                                         |
 | [Places Status Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/)                     | Adds a menu for quickly navigating places in the system.                                                   |
@@ -31,3 +33,6 @@
 | [Top Bar Organizer](https://extensions.gnome.org/extension/4356/top-bar-organizer/)                              | Organize the items of the top (menu) bar.                                                                  |
 | [User Themes](https://extensions.gnome.org/extension/19/user-themes/)                                            | Load shell themes from user directory.                                                                     |
 | [Wiggle](https://extensions.gnome.org/extension/6784/wiggle/)                                                    | Magnifies the cursor when the mouse is moved rapidly.                                                      |
+### Workspaces:
+**Settings > Multitasking > enable "Fixed number of workspaces"**  
+Number of Workspaces: 1  

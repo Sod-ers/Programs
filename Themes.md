@@ -43,6 +43,7 @@
 | Hammer++             | [Darker++](https://github.com/source-br/Darkerplusplus)                                                                           |
 | Illustrator Swatches | [Dracula](https://github.com/dracula/adobe)                                                                                       |
 | Image Glass          | [Dark](https://imageglass.org/theme/default-dark-maatarashiii-46)                                                                 |
+| Image Glass          | [Dracula](https://imageglass.org/themes/dracula-felkon-43)                                                                        |
 | Image Glass Icons    | [Resolute Bay icon set (H-one Design)](https://imageglass.org/extension-icon/resolute-bay-icon-set-h-one-design-3)                |
 | Inkscape             | [Dracula](https://github.com/dracula/inkscape)                                                                                    |
 | IrfanView            | emil_32                                                                                                                           |

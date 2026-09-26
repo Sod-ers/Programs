@@ -69,7 +69,7 @@
 | [Theme collection](https://forum.jellyfin.org/f-themes-styles?datecut=9999&prefix=0&sortby=views&order=desc) | Themes from the forums.                                                                                                                                         |
 | [TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker)                                              | An automated title card maker for Plex, Jellyfin, & Emby media servers.                                                                                         |
 | [TraSH-Guides](https://trash-guides.info/)                                                                   | Guides to configure servarr apps.                                                                                                                               |
-| [WatchState](https://github.com/arabcoders/watchstate)                                                       | sync your backends **users** play state without relying on third party services, out of the box, this tool support `Jellyfin`, `Plex` and `Emby` media servers. |
+| [WatchState](https://github.com/arabcoders/watchstate)                                                       | Sync your backends **users** play state without relying on third party services, out of the box, this tool support `Jellyfin`, `Plex` and `Emby` media servers. |
 | [Wholphin](https://github.com/damontecres/Wholphin)                                                          | Android TV client.                                                                                                                                              |
 | [ytdl-sub](https://github.com/jmbannon/ytdl-sub)                                                             | Lightweight tool to automate downloading & metadata generation with yt-dlp.                                                                                     |
 | [ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM)                                                         | Script to serve Youtube/Twitch/Crunchyroll videos without storing it.                                                                                           |
@@ -95,3 +95,4 @@ Clear browser cache/history/logins.
 | Plugins                        | ~/.var/app/org.jellyfin.JellyfinServer/data/jellyfin/plugins/             |
 | Scheduled Tasks                | ~/.var/app/org.jellyfin.JellyfinServer/data/jellyfin/data/ScheduledTasks/ |
 | Subtitles                      | ~/.var/app/org.jellyfin.JellyfinServer/data/jellyfin/data/subtitles/      |
+| WebUI theme.                   | /usr/share/jellyfin/web/ui                                                |
